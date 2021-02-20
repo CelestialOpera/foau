@@ -73,6 +73,10 @@ if = {
 	}
 }
 
+puppet = TUN
+puppet = LBA
+give_guarantee = TAB
+
 set_convoys = 500
 
 

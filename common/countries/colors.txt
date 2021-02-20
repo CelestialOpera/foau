@@ -687,6 +687,10 @@ FAF = { #DONE
 	color = rgb { 85 113 199 }
 	color_ui = rgb { 85 113 199 }
 }
+OTT = { #done
+	color = rgb { 79 25 23 }
+	color_ui = rgb { 79 25 23 }
+}
 D01 = {
 	color = rgb { 122 179 97 }
 	color_ui = rgb { 159 233 126 }
