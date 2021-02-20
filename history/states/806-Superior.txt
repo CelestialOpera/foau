@@ -1,0 +1,19 @@
+state={
+	id=806
+	name="STATE_806"
+	history={
+		owner = HBC
+		add_core_of = HBC
+		buildings = {
+			infrastructure = 2
+			
+		}
+		
+	}
+	provinces={
+		602 777 1769 4775 4875 7794 7899 10718 11571 13094
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

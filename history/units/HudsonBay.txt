@@ -1,0 +1,114 @@
+﻿##### Division Templates #####
+division_template = {
+	name = "Infantry Division"		
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 1 y = 3 }
+	}
+}
+
+division_template = {
+	name = "Colonial Militia"		
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+	}
+}
+
+division_template = {
+	name = "Cavalry Division"
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+	}
+	support = {
+		recon = { x = 0 y = 0 }  
+	}
+}
+
+##### OOB #####
+
+units = {
+	##Colonial Militias
+	division= {	
+		name = "1st Colonial Milita"
+		location = 1836
+		division_template = "Colonial Militia" 
+		start_experience_factor = 0.1
+	}
+	
+	division= {	
+		name = "2nd Colonial Milita"
+		location = 1866
+		division_template = "Colonial Militia" 
+		start_experience_factor = 0.1
+	}
+	
+	division= {	
+		name = "3rd Colonial Milita 'Orange Beards'" #Division made up mostly of Scottish men
+		location = 1262
+		division_template = "Colonial Militia" 
+		start_experience_factor = 0.23
+	}
+	
+	division= {	
+		name = "4th Colonial Milita" 
+		location = 4872
+		division_template = "Colonial Militia" 
+		start_experience_factor = 0.1
+	}
+	
+	division= {	
+		name = "5th Colonial Milita" 
+		location = 3010
+		division_template = "Colonial Militia" 
+		start_experience_factor = 0.1
+	}
+	
+	division= {	
+		name = "6th Colonial Milita" 
+		location = 10548
+		division_template = "Colonial Militia" 
+		start_experience_factor = 0.1
+	}
+	
+	#Hudson Bay Forces
+	division= {	
+		name = "1st Company Division"
+		location = 1836
+		division_template = "Infantry Division" 
+		start_experience_factor = 0.4
+	}
+	
+	division= {	
+		name = "2nd Company Division"
+		location = 11712
+		division_template = "Infantry Division" 
+		start_experience_factor = 0.4
+	}
+	
+	division= {	
+		name = "1st Company Cavalry"
+		location = 11712
+		division_template = "Cavalry Division" 
+		start_experience_factor = 0.4
+	}
+	
+	division= {	
+		name = "2nd Company Cavalry"
+		location = 7883
+		division_template = "Cavalry Division" 
+		start_experience_factor = 0.34
+	}
+	
+}
+
+###################

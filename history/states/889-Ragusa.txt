@@ -1,0 +1,26 @@
+state={
+	id=889
+	name="STATE_889"
+	
+	history={
+		owner = AUS
+		add_core_of = AUS
+		
+		victory_points = {
+			6889 3 
+		}
+
+		buildings = {
+			infrastructure = 3
+			6889 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		6889
+	}
+	manpower=563332
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

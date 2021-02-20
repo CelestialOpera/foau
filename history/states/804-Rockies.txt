@@ -1,0 +1,19 @@
+state={
+	id=804
+	name="STATE_804"
+	history={
+		owner = CAS
+		add_core_of = CAS
+		buildings = {
+			infrastructure = 5
+			
+		}
+		
+	}
+	provinces={
+		1736 1854 4838 6742 7779 12676
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,22 @@
+state={
+	id=802
+	name="STATE_802"
+	history={
+		buildings = {
+			infrastructure = 5
+			
+		}
+		owner = GOR
+		add_core_of = GOR
+		victory_points = {
+			12735 15 
+		}
+		
+	}
+	provinces={
+		1587 4594 4622 5059 7422 10192 11509 12735 12803
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

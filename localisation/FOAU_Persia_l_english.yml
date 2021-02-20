@@ -1,0 +1,31 @@
+﻿l_english:
+ 
+ #Country Name
+ PER_radical_socialism:0 "Sublime State of Persia"
+ PER_radical_socialism_DEF:0 "The Sublime State of Persia"
+ PER_radical_socialism_ADJ:0 "Persian"
+ PER_utopian_socialism:0 "Sublime State of Persia"
+ PER_utopian_socialism_DEF:0 "The Sublime State of Persia"
+ PER_utopian_socialism_ADJ:0 "Persian"
+ PER_pastoralism:0 "Sublime State of Persia"
+ PER_pastoralism_DEF:0 "The Sublime State of Persia"
+ PER_pastoralism_ADJ:0 "Persian"
+ PER_liberalism:0 "Sublime State of Persia"
+ PER_liberalism_DEF:0 "The Sublime State of Persia"
+ PER_liberalism_ADJ:0 "Persian"
+ PER_conservatism:0 "Sublime State of Persia"
+ PER_conservatism_DEF:0 "The Sublime State of Persia"
+ PER_conservatism_ADJ:0 "Persian"
+ PER_traditionalism:0 "Sublime State of Persia"
+ PER_traditionalism_DEF:0 "The Sublime State of Persia"
+ PER_traditionalism_ADJ:0 "Persian"
+ PER_staatism:0 "Sublime State of Persia"
+ PER_staatism_DEF:0 "The Sublime State of Persia"
+ PER_staatism_ADJ:0 "Persian"
+ PER_popularism:0 "Sublime State of Persia"
+ PER_popularism_DEF:0 "The Sublime State of Persia"
+ PER_popularism_ADJ:0 "Persian"
+ 
+ PER_popularism_party:0 "Jewan Irân-e"
+ PER_popularism_party_long:0 "Hezb-e Jenbesh Jewan Irân-e - Young Persian Movement Party" #Following Romanization of Persian, the romanization will become Hezabe Jenebesh Jewan Irane in the order of Jewan Irane Jenebesh Hezabe
+ 

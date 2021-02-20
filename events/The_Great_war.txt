@@ -1,0 +1,81 @@
+add_namespace = greatwar
+
+#Skirmish on French Border!
+country_event = {
+	id = greatwar.1
+	title = greatwar.1.t
+	desc = greatwar.1.d
+	#fire_only_once = yes
+	#picture = the_black_morning
+	fire_only_once = yes
+	mean_time_to_happen = {
+		days = 2
+	}
+	trigger = {
+		tag = GER
+		
+		country_exists = GER
+		country_exists = FRA
+		has_country_flag = NOT_ADDED_YET
+		
+		NOT = {
+			OR = {
+				has_war_with = FRA
+				FRA = {
+					has_completed_focus = FRALIB_morals_of_the_french_man
+				}
+				FRA = {
+					owns_state = 818
+				}
+				FRA = {
+					is_puppet_of = GER
+				}
+				
+				GER = {
+					is_puppet_of = FRA
+				}
+				
+				has_global_flag = FRENCH_CIVIL_WAR
+			}
+		}
+		
+		date > 1936.04.09
+		date < 1936.05.01
+	}
+	immediate = {
+		hidden_effect = {
+			set_global_flag = nanzig_border_incident
+		}
+	}
+	
+	#Demands To The French!
+	option = {
+		name = greatwar.1.o1
+		ai_chance = {
+			base = 85
+			modifier = {
+				add = 15
+				is_historical_focus_on = yes
+			}
+		}
+		
+		#This sends demands to the French, the French will have three choices, refuse, accept, or refuse and send own demands. If its refuse then the Germans can declare war, or incase of the demands they can accept the demands or declare war.
+	}
+	
+	#Avoid Unneeded Conflict
+	option = {
+		name = greatwar.1.o2
+		ai_chance = {
+			base = 15
+			modifier = {
+				add = -15
+				is_historical_focus_on = yes
+			}
+		}
+		
+		#This choice will give France the option to either let the situation slide or send their own demands. If France lets it slide then war is avoided! Yay. If they send their own demands, Germany can refuse which means France can declare war, or Germany can accept.
+	}
+	
+}
+
+##

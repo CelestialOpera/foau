@@ -1,0 +1,24 @@
+state={
+	id=872
+	name="STATE_872"
+	history={
+		owner = RUS
+		add_core_of = RUS
+		add_core_of = GEO
+		
+		
+		buildings = {
+			infrastructure = 3
+	
+		}
+		victory_points = {
+			9663 3
+		}
+	}
+	provinces={
+		672 9663 11599 11617 11647
+	}
+	manpower=242750
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

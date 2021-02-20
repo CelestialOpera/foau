@@ -1,0 +1,96 @@
+bookmarks = {
+	bookmark = {
+		name = "FALLACY_NAME"
+		desc = "FALLACY_DESC"
+		date = 1933.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "ENG"
+		default = yes
+		
+		"SPR"={
+			history = "SPR_FALLACY_DESC"
+			ideology = pastoralism
+			ideas = {
+			
+			}
+			focuses = {
+				
+			}
+		}
+		"TUR"={
+			history = "TUR_FALLACY_DESC"
+			ideology = liberalism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"BRA"={
+			history = "BRA_FALLACY_DESC"
+			ideology = conservatism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"ENG"={
+			history = "ENG_FALLACY_DESC"
+			ideology = liberalism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"CUL"={
+			history = "CUL_FALLACY_DESC"
+			ideology = conservatism
+			ideas = {
+				
+			}	
+			focuses = {
+				
+			}		
+		}
+		"FRA"={
+			history = "FRA_FALLACY_DESC"
+			ideology = staatism
+			ideas = {
+				FRA_nouvelle_democratie
+				FRA_growing_economic_crisis
+				FRA_defaite_honteuse
+			}	
+			focuses = {
+				
+			}			
+		}
+		"RUS"={
+			history = "RUS_FALLACY_DESC"
+			ideology = liberalism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}	
+		}
+
+		"---"={
+			history = "OTHER_FALLACY_DESC"
+		}
+
+
+		# minors from DLC ####
+		
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

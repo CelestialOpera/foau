@@ -1,0 +1,28 @@
+
+state={
+	id=382
+	name="STATE_382"
+	manpower = 899869
+	resources={
+		oil=14 # was: 20
+	}
+	
+	state_category = city
+
+	history={
+		owner = MTA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = MTA
+		victory_points = {
+			1827 20 
+		}
+
+	}
+
+	provinces={
+		1809 1827 3869 7780 10588 11772 12570 12642 
+	}
+}

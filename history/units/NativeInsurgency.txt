@@ -1,0 +1,98 @@
+﻿##### Division Templates #####
+division_template = {
+	name = "Infantry Division"		
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 1 y = 3 }
+	}
+}
+
+division_template = {
+	name = "Native Cavalry"
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+	}
+	support = {
+		recon = { x = 0 y = 0 }      
+	}
+}
+
+##### OOB #####
+
+###Bear Divisions, the most highly trained divisions of the insurgency
+units = {
+	division= {	# 
+		name = "1st Bear Division"
+		location = 4860
+		division_template = "Infantry Division" 	# Frontline, best equipment
+		start_experience_factor = 1.0
+	}
+	
+	division= {	# 
+		name = "2nd Bear Division"
+		location = 4860
+		division_template = "Infantry Division" 	# Frontline, best equipment
+		start_experience_factor = 1.0
+	}
+	
+	division= {	# 
+		name = "3rd Bear Division"
+		location = 1747
+		division_template = "Infantry Division" 	# Frontline, best equipment
+		start_experience_factor = 0.90
+	}
+	
+	division= {	# 
+		name = "4th Bear Division"
+		location = 4860
+		division_template = "Infantry Division" 	# Frontline, best equipment
+		start_experience_factor = 0.75
+	}
+	
+	#Hawk Divisions, Cavalry
+	division= {	# 
+		name = "1st Hawk Division"
+		location = 12572
+		division_template = "Native Cavalry" 
+		start_experience_factor = 0.5
+	}
+	
+	division= {	# 
+		name = "2nd Hawk Division"
+		location = 12572
+		division_template = "Native Cavalry" 
+		start_experience_factor = 0.5
+	}
+	
+	division= {	# 
+		name = "3rd Hawk Division"
+		location = 7877
+		division_template = "Native Cavalry" 
+		start_experience_factor = 0.5
+	}
+	
+	division= {	# 
+		name = "4th Hawk Division"
+		location = 4857
+		division_template = "Native Cavalry" 
+		start_experience_factor = 0.5
+	}
+	
+	division= {	# 
+		name = "5th Hawk Division"
+		location = 7877
+		division_template = "Native Cavalry" 
+		start_experience_factor = 0.5
+	}
+}
+
+###################

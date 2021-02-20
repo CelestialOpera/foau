@@ -1,0 +1,21 @@
+
+state={
+	id=471
+	name="STATE_471" # Northwestern Canada
+	manpower = 27681
+	
+	state_category = wasteland
+
+	history={
+		owner = ALK
+		buildings = {
+			infrastructure = 1
+			
+		}
+		add_core_of = ALK
+	}
+
+	provinces={
+		917 1799 1872 3606 4678 7869 7891 12508 5403
+	}
+}

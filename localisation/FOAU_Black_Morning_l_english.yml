@@ -1,0 +1,14 @@
+﻿l_english:
+ 
+ #Events
+ stockcrash.2.t:0 "Black Morning On The Thames"
+ stockcrash.2.d:0 "Tragic news from London today as the rumors have proven themselves true. This cold February Morning has just gotten colder as The London Stock Market took a massive plunge that lead to an entire crash on the local and global stock market, suicides from traders were reported almost immediately and the newspapers clamored to report as soon as news broke. The effects are expected to be felt around the globe, as the economies of the globe are very intertwined, reports from Bitburg, Vienna, and New York have already come out saying their own markets are experiencing effects in only the first 24 hours of the crash. In Britain many have been laid off from their jobs and the same is expected to follow in other countries with trading becoming a mess of numbers and companies not knowing if they can sustain the work loads."
+ stockcrash.2.o1:0 "What's Going To Happen?"
+ 
+ stockcrash.3.t:0 "The Black Morning Hits [Root.GetName]"
+ stockcrash.3.d:0 "While it was rumored that something was going to happen in the London Markets, no one expected it to be this soon, or this devastating. Now our economy has taken a massive hit and our people are suffering just as much as the rest, no matter what happens it will be quite some time until our economy is back to normalcy."
+ stockcrash.3.o1:0 "We Hope For The Best"
+ 
+ #Ideas
+ generic_black_morning_effects:0 "Effects of The Black Morning"
+ generic_black_morning_effects_desc:0 "The Black Morning hit our country hard, it will be a long time before we can recover."

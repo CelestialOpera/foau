@@ -1,0 +1,30 @@
+league_of_two_emperors = {
+	allowed = {
+		NOT = { tag = RUS }
+	}
+	enable = {
+		OR = {
+			is_in_faction_with = RUS
+			OR = {
+				tag = AUS
+				tag = SER
+				tag = ROM
+				tag = MON
+				tag = POL
+			}
+		}
+	}
+
+	abort_when_not_enabled = yes
+
+	ai_strategy = {
+		type = befriend
+		id = "RUS"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "RUS"
+		value = 200
+	}
+}

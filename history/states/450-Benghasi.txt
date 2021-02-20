@@ -1,0 +1,22 @@
+
+state={
+	id=450
+	name="STATE_450"
+	manpower = 22535
+	
+	state_category = city
+
+	history={
+		owner = LBA
+		
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		1127 4120 10123
+	}
+}

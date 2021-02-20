@@ -1,0 +1,279 @@
+ideas = {
+
+	country = {
+
+		FRA_nouvelle_democratie = {
+			picture = FRENCHnew_democracy
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			allowed_civil_war = {
+				tag = FRA #stays with main country
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.15
+				war_support_factor = -0.05
+				political_power_factor = 0.15
+			}
+		}
+		
+		FRA_growing_economic_crisis = {
+			picture = usa_great_depression_2
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			allowed_civil_war = {
+				tag = FRA #stays with main country
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.05
+				war_support_factor = -0.05
+				consumer_goods_factor = 0.10
+				MONTHLY_POPULATION = -0.05
+				production_speed_buildings_factor = -0.5
+				industrial_capacity_factory = -0.25
+			}
+		}
+		
+		FRA_defaite_honteuse = {
+			picture = FRENCHdefeated_great_war
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			allowed_civil_war = {
+				tag = FRA #stays with main country
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.25
+				war_support_factor = 0.05
+				conscription_factor = -0.02
+				drift_defence_factor = -0.02
+			}
+		}
+		
+		FRA_occitanie_et_bretagne = {
+			picture = FRENCHOccitania_Brittany
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			allowed_civil_war = {
+				tag = FRA #stays with main country
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription_factor = -0.01
+				drift_defence_factor = -0.25
+			}
+		}
+		
+		FRA_occitanie_et_bretagne_2 = {
+			picture = FRENCHOccitania_Brittany
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			allowed_civil_war = {
+				tag = FRA #stays with main country
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.10
+				conscription = -0.02
+				drift_defence_factor = -0.35
+				war_support_factor = -0.05
+			}
+		}
+		
+		FRA_terres_d_afrique = {
+			picture = africa_colonial
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			allowed_civil_war = {
+				tag = FRA #stays with main country
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.05
+				non_core_manpower = -0.03
+				compliance_gain = -0.01
+			}
+		}
+		
+		FRA_effects_of_black_morning = {
+			picture = BLACKMORNIN
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			allowed_civil_war = {
+				tag = FRA #stays with main country
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.15
+				war_support_factor = -0.05
+				consumer_goods_factor = 0.05
+				MONTHLY_POPULATION = -0.025
+				production_speed_buildings_factor = -0.25
+				industrial_capacity_factory = -0.15
+			}
+		}
+		
+		
+		
+	}
+	
+	second_in_command = {
+		FRA_ALBERT_LEBRUN_SIC = {
+			allowed = { original_tag = FRA }
+			available = {
+				#custom_trigger_tooltip = {
+				#	tooltip = head_of_gov_available
+					always = no
+				#}
+			}
+			picture = Albert_Lebrun
+			cancel_if_invalid = no
+			#on_add = {
+			#}
+			traits = {
+				second_in_command
+				staatist
+				naive_optimist
+			}
+		}
+		
+		FRA_VACANT_SIC = {
+			allowed = { original_tag = FRA }
+			available = {
+				#custom_trigger_tooltip = {
+				#	tooltip = head_of_gov_available
+					always = no
+				#}
+			}
+			picture = VACANT_MINISTER
+			cancel_if_invalid = no
+			#on_add = {
+			#}
+			traits = {
+				second_in_command
+			}
+		}
+	}
+	
+	foreign_minister = {
+		FRA_CAMILLE_CHAUTEMPS_FOR = {
+			allowed = { original_tag = FRA }
+			available = {
+				#custom_trigger_tooltip = {
+				#	tooltip = head_of_gov_available
+					always = no
+				#}
+			}
+			picture = CAMILLE_CHAUTEMPS
+			cancel_if_invalid = no
+			#on_add = {
+			#}
+			traits = {
+				foreign_minister
+				liberal
+				apologetic_clerk
+			}
+		}
+	}
+	
+	economic_minister = {
+		FRA_EDOUARD_DALADIER_ECM = {
+			allowed = { original_tag = FRA }
+			available = {
+				#custom_trigger_tooltip = {
+				#	tooltip = head_of_gov_available
+					always = no
+				#}
+			}
+			picture = EDOUARD_DALADIER
+			cancel_if_invalid = no
+			#on_add = {
+			#}
+			traits = {
+				economic_minister
+				liberal
+				moderate_fill_in
+			}
+		}
+	}
+	
+	intelligence_minister = {
+		FRA_LIONEL_LEANDRE_INT = {
+			allowed = { original_tag = FRA }
+			available = {
+				#custom_trigger_tooltip = {
+				#	tooltip = head_of_gov_available
+					always = no
+				#}
+			}
+			picture = LIONEL_LEANDRE
+			cancel_if_invalid = no
+			#on_add = {
+			#}
+			traits = {
+				intelligence_minister
+				staatist
+				compassionate_gentleman
+			}
+		}
+	}
+	
+	defense_minister = {
+		FRA_PAUL_REYNAUD_DEF = {
+			allowed = { original_tag = FRA }
+			available = {
+				#custom_trigger_tooltip = {
+				#	tooltip = head_of_gov_available
+					always = no
+				#}
+			}
+			picture = Paul_Reynaud
+			cancel_if_invalid = no
+			#on_add = {
+			#}
+			traits = {
+				defense_minister
+				staatist
+				compassionate_gentleman
+			}
+		}
+	}
+		
+}

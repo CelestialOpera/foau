@@ -1,0 +1,19 @@
+state={
+	id=800
+	name="STATE_800"
+	history={
+		buildings = {
+			infrastructure = 5
+			
+		}
+		owner = CRA
+		add_core_of = CRA
+		
+	}
+	provinces={
+		788 1506 3925 7558 9779 9931 10412 10439 11738 11841
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

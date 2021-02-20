@@ -1,0 +1,25 @@
+
+state={
+	id=389
+	name="STATE_389"
+	manpower = 680844
+	state_category = rural
+	resources={
+		steel=17 # was: 24
+		oil=7 # was: 10
+	}
+
+	history={
+		owner = NAT
+		add_core_of = NAT
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		6722 7877 12566
+	}
+}

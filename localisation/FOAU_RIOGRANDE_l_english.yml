@@ -1,0 +1,28 @@
+﻿l_english:
+ 
+ #Country Name
+ RIO_radical_socialism:0 "Republic of The Rio Grande"
+ RIO_radical_socialism_DEF:0 "The Republic of The Rio Grande"
+ RIO_radical_socialism_ADJ:0 "Rio Grandean"
+ RIO_utopian_socialism:0 "Republic of The Rio Grande"
+ RIO_utopian_socialism_DEF:0 "The Republic of The Rio Grande"
+ RIO_utopian_socialism_ADJ:0 "Rio Grandean"
+ RIO_pastoralism:0 "Republic of The Rio Grande"
+ RIO_pastoralism_DEF:0 "The Republic of The Rio Grande"
+ RIO_pastoralism_ADJ:0 "Rio Grandean"
+ RIO_liberalism:0 "Republic of The Rio Grande"
+ RIO_liberalism_DEF:0 "The Republic of The Rio Grande"
+ RIO_liberalism_ADJ:0 "Rio Grandean"
+ RIO_conservatism:0 "Republic of The Rio Grande"
+ RIO_conservatism_DEF:0 "The Republic of The Rio Grande"
+ RIO_conservatism_ADJ:0 "Rio Grandean"
+ RIO_traditionalism:0 "Republic of The Rio Grande"
+ RIO_traditionalism_DEF:0 "The Republic of The Rio Grande"
+ RIO_traditionalism_ADJ:0 "Rio Grandean"
+ RIO_staatism:0 "Republic of The Rio Grande"
+ RIO_staatism_DEF:0 "The Republic of The Rio Grande"
+ RIO_staatism_ADJ:0 "Rio Grandean"
+ RIO_popularism:0 "Republic of The Rio Grande"
+ RIO_popularism_DEF:0 "The Republic of The Rio Grande"
+ RIO_popularism_ADJ:0 "Rio Grandean"
+ 

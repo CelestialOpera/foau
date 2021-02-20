@@ -1,0 +1,20 @@
+state={
+	id=874
+	name="STATE_874"
+	history={
+		owner = RIO
+		add_core_of = RIO
+		
+		
+		buildings = {
+			infrastructure = 4
+	
+		}
+	}
+	provinces={
+		1915 5022 7836 7981 12341 12410 12875
+	}
+	manpower=442750
+	buildings_max_level_factor=1.000
+	state_category=town
+}

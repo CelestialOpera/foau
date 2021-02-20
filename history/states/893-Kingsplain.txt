@@ -1,0 +1,22 @@
+state={
+	id=893
+	name="STATE_893"
+	resources={
+		oil=3
+	}
+	
+	history={
+		owner = HBC
+		add_core_of = HBC
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		1857 4863 7883 10593 10624 11712
+	}
+	manpower=32312
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

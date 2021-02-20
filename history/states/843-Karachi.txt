@@ -1,0 +1,24 @@
+state={
+	id=843 
+	name="STATE_843"
+	history={
+		buildings = {
+			infrastructure = 4
+			3456 = {
+				naval_base = 2
+			}
+		}
+
+		victory_points = {
+			3456 15
+		}
+		owner = AFG
+		add_core_of = AFG
+	}
+	provinces={
+		3456 7049 10108 10735
+	}
+	manpower=90924
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,29 @@
+state={
+	id=878
+	name="STATE_878"
+	
+	history={
+		owner = RUS
+		add_core_of = RUS
+		add_core_of = GEO
+		
+		victory_points = {
+			3653 5 
+		}
+		
+		buildings = {
+			infrastructure = 3
+			3653 = {
+				naval_base = 2
+				coastal_bunker = 1
+
+			}
+		}
+	}
+	provinces={
+		3653
+	}
+	manpower=162020
+	buildings_max_level_factor=1.000
+	state_category=town
+}

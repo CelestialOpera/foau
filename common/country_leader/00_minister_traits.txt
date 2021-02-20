@@ -1,0 +1,526 @@
+##This System is More or less ripped right from Red World with my own additions
+
+leader_traits = {
+
+    #### RED WORLD ADVISOR TRAITS ####
+	
+	second_in_command = {
+		random = no
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	foreign_minister = {
+		random = no
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	economic_minister = {
+		random = no
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	defense_minister = {
+		random = no
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	intelligence_minister = {
+		random = no
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	radical_socialist = {}
+	utopian_socialist = {}
+	pastoralist = {}
+	liberal = {}
+	staatist = {}
+	conservative = {}
+	traditionalist = {}
+	popularist = {}
+	
+	## SECOND IN COMMAND ##
+	
+	power_hungry_demagogue = {
+		random = no
+		drift_defence_factor = 0.05
+		political_advisor_cost_factor = 0.15 
+		political_power_gain = 0.05
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	autocratic_charmer = {
+		random = no
+		trade_opinion_factor = 0.035
+		military_leader_cost_factor = -0.1
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	insignificant_layman = {
+		random = no
+		consumer_goods_factor = -0.01
+		drift_defence_factor = -0.1
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	silent_workhorse = {
+		random = no
+		political_power_factor = 0.15
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	naive_optimist = {
+		random = no
+		consumer_goods_factor = -0.01
+		stability_factor = 0.045 
+		industry_repair_factor = 0.05 
+		political_power_gain = -0.2
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	flamboyant_tough_guy = {
+		random = no
+		planning_speed = 0.05
+		improve_relations_maintain_cost_factor = 0.35
+		political_advisor_cost_factor = -0.05
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	oil_baron = {
+		random = no
+		production_speed_synthetic_refinery_factor = 0.12
+		political_power_factor = -0.1
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	retired_general = {
+		random = no
+		army_morale_factor = 0.008 
+		production_speed_arms_factory_factor = 0.01 
+		military_leader_cost_factor = -0.5
+		political_advisor_cost_factor = 0.75
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	retired_admiral = {
+		random = no
+		production_speed_dockyard_factor  = 0.01 
+		experience_gain_navy = 0.1
+		political_advisor_cost_factor = 0.75 
+		naval_coordination = 0.1
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	retired_air_force_general = {
+		random = no
+		experience_gain_air = 0.1
+		air_night_penalty = -0.3
+		air_weather_penalty = -0.1
+		political_advisor_cost_factor = 0.75 
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	political_protege = {
+		random = no
+		political_power_gain = 0.25
+		drift_defence_factor = 0.35 
+		consumer_goods_factor = 0.025
+		stability_factor = -0.045
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	ambitious_union_boss = {
+		random = no
+		consumer_goods_factor = 0.05
+		industrial_capacity_factory = 0.025 
+		industrial_capacity_dockyard = 0.015 
+		enemy_partisan_effect = 0.2 
+		justify_war_goal_time = 0.05
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	corporate_suit = {
+		random = no
+		consumer_goods_factor = -0.01 
+		industrial_capacity_factory = -0.01
+		army_morale_factor = -0.025 
+		political_advisor_cost_factor = -0.45
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	religious_leader = {
+		random = no
+		stability_factor = 0.025
+		political_power_gain = -0.45
+		army_morale_factor = 0.03
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	## END OF SECOND IN COMMAND ##
+	
+	## FOREIGN MINISTER ## 
+	
+	biased_intellectual = {
+		random = no
+		subversive_activites_upkeep = -0.2
+		justify_war_goal_time = 0.1
+		improve_relations_maintain_cost_factor = -0.1
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	ideological_crusader = {
+		random = no
+		opinion_gain_monthly_same_ideology_factor = 1.0
+		justify_war_goal_time = -0.03
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	apologetic_clerk = {
+		random = no
+		ai_focus_aggressive_factor = -0.5 
+		army_morale_factor = -0.005 
+		min_export = -0.1
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	iron_fisted_brute = {
+		random = no
+		justify_war_goal_time = -0.04
+		political_power_gain = 0.1 
+		opinion_gain_monthly_factor = -0.35
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	great_compromiser = {
+		random = no
+		trade_laws_cost_factor = -0.05 
+		lend_lease_tension = -0.05 
+		send_volunteers_tension = -0.05 
+		join_faction_tension = -0.05 
+		military_leader_cost_factor = 0.5
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	international_schemer = {
+		random = no
+		subversive_activites_upkeep = -0.1 
+		foreign_subversive_activites = -0.1 
+		trade_opinion_factor  = -0.075
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	## END OF FOREIGN MINISTER ##
+	
+	## INDUSTRY MINISTER##
+	
+	administrative_genius = {
+		random = no
+		industrial_capacity_factory = 0.035
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	resource_industrialist = {
+		random = no
+		local_resources_factor = 0.05 
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	moderate_fill_in = {
+		random = no
+		research_speed_factor = 0.10
+		political_power_factor = 0.15
+		industrial_capacity_factory = -0.015
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	libertarian_capitalist = {
+		random = no
+		consumer_goods_factor = -0.1 
+		political_power_factor = -0.5 
+		research_time_factor = 0.015
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	former_scientist = {
+		random = no
+		research_time_factor = -0.01
+		
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	private_military_specialist = {
+		random = no
+		production_speed_arms_factory_factor = 0.025 
+		supply_consumption_factor = -0.1 
+		consumer_goods_factor = 0.03
+		
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	corrupt_kleptocrat = {
+		random = no
+		industrial_capacity_factory = -0.05
+		local_resources_factor = -0.05
+		political_power_gain = 0.2 
+		production_factory_start_efficiency_factor = 0.1
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	extreme_regulator = {
+		random = no
+		global_building_slots_factor = -0.15
+		industry_air_damage_factor = -0.3 
+		industry_repair_factor = 0.15 
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	## END OF INDUSTRY MINISTER ##
+	
+	## DEFENSE MINISTER ## 
+	
+	silent_lawyer = {
+		random = no
+		consumer_goods_factor = -0.015
+		foreign_subversive_activites = -0.1 
+		
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	compassionate_gentleman = {
+		random = no
+		opinion_gain_monthly_factor = 0.1
+		trade_opinion_factor = 0.07
+		
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	ex_military = {
+		random = no
+		command_power_gain = 0.15
+		army_org_factor = 0.05
+		political_power_factor = -0.35
+		
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	isolationist = {
+        random = no
+		stability_factor = 0.025
+		war_support_factor = -0.05
+		trade_laws_cost_factor = -0.05 
+		mobilization_laws_cost_factor  = -0.05 
+		foreign_subversive_activites = -0.3
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	## END OF NATIONAL SECURITY MINISTER ##
+	
+	## INTELLIGENCE MINISTER ## 
+	
+	intelligence_director = {
+        random = no
+		decryption = 1
+		send_volunteers_tension = -0.2 
+		opinion_gain_monthly_factor = -0.3
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	prince_of_terror = {
+        random = no
+		enemy_partisan_effect = -0.25
+		foreign_subversive_activites = -0.3
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	efficient_sociopath = {
+        random = no
+		MONTHLY_POPULATION = -0.01 
+		consumer_goods_factor = -0.02
+		production_factory_efficiency_gain_factor = 0.05 
+		
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	novice_mastermind = {
+        random = no
+		political_power_gain = -0.2
+		research_time_factor = -0.01 
+		army_core_attack_factor = 0.1
+		encryption = 1
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	naval_intelligence_specialist = {
+        random = no
+		navy_submarine_detection_factor = 0.1 
+		navy_screen_defence_factor  = 0.1
+		experience_gain_navy = 0.05
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	politician_with_connections = {
+        random = no
+	    subversive_activites_upkeep = -0.5 
+		stability_factor = -0.03
+		max_planning = 0.1
+		
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	## END OF INTELLIGENCE MINISTER ##
+	
+	
+	
+	#### END OF RED WORLD ADVISOR TRAITS ####
+	
+	
+}

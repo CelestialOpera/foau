@@ -1,0 +1,23 @@
+
+state={
+	id=370
+	name="STATE_370"
+	manpower = 2009820
+	
+	state_category = city
+
+	history={
+		owner = GOR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = GOR
+	}
+
+	provinces={
+		4510 7464 10410 10753 11717 12328 
+	}
+	
+}

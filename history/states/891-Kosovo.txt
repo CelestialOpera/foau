@@ -1,0 +1,26 @@
+state={
+	id=891
+	name="STATE_891"
+	resources={
+		steel=1
+	}
+	
+	history={
+		owner = SER
+		add_core_of = SER
+		victory_points = {
+			9890 5 
+		}
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		6940 6953 9849 9874 9890
+	}
+	manpower=572372
+	buildings_max_level_factor=1.000
+	state_category=town
+}

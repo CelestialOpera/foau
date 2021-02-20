@@ -1,0 +1,60 @@
+﻿##### Division Templates #####
+division_template = {
+	name = "Milices Loyalistes"		
+	#division_names_group = FRA_INF_01
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+	}
+}
+
+##### OOB #####
+units = {
+	
+	division= {	
+		name = "1er Milices Loyalistes"
+		location = 11506
+		division_template = "Milices Loyalistes" 	
+		force_equipment_variants = { infantry_equipment_0 = { owner = "FRA" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+
+	}
+	
+	division= {	
+		name = "2e Milices Loyalistes"
+		location = 11506
+		division_template = "Milices Loyalistes" 	
+		force_equipment_variants = { infantry_equipment_0 = { owner = "FRA" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.8
+
+	}
+	
+	division= {	
+		name = "3e Milices Loyalistes"
+		location = 11506
+		division_template = "Milices Loyalistes" 	
+		force_equipment_variants = { infantry_equipment_0 = { owner = "FRA" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.6
+
+	}
+	
+	division= {	
+		name = "4e Milices Loyalistes"
+		location = 11506
+		division_template = "Milices Loyalistes" 	
+		force_equipment_variants = { infantry_equipment_0 = { owner = "FRA" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.4
+
+	}
+
+
+}
+
+
+###################

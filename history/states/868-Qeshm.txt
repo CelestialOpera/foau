@@ -1,0 +1,22 @@
+state={
+	id=868
+	name="STATE_868"
+	history={
+		owner = ARA
+		
+		
+		buildings = {
+			infrastructure = 4
+			13255 = {
+				naval_base = 2
+			}
+		}
+		
+	}
+	provinces={
+		13255
+	}
+	manpower=42523
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

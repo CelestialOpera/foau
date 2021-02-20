@@ -1,0 +1,22 @@
+state={
+	id=814
+	name="STATE_814"
+	history={
+		owner = SHL
+		add_core_of = SHL
+		buildings = {
+			infrastructure = 2
+			
+		}
+		victory_points = {
+			9347 20
+		}
+		
+	}
+	provinces={
+		3368 6257 9320 9347 11331
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

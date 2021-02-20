@@ -1,0 +1,24 @@
+state={
+	id=837 
+	name="STATE_837"
+	history={
+		buildings = {
+			infrastructure = 7
+			
+			5228 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			5228 35
+		}
+		owner = BOL
+		add_core_of = BOL
+	}
+	provinces={
+		5192 5228 11000 12914
+	}
+	manpower=2241223
+	buildings_max_level_factor=1.000
+	state_category=town
+}

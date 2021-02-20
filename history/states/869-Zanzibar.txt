@@ -1,0 +1,22 @@
+state={
+	id=869
+	name="STATE_869"
+	history={
+		owner = TZN
+		
+		
+		buildings = {
+			infrastructure = 4
+			13256 = {
+				naval_base = 3
+			}
+		}
+		
+	}
+	provinces={
+		13256 13257
+	}
+	manpower=214110
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

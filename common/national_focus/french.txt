@@ -1,0 +1,2014 @@
+﻿focus_tree = {
+	id = french_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = FRA
+		}
+	}
+	
+	
+	continuous_focus_position = { x = 0 y = 10000 }
+	
+	
+	focus = {
+		id = FRA_emergency_government
+		icon = GFX_focus_generic_treaty
+		x = 10
+		y = 0
+
+		cost = 0
+		
+		#bypass = {
+		#	date < 2010.01.01
+		#}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_militarize_the_gendarmerie
+		icon = GFX_focus_generic_little_entente
+		x = -2
+		y = 1
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_emergency_government }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_promise_a_return_to_normalcy
+		icon = GFX_goal_generic_national_unity
+		x = 0
+		y = 1
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_emergency_government }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_outline_the_threats
+		icon = GFX_focus_hol_the_foundations_of_defense
+		x = 2
+		y = 1
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_emergency_government }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_spy_on_gouin_and_his_party #Félix Gouin and his second in command Louis Barthas
+		icon = GFX_focus_spy_on_left_wing
+		x = -1
+		y = 2
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_promise_a_return_to_normalcy }
+		prerequisite = { focus = FRA_militarize_the_gendarmerie }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_monitor_deat_and_his_goons #Marcel Deat
+		icon = GFX_focus_spy_on_right_wing
+		x = 1
+		y = 2
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_outline_the_threats }
+		prerequisite = { focus = FRA_promise_a_return_to_normalcy }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_suspend_january_elections
+		icon = GFX_focus_usa_voter_registration_act
+		x = 1
+		y = 3
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_monitor_deat_and_his_goons focus = FRA_spy_on_gouin_and_his_party }
+		mutually_exclusive = { focus = FRA_police_at_the_polls }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_police_at_the_polls
+		icon = GFX_focus_police_at_polls
+		x = -1
+		y = 3
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_monitor_deat_and_his_goons focus = FRA_spy_on_gouin_and_his_party }
+		mutually_exclusive = { focus = FRA_suspend_january_elections }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	#The Path
+	
+	focus = {
+		id = FRA_form_the_armee_protectrice #Armée Protectrice, sorta like the Reichsbanner Schwarz-Rot-Gold. The Protective Army #Armée protectrice or Protective Army, a government sponsered paramilitary force that will ensure the protection of the Republic.
+		icon = GFX_focus_FRA_armee_protectrice1 #GFX_focus_generic_strike_at_democracy1
+		x = -1
+		y = 4
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_suspend_january_elections }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_target_radical_paramilitaries
+		icon = GFX_focus_eng_move_to_secure_the_dominions
+		x = 1
+		y = 4
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_suspend_january_elections }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_create_whistleblower_programs
+		icon = GFX_focus_generic_military_academy
+		x = 3
+		y = 4
+		relative_position_id = FRA_emergency_government
+
+		cost = 4
+		prerequisite = { focus = FRA_suspend_january_elections }
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	##Un-killable
+	
+	focus = {
+		id = FRA_unkillable
+		icon = GFX_focus_FRA_unkillable_gfx
+		x = 1
+		y = 5
+		relative_position_id = FRA_emergency_government
+
+		cost = 2
+		available = {
+			has_country_flag = attempt_on_herriot_failed
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			add_political_power = 100
+		}
+	}
+	
+	focus = {
+		id = FRA_recovery_speech
+		#icon = 
+		x = 0
+		y = 1
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_unkillable
+		}
+
+		cost = 0.5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_investigation
+		icon = GFX_focus_investigation
+		x = 0
+		y = 2
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_recovery_speech
+		}
+
+		cost = 2
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			country_event = {
+				id = france.6
+			}
+		}
+	}
+	
+	focus = {
+		id = FRA_seize_control_of_the_press
+		icon = GFX_focus_censorship
+		x = -2
+		y = 3
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_investigation
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+			has_country_flag = FRAinvestigation_completed
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_reshuffle_the_cabinet
+		icon = GFX_focus_reshuffle_cabinet
+		x = 0
+		y = 3
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_investigation
+		}
+
+		cost = 2
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+			has_country_flag = FRAinvestigation_completed 
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_integrate_armee_protectrice 
+		#icon = 
+		x = 2
+		y = 3
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_investigation
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+			has_country_flag = FRAinvestigation_completed 
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_corporate_cabinet
+		#icon = 
+		x = -2
+		y = 4
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_seize_control_of_the_press
+		}
+		
+		prerequisite = {
+			focus = FRA_reshuffle_the_cabinet
+		}
+		
+		prerequisite = {
+			focus = FRA_integrate_armee_protectrice
+		}
+		
+		mutually_exclusive = {
+			focus = FRA_military_cabinet
+		}
+
+		cost = 2
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_military_cabinet
+		#icon = 
+		x = 2
+		y = 4
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_seize_control_of_the_press
+		}
+		
+		prerequisite = {
+			focus = FRA_reshuffle_the_cabinet
+		}
+		
+		prerequisite = {
+			focus = FRA_integrate_armee_protectrice
+		}
+		
+		mutually_exclusive = {
+			focus = FRA_corporate_cabinet
+		}
+
+		cost = 2
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_protest_over_the_cabinet
+		#icon = 
+		x = 0
+		y = 5
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_corporate_cabinet
+			focus = FRA_military_cabinet
+		}
+
+		cost = 0
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+			
+			has_country_flag = FRA_national_assembly_angry
+		}
+		
+		bypass = {
+			has_country_flag = FRA_national_assembly_angry
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_ban_extremist_parties
+		#icon = 
+		x = 0
+		y = 6
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_protest_over_the_cabinet
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_pay_off_assemblymen
+		#icon = 
+		x = -2
+		y = 6
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_protest_over_the_cabinet
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+			has_completed_focus = FRA_corporate_cabinet
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_remove_the_uncooperative
+		#icon = 
+		x = -1
+		y = 7
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_ban_extremist_parties
+		}
+		
+		prerequisite = {
+			focus = FRA_pay_off_assemblymen
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_occupy_the_national_assembly
+		#icon = 
+		x = 2
+		y = 6
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_protest_over_the_cabinet
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+			has_completed_focus = FRA_military_cabinet
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_charge_radical_assembly_dissidents #Localized as "Charge 'Radical' Assembly Dissidents
+		#icon = 
+		x = 1
+		y = 7
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_ban_extremist_parties
+		}
+		
+		prerequisite = {
+			focus = FRA_occupy_the_national_assembly
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_arrest_gouin
+		#icon = 
+		x = -1
+		y = 8
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_charge_radical_assembly_dissidents
+			focus = FRA_remove_the_uncooperative
+		}
+
+		cost = 3
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_arrest_deat
+		#icon = 
+		x = 1
+		y = 8
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_charge_radical_assembly_dissidents
+			focus = FRA_remove_the_uncooperative
+		}
+
+		cost = 3
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_martial_law_in_paris
+		#icon = 
+		x = 0
+		y = 9
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_arrest_gouin
+		}
+		
+		prerequisite = {
+			focus = FRA_arrest_deat
+		}
+
+		cost = 6
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			##Add a modifier to Paris that gives army buffs.
+		}
+	}
+	
+	focus = {
+		id = FRA_raid_extremist_safehouses
+		#icon = 
+		x = -2
+		y = 9
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_arrest_gouin
+		}
+		
+		prerequisite = {
+			focus = FRA_arrest_deat
+		}
+
+		cost = 6
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_surrender_for_amnesty
+		#icon = 
+		x = 2
+		y = 9
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_arrest_gouin
+		}
+		
+		prerequisite = {
+			focus = FRA_arrest_deat
+		}
+
+		cost = 6
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_ban_paramilitaries
+		#icon = 
+		x = -1
+		y = 10
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_raid_extremist_safehouses
+		}
+		
+		prerequisite = {
+			focus = FRA_martial_law_in_paris
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_seize_assets #Seizing the assets of known "radicals" the effects will include an event, political power grant, and maybe increase in Staatist opinion
+		#icon = 
+		x = 1
+		y = 10
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_martial_law_in_paris
+		}
+		
+		prerequisite = {
+			focus = FRA_surrender_for_amnesty
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_half_way_there
+		#icon = 
+		x = 0
+		y = 11
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_ban_paramilitaries
+		}
+		
+		prerequisite = {
+			focus = FRA_seize_assets
+		}
+
+		cost = 0
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_herriot_the_businessman
+		#icon = 
+		x = -4
+		y = 12
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_half_way_there
+		}
+		
+		mutually_exclusive = {
+			focus = FRA_herriot_the_general
+		}
+
+		cost = 1
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+			
+			has_completed_focus = FRA_corporate_cabinet
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_herriot_the_general
+		#icon = 
+		x = 4
+		y = 12
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_half_way_there
+		}
+		
+		mutually_exclusive = {
+			focus = FRA_herriot_the_businessman
+		}
+
+		cost = 1
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+			
+			has_completed_focus = FRA_military_cabinet
+		}
+
+		completion_reward = {
+			#Gives an event, this event will detail how Herriot promotes himself to a general, also giving him a new portrait
+		}
+	}
+	
+	focus = {
+		id = FRA_a_pledge_to_our_republic
+		#icon = 
+		x = 0
+		y = 13
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_herriot_the_businessman
+			focus = FRA_herriot_the_general
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_cult_around_herriot
+		#icon = 
+		x = -1
+		y = 14
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_a_pledge_to_our_republic
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_institute_surveillance_strategies
+		#icon = 
+		x = 1
+		y = 14
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_a_pledge_to_our_republic
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_united_peoples_of_france #Down with the regionalist idealism!
+		#icon = 
+		x = -1
+		y = 15
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_cult_around_herriot
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_instill_a_fear
+		#icon = 
+		x = 1
+		y = 15
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_institute_surveillance_strategies
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_fond_memory_of_the_past
+		#icon = 
+		x = -1
+		y = 16
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_united_peoples_of_france
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_fond_ideas_of_france
+		#icon = 
+		x = 1
+		y = 16
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_instill_a_fear
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_french_patriotism
+		#icon = 
+		x = -1
+		y = 17
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_fond_memory_of_the_past
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_french_militarism
+		#icon = 
+		x = 1
+		y = 17
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_fond_ideas_of_france
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_lessons_from_the_great_war
+		#icon = 
+		x = 0
+		y = 18
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_french_patriotism
+		}
+		
+		prerequisite = {
+			focus = FRA_french_militarism
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	#Businessman
+	
+	focus = {
+		id = FRA_form_corporate_advisory_council
+		#icon = 
+		x = -4
+		y = 13
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_herriot_the_businessman
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_work_with_the_paris_syndicates
+		#icon = 
+		x = -5
+		y = 14
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_form_corporate_advisory_council
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_blind_eyes_of_the_gendarmerie
+		#icon = 
+		x = -3
+		y = 14
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_form_corporate_advisory_council
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_corporate_dirigisme
+		#icon = 
+		x = -5
+		y = 15
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_blind_eyes_of_the_gendarmerie
+		}
+		
+		prerequisite = {
+			focus = FRA_work_with_the_paris_syndicates
+		}
+
+		cost = 3
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_less_taxes_more_jobs
+		#icon = 
+		x = -7
+		y = 16
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_corporate_dirigisme
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_halt_regulation_expansions
+		#icon = 
+		x = -5
+		y = 16
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_corporate_dirigisme
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_sell_off_african_rails
+		#icon = 
+		x = -3
+		y = 16
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_corporate_dirigisme
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_anti_radical_bucks
+		#icon = 
+		x = -7
+		y = 17
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_less_taxes_more_jobs
+		}
+
+		cost = 7
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_corporate_expansion_in_the_north
+		#icon = 
+		x = -5
+		y = 17
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_halt_regulation_expansions
+		}
+
+		cost = 20
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_bids_in_afrique
+		#icon = 
+		x = -3
+		y = 17
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_sell_off_african_rails
+		}
+
+		cost = 7
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_the_healing_economy #Removes Black Morning and replaces it with timed idea "Healing Economy" 
+		#icon = 
+		x = -6
+		y = 18
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_anti_radical_bucks
+		}
+		
+		prerequisite = {
+			focus = FRA_corporate_expansion_in_the_north
+		}
+		
+		prerequisite = {
+			focus = FRA_bids_in_afrique
+		}
+
+		cost = 7
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_sealing_the_wounds #Removes Festering economic crisis 
+		#icon = 
+		x = -4
+		y = 18
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_anti_radical_bucks
+		}
+		
+		prerequisite = {
+			focus = FRA_corporate_expansion_in_the_north
+		}
+		
+		prerequisite = {
+			focus = FRA_bids_in_afrique
+		}
+
+		cost = 7
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	###General Path
+	
+	focus = {
+		id = FRA_from_cabinet_to_junta
+		#icon = 
+		x = 4
+		y = 13
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_herriot_the_general
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_duty_of_all_french_men
+		#icon = 
+		x = 3
+		y = 14
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_from_cabinet_to_junta
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_extend_martial_law
+		#icon = 
+		x = 5
+		y = 14
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_from_cabinet_to_junta
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_cleanse_army_of_radicals
+		#icon = 
+		x = 5
+		y = 15
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_duty_of_all_french_men
+		}
+		
+		prerequisite = {
+			focus = FRA_extend_martial_law
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_expansive_militarism #This will give an event talking about a military parade but will also have a national spirit or something giving boosts
+		#icon = 
+		x = 3
+		y = 16
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_cleanse_army_of_radicals
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_military_based_jobs_programs
+		#icon = 
+		x = 5
+		y = 16
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_cleanse_army_of_radicals
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_storm_criminal_hideouts
+		#icon = 
+		x = 7
+		y = 16
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_cleanse_army_of_radicals
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_militarized_industry
+		#icon = 
+		x = 3
+		y = 17
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_expansive_militarism
+		}
+
+		cost = 8
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_industry_military_supervisor_plans #Essentially assigning military officers and hierarchy to factories and shit
+		#icon = 
+		x = 5
+		y = 17
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_military_based_jobs_programs
+		}
+
+		cost = 8
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_citizenship_for_colonials
+		#icon = 
+		x = 7
+		y = 17
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_storm_criminal_hideouts
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_military_saviors_of_all
+		#icon = 
+		x = 4
+		y = 18
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_militarized_industry
+		}
+		
+		prerequisite = {
+			focus = FRA_industry_military_supervisor_plans
+		}
+		
+		prerequisite = {
+			focus = FRA_citizenship_for_colonials
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	focus = {
+		id = FRA_the_route_to_prosperity
+		#icon = 
+		x = 6
+		y = 18
+		relative_position_id = FRA_unkillable
+		
+		prerequisite = {
+			focus = FRA_militarized_industry
+		}
+		
+		prerequisite = {
+			focus = FRA_industry_military_supervisor_plans
+		}
+		
+		prerequisite = {
+			focus = FRA_citizenship_for_colonials
+		}
+
+		cost = 5
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+		available = {
+			ROOT = {
+				is_subject = no
+			}
+
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	
+}

@@ -1,0 +1,206 @@
+#British
+
+IRE_AP = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+ARA_BAOC = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+ETH_BCCE = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+SOM_CCS = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+SUD_SUDCC = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+TNZ_CCT = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+GXC_MSCS = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+BAN_APOB = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+BRM_BEIC = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+SIE_CCSG = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+NEP_BNIR = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+BOM_BR = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+SRL_CCC = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+GAM_GR = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+GHA_CCGC = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+CHA_CCT = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+RAJ_CCSI = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+AST_AT = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+#TUR
+
+LBA_LKO = {
+    color = rgb { 79 25 23 }
+    color_ui = rgb { 79 25 23 }
+}
+
+
+#Russian
+
+DJI_RZKT = {
+    color = rgb { 125 195 121 }
+    color_ui = rgb { 125 195 121 }
+}
+
+CAM_KKT = {
+    color = rgb { 125 195 121 }
+    color_ui = rgb { 125 195 121 }
+}
+
+#Dutch
+
+KEN_DEAG = {
+    color = rgb { 193 142 95 }
+    color_ui = rgb { 193 142 95 }
+}
+
+IVO_DWAG = {
+    color = rgb { 193 142 95 }
+    color_ui = rgb { 193 142 95 }
+}
+
+MAD_DMT = {
+    color = rgb { 193 142 95 }
+    color_ui = rgb { 193 142 95 }
+}
+
+NZL_DNZC = {
+    color = rgb { 193 142 95 }
+    color_ui = rgb { 193 142 95 }
+}
+
+INS_DEI = {
+    color = rgb { 193 142 95 }
+    color_ui = rgb { 193 142 95 }
+}
+
+#GER
+
+TZN_UEAS = {
+    color = rgb { 50 119 81 }
+    color_ui = rgb { 50 119 81 }
+}
+
+NMB_GSAT = {
+    color = rgb { 50 119 81 }
+    color_ui = rgb { 50 119 81 }
+}
+
+SEN_GWAT = {
+    color = rgb { 50 119 81 }
+    color_ui = rgb { 50 119 81 }
+}
+
+MAL_PIC = {
+    color = rgb { 50 119 81 }
+    color_ui = rgb { 50 119 81 }
+}
+
+#AUS
+
+GNA_AWAR = {
+    color = rgb { 195 198 211 }
+    color_ui = rgb { 195 198 211 }
+}
+
+#DEN
+
+DAH_DD = {
+    color = rgb { 69 31 28 }
+    color_ui = rgb { 69 31 28 }
+}
+
+TAM_TCG = {
+    color = rgb { 69 31 28 }
+    color_ui = rgb { 69 31 28 }
+}
+
+PNG_DNG = {
+    color = rgb { 69 31 28 }
+    color_ui = rgb { 69 31 28 }
+}
+
+####NON PUPPETS 01####
+
+CAR_CAITZ = {
+    color = rgb { 155 160 197 }
+    color_ui = rgb { 155 160 197 }
+}
+
+SCO_british_liberal_gov = {
+    color = rgb { 182 78 98 }
+    color_ui = rgb { 182 78 98 }
+}
+
+FPM_FProvGov = {
+    color = rgb { 85 113 199 }
+    color_ui = rgb { 85 113 199 }
+}
+
+FFC_FProvGov = {
+    color = rgb { 85 113 199 }
+    color_ui = rgb { 85 113 199 }
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=320
+	name="STATE_320"
+	manpower = 2186410
+
+	state_category = town
+
+	history={
+		owner = POR
+		buildings = {
+			infrastructure = 5
+			
+		}
+	}
+
+	provinces={ 4291 4395 7395 12208 }
+}

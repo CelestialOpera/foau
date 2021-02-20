@@ -1,0 +1,76 @@
+add_namespace = stockcrash
+#Event System For The Black Morning is using a similar system of events as KR using their system as a base.
+
+#Trigger
+country_event = {
+	id = stockcrash.1
+	#immediate = { log = "[GetDateText]: [Root.GetName]: event stockcrash.1" }
+	hidden = yes
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	immediate = {
+		FRA = {
+			country_event = { id = france.2 days = 6 }
+		}
+		
+		every_country = { 
+			limit = {
+				NOT = {
+					OR = {
+						tag = FRA
+						has_government = radical_socialism
+					}
+				}
+			}
+			country_event = { id = stockcrash.3 days = 8 }
+		}
+		
+		news_event = { id = stockcrash.2 days = 1 }
+	}
+}
+
+### Black Morning Event
+news_event = {
+	id = stockcrash.2
+	immediate = { log = "[GetDateText]: [Root.GetName]: event stockcrash.2" }
+	title = stockcrash.2.t
+	desc = stockcrash.2.d
+	picture = news_the_black_morning
+	is_triggered_only = yes
+
+	major = yes
+	#show_major = {
+	#	NOT = {
+	#		tag = GEA
+	#		tag = MAF
+	#		tag = GER
+	#	}
+	#}
+
+	option = {
+		#trigger = {
+		#	has_socialist_government = no
+		#}
+		name = stockcrash.2.o1
+	}
+}
+
+#Generic Black Morning Effects
+country_event = {
+	id = stockcrash.3
+	title = stockcrash.3.t
+	desc = stockcrash.3.d
+	#fire_only_once = yes
+	picture = the_black_morning
+	is_triggered_only = yes
+
+	option = {
+		name = stockcrash.3.o1
+		add_timed_idea = {
+			idea = generic_black_morning_effects
+			days = 500
+		}
+		
+	}
+}

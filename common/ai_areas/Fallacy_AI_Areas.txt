@@ -1,0 +1,10 @@
+areas = {
+
+	NATWAR_event = {
+
+		strategic_regions = {
+			120
+		}
+	}
+	
+}

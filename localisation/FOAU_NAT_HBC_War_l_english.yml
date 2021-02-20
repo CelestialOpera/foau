@@ -1,0 +1,24 @@
+﻿l_english:
+ 
+ #White Peace Crap
+ NATIVE_WAR_PEACE:0 "Hudson Bay Company Makes Peace With Native Rebels!"
+ 
+ ##Events
+ 
+ nativerevolt.1.t:0 "Offer Peace To Natives??"
+ nativerevolt.1.d:0 "We be losing, should we offer peace to save what we can?"
+ nativerevolt.1.o1:0 "Yes"
+ nativerevolt.1.o2:0 "Nuu"
+ 
+ nativerevolt.2.t:0 "Whities send peace offer?"
+ nativerevolt.2.d:0 "Whities are offering to cede some occupied territories in exchange for peace, giving us chance to rebuild!"
+ nativerevolt.2.o1:0 "YES"
+ nativerevolt.2.o2:0 "no don't do that, you are too cute!"
+ 
+ nativerevolt.3.t:0 "Peace Accepted"
+ nativerevolt.3.d:0 "Read The Title"
+ nativerevolt.3.o1:0 "BASED!!!"
+ 
+ nativerevolt.4.t:0 "Peace Denied"
+ nativerevolt.4.d:0 "DAMMIT INSERT RACIAL SLURS HERE (because they are racist ass holes)"
+ nativerevolt.4.o1:0 "Damn..."

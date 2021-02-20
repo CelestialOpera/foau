@@ -1,0 +1,19 @@
+state={
+	id=810
+	name="STATE_810"
+	history={
+		owner = OUS
+		add_core_of = OUS
+		buildings = {
+			infrastructure = 2
+			
+		}
+		
+	}
+	provinces={
+		1806 2043
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

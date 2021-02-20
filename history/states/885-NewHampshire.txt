@@ -1,0 +1,24 @@
+state={
+	id=885
+	name="STATE_885"
+	resources={
+		steel=9
+	}
+	
+	history={
+		owner = NEW
+		add_core_of = NEW
+		
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+	provinces={
+		733 3712 3715 10481
+	}
+	manpower=542712
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,19 @@
+state={
+	id=839 
+	name="STATE_839"
+	history={
+		buildings = {
+			infrastructure = 2
+			
+		}
+
+		owner = PRU
+		add_core_of = PRU
+	}
+	provinces={
+		13236 13237 13238
+	}
+	manpower=14129
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

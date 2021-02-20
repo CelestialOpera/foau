@@ -1,0 +1,227 @@
+add_namespace = france
+
+#French Opening Lore Event
+country_event = {
+	id = france.1
+	title = france.1.t
+	desc = france.1.d
+	picture = report_france_lore
+	
+	is_triggered_only = yes
+	
+	option = { 
+		name = france.1.o1
+		
+	}
+	
+}
+
+#Effects of Black Morning
+country_event = {
+	id = france.2
+	title = france.2.t
+	desc = france.2.d
+	picture = the_black_morning
+	
+	is_triggered_only = yes
+	
+	option = { 
+		name = france.2.o1
+		add_ideas = FRA_effects_of_black_morning
+	}
+	
+}
+
+#Tragedy In Northern France
+country_event = {
+	id = france.3
+	title = france.3.t
+	desc = france.3.d
+	picture = report_sad_tale_reims
+	
+	is_triggered_only = yes
+	
+	option = { 
+		name = france.3.o1
+		add_political_power = -50
+	}
+	
+}
+
+#Attempt On Herriot!
+country_event = {
+	id = france.4
+	title = france.4.t
+	desc = france.4.d
+	picture = report_attempt_on_herriot
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			set_country_flag = attempt_on_herriot
+		}
+	}
+	
+	#Do Everything You Can!
+	option = { 
+		name = france.4.o1
+		add_political_power = -50
+		
+		#assassination attempt on Herriot (News)
+		news_event = { id = france.6 days = 5 }
+		
+		set_country_flag = attempt_on_herriot_failed
+	}
+	
+}
+
+#Attempt On French Prime Minister!
+news_event = {
+	id = france.5
+	title = france.5.t
+	desc = france.5.d
+	picture = news_attempt_on_herriot
+	is_triggered_only = yes
+
+	major = yes
+	trigger = {
+		NOT = {
+			tag = FRA
+		}
+	}
+
+	option = {
+		name = france.5.o1
+	}
+}
+
+#Beginning of Investigation
+country_event = {
+	id = france.6
+	title = france.6.t
+	desc = france.6.d
+	#picture = report_attempt_on_herriot
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			set_country_flag = investigation_begun
+		}
+	}
+	
+	#Proceed With the investigation
+	option = { 
+		name = france.6.o1
+		
+		country_event = {
+			id = france.7
+			days = 4
+		}
+		
+		set_country_flag = officer_bellamy
+	}
+}
+
+#Shooter Found
+country_event = {
+	id = france.7
+	title = france.7.t
+	desc = france.7.d #The shooter was a German man living in Paris who was rocked hard from the Black Morning on The Thames. Hired by the Key Suspect.
+	#picture = report_attempt_on_herriot
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			set_country_flag = shooter_found
+		}
+	}
+	
+	#Keep Looking
+	option = { 
+		name = france.7.o1
+		
+		country_event = {
+			id = france.8
+			days = 6
+		}
+	}
+}
+
+#Bellamy Attacked
+country_event = {
+	id = france.8
+	title = france.8.t
+	desc = france.8.d #Bellamy was attacked by thugs also hired by Lebrun.
+	#picture = report_attempt_on_herriot
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			set_country_flag = bellamy_attacked
+		}
+	}
+	
+	#We must be close
+	option = { 
+		name = france.8.o1
+		
+		country_event = {
+			id = france.9
+			days = 5
+		}
+	}
+}
+
+#Bellamy Reveals Lebrun
+country_event = {
+	id = france.9
+	title = france.9.t
+	desc = france.9.d #Bellamy has a special meeting with PM Herriot, and tells him who the suspect is.
+	#picture = report_attempt_on_herriot
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			set_country_flag = lebrun_revealed
+		}
+	}
+	
+	#FIND HIM
+	option = { 
+		name = france.9.o1
+		
+		country_event = {
+			id = france.10
+		}
+	}
+}
+
+#After Lebrun
+country_event = {
+	id = france.10
+	title = france.10.t
+	desc = france.10.d #As the police and the Armee Protectrice storm Lebruns office, Lebrun is holding is secretary hostage. However after making a few statements he shoots himself.
+	#picture = report_attempt_on_herriot
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			set_country_flag = lebrun_killed
+		}
+	}
+	
+	#FIND HIM
+	option = { 
+		name = france.9.o1
+		
+		set_country_flag = FRAinvestigation_completed
+		remove_ideas = FRA_ALBERT_LEBRUN_SIC
+		add_ideas = FRA_VACANT_SIC
+	}
+}

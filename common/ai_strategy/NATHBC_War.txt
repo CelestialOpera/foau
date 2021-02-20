@@ -1,0 +1,17 @@
+focus_taking_peace_makers = {
+	allowed = {
+		tag = NAT
+	}
+	enable = {
+		tag = NAT
+		has_war_with = HBC
+	}
+
+	abort_when_not_enabled = yes
+
+	ai_strategy = {
+		type = area_priority
+		id = NATWAR_event
+		value = 1000
+	}
+}

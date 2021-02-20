@@ -1,0 +1,21 @@
+state={
+	id=805
+	name="STATE_805"
+	history={
+		owner = HBC
+		add_core_of = HBC
+		buildings = {
+			infrastructure = 2
+			10548 = {
+				naval_base = 2
+			}
+		}
+		
+	}
+	provinces={
+		1411 10548 12571
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,219 @@
+﻿l_english:
+ 
+ #Focuses
+ 
+ FRA_emergency_government:0 "Emergency Government"
+ FRA_emergency_government_desc:0 "We must form an emergency government to prevent the rise of radical dissidents."
+ 
+ FRA_militarize_the_gendarmerie:0 "Militarize The Gendarmerie"
+ FRA_militarize_the_gendarmerie_desc:0 "We need to militarize the Gendarmerie, if we are truly to prevent the rise of radicalism militarism will be needed among our protective forces."
+ 
+ FRA_promise_a_return_to_normalcy:0 "Promise A Return To Normalcy"
+ FRA_promise_a_return_to_normalcy_desc:0 "What we are doing is needed for the nation, but of course we will return to normalcy."
+ 
+ FRA_outline_the_threats:0 "Outline The Threats"
+ FRA_outline_the_threats_desc:0 "We must make it known who the threats to the country are, for the sake of our police and safety of our people."
+ 
+ FRA_spy_on_gouin_and_his_party:0 "Spy On Gouin And His Party"
+ FRA_spy_on_gouin_and_his_party_desc:0 "We must keep a close eye on Félix Gouin and his party the Parti communaliste-socialiste de France."
+ 
+ FRA_monitor_deat_and_his_goons:0 "Monitor Déat And His Goons"
+ FRA_monitor_deat_and_his_goons_desc:0 "We need to monitor the actions of Marcel Déat and his goons in the Parti Socialiste Populaire Français."
+ 
+ FRA_suspend_january_elections:0 "Suspend January Elections"
+ FRA_suspend_january_elections_desc:0 "We need to suspend the elections coming up in January of 1933, instead of corrupting the polls we shall push them back!"
+ 
+ FRA_police_at_the_polls:0 "Police At The Polls"
+ FRA_police_at_the_polls_desc:0 "We should place Police at the polls to ensure dissident radical enemies of the state do not taint the democratic results of the election."
+ 
+ FRA_form_the_armee_protectrice:0 "Form The Armée Protectrice"
+ FRA_form_the_armee_protectrice_desc:0 "The Armée Protectrice shall be formed as an official state sponsored paramilitary to ensure the safety of the French Republic and its democracy. The most loyal men and women shall be welcomed into the new group."
+ 
+ FRA_target_radical_paramilitaries:0 "Target Radical Paramilitaries"
+ FRA_target_radical_paramilitaries_desc:0 "We need to target enemy paramilitaries that are a threat to our great Republic and democracy! While out right enforced dissolution of said paramilitaries would spark dangerous protest, we need to keep an eye on and use espionage against them. The once friendly Corps Libre, an organization made up of many Great War veterans who are angry with the loss, have gotten close with the Fills de Marianne; the goons of Déat. Of course there is also La Bande Rouge, the socialist thugs under Gouin who try to stir up issues in work places. All three groups are dangerous, if we don't treat carefully who knows what they will do."
+ 
+ FRA_dissolve_radical_paramilitaries:0 "Dissolve Radical Paramilitaries"
+ FRA_dissolve_radical_paramilitaries_desc:0 "The once friendly Corps Libre, the radical socialist La Bande Rouge, and popularist paramilitary Fils de Marianne should all be dissolved in order to stop a potential hostile takeover." #Corps Libre = Free Corps, La Bande Rouge = The Red Band, Fills de Marianne = Sons of Marianne
+ 
+ FRA_create_whistleblower_programs:0 "Create Whistleblower Programs"
+ FRA_create_whistleblower_programs_desc:0 "We need to create an incentive for military personnel to identify extremist and treasonous activity."
+ 
+ FRA_unkillable:0 "Unkillable"
+ FRA_unkillable_desc:0 "The Great Prime Minister Édouard Herriot, protector of France, protector of democracy, protector of the Republic! No bullet, no blade, no bomb, no thing can kill him. He will continue to protect the nation from radical enemies, both foreign and domestic. Vive la République, vive la démocratie, vive Herriot!"
+ 
+ FRA_recovery_speech:0 "Recovery Speech"
+ FRA_recovery_speech_desc:0 "Prime Minister Herriot shall make a recovery speech to his loyal citizens to inform them of his speedy and great recovery."
+ 
+ FRA_create_bureau_securite_interieure:0 "Bureau Sécurité Intérieure"
+ FRA_create_bureau_securite_interieure_desc:0 "It is time to create an internal security force dedicated to the staatist Liberal line, the Bureau Sécurité Intérieure or BSI will serve that purpose becoming a new secret police."
+ 
+ FRA_fire_cabinet_traitors:0 "Remove Cabinet Traitors"
+ FRA_fire_cabinet_traitors_desc:0 "We need to remove the traitors in the Cabinet who are loyal to the Minorités Faction of the party. They clearly do not have the best intentions for the Republic."
+ 
+ FRA_integrate_the_armee_protectrice:0 "Integrate The Armée Protectrice"
+ FRA_integrate_the_armee_protectrice_desc:0 "We shall integrate the Armée Protectrice paramilitary force, taking a more direct and legal order from the Prime Minister as an official branch of the Armée révolutionnaire française."
+ 
+ FRA_allies_in_the_army:0 "Allies In The Army"
+ FRA_allies_in_the_army_desc:0 "We must contact our allies in the army in assure they are on our side and will stand with Herriot at all costs."
+ 
+ FRA_traitors_in_the_forces:0 "Traitors In The Forces"
+ FRA_traitors_in_the_forces_desc:0 "We must launch a full investigation and purge of the ARF to ensure there are no enemies to the republic infiltrating our forces."
+ 
+ FRA_ban_extremist_parties:0 "Ban Extremist Parties"
+ FRA_ban_extremist_parties_desc:0 "We now shall ban the extremist parties that are a threat to the Republic. From the left, and from the right, they are all the same, and are all enemy extremists."
+ 
+ FRA_arrest_felix_gouin:0 "Arrest Félix Gouin"
+ FRA_arrest_felix_gouin_desc:0 "We must now arrest Félix Gouin, a major leader in the fight against our democracy and Republic. His socialists will collapse without his leadership."
+ 
+ FRA_arrest_marcel_deat:0 "Arrest Marcel Déat"
+ FRA_arrest_marcel_deat_desc:0 "We must now arrest Marcel Déat, the leader of the right wing extremist Populaires. Déat's stranglehold on his underground movement will leave it in shambles."
+ 
+ FRA_call_for_an_assembly_meeting:0 "Call For An Assembly Meeting"
+ FRA_call_for_an_assembly_meeting_desc:0 "While semi-powerless for the past year, the National Assembly must meet. Herriot and loyalists shall ensure that even the National Assembly can not be corrupted from anti-democratic forces against the Republic."
+ 
+ FRA_no_mercy_from_herriot:0 "No Mercy From Herriot"
+ FRA_no_mercy_from_herriot_desc:0 "No mercy, means no mercy. All dissidents will be tried and put in prison if not executed for treason against democracy, against the Republic."
+ 
+ FRA_the_benevolant_herriot:0 "The Benevolent Herriot"
+ FRA_the_benevolant_herriot_desc:0 "Herriot will rule the Republic during this transitional period with benevolence, after all we don't want to make dangerous risks."
+ 
+ FRA_institute_new_press_laws:0 "Institute New press Laws"
+ FRA_institute_new_press_laws_desc:0 "It is now time to tighten the press in the Republic, we need to ensure that Anti-Republic traitors can't taint the media of the people and fill their head with anti-democratic and anti-republic ideas."
+ 
+ FRA_execute_dissidents:0 "Execute Dissidents"
+ FRA_execute_dissidents_desc:0 "Dissidents charged with higher treasonous crimes will be put to death, the BSI, AP, and Gendarmerie will be instructed to shoot if arrest is not an option. Gouin and Déat will be two of the first two go."
+ 
+ FRA_raid_safehouses:0 "Raid Safehouses"
+ FRA_raid_safehouses_desc:0 "Many safehouses have been identified by cooperative citizens and ex-dissidents, we shall raid them."
+ 
+ FRA_channel_robespierre:0 "Channel Robespierre"
+ FRA_channel_robespierre_desc:0 "Robespierre like Herriot wished for nothing more than to protect the democracy of our great Republic, and that shall not be forgotten! Comparisons to Robespierre must be made public!"
+ 
+ FRA_instill_fear:0 "Instill Fear"
+ FRA_instill_fear_desc:0 "The only way to ensure the people will stay loyal to the great ideals of our Republic are to make them fear what will happen if they join the treasonous movements. Those loyal to democracy, to the Republic, to Herriot have no need to fear."
+ 
+ FRA_instill_a_new_national_pride:0 "Instill A New National Pride"
+ FRA_instill_a_new_national_pride_desc:0 "We shall instill a national pride built around the Herriot democratic Republic, Herriot the Père de France or Father of France. People will be proud of France, proud of the republic, proud of the life Herriot has provided."
+ 
+ FRA_pledge_to_herriot:0 "Pledge To Herriot"
+ FRA_pledge_to_herriot_desc:0 "The people shall make a pledge to the government, to Prime Minister Herriot. Pledge to never betray the Republic."
+ 
+ FRA_build_a_cult_around_herriot:0 "Build A Cult Around Herriot"
+ FRA_build_a_cult_around_herriot_desc:0 "Schools, Public Squares, Government Buildings, everywhere shall remind the people the importance of Herriots rule, and how he is here to protect the country."
+ 
+ FRA_institute_survaillance_strategies:0 "Institute Surveillance Strategies"
+ FRA_institute_survaillance_strategies_desc:0 "Through a series of expanded whistle blower programs, and new departments of the BIS, surveillance for protection of the state will be much easier."
+ 
+ FRA_lessons_from_the_great_war_1:0 "Lessons From The Great War"
+ FRA_lessons_from_the_great_war_1_desc:0 "We shall take time to learn from the Great War, we lost the war for specific reasons. We need to improve if we are to protect France from threats to the Republic from within and without."
+ 
+ FRA_forgiveness_is_key:0 "Forgiveness Is Key"
+ FRA_forgiveness_is_key_desc:0 "Forgiveness is an important thing in life, if we don't have forgiveness then eventually we have nothing."
+ 
+ FRA_lessons_from_robespierre:0 "Lessons From Robespierre"
+ FRA_lessons_from_robespierre_desc:0 "Maximilien Robespierre was nothing but a dictator tarnishing the name of democracy and the Republic, we are a true transitional authoritary compared to his proto-popularist totalitariat."
+ 
+ FRA_promote_a_united_peoples:0 "Promote A United Peoples"
+ FRA_promote_a_united_peoples_desc:0 "While it will still be a long way to go to mend the problems between the various groups of French people in the Republic, it is something that must be done to ensure unity in our Republic. All born under the Republic, are citizens of the Republic as long as they do not betray the Republic."
+ 
+ FRA_surrender_for_amnesty:0 "Surrender For Amnesty"
+ FRA_surrender_for_amnesty_desc:0 "We shall introduce a program that encourages members of radical underground groups to turn themselves in and in exchange receive light to no sentencing. Whistleblowers will recieve even more rewards."
+ 
+ FRA_remembering_the_past:0 "Remembering The Past"
+ FRA_remembering_the_past_desc:0 "The past is a lesson, a lesson we need to ensure we learn from. The Great War, Robespierre, and more are all just demonstrations and lessons for how not to carry out our Republic."
+ 
+ FRA_end_of_the_new_democracy:0 "End of The New Democracy"
+ FRA_end_of_the_new_democracy_desc:0 "The Nouvelle Démocratie, the institution put in place by Herriot himself will now come to an end. Herriot has decided that the transitional state will end, as the institution of Herriot's Republic will rise. Herriot's Republic will be the new title for the government policies implemented under the glorious regime."
+ 
+ FRA_herriots_continuity:0 "Herriots Continuity"
+ FRA_herriots_continuity_desc:0 "Herriot has saved our democratic Republic through various means of preservation. Herriot however is not done, much needs to be done."
+ 
+ FRA_addressing_the_economy:0 "Addressing The Economy"
+ FRA_addressing_the_economy_desc:0 "Many of the issues in France at the moment stem from the poor economic state, if we can begin to make changes to our economy one way or another we will see improvements."
+ 
+ FRA_look_to_conservatives:0 "Look To Conservatives"
+ FRA_look_to_conservatives_desc:0 "We must look to the ideas of conservative thinkers for their ideas will get us out of our situation, and maybe we can embrace other conservative ideas along the way."
+ 
+ FRA_embrace_capitalist_ideals:0 "Embrace Capitalist Ideals"
+ FRA_embrace_capitalist_ideals_desc:0 "We need to look to the ideals of capitalism, we must embrace the free market!"
+ 
+ FRA_halt_expansion_of_regulations:0 "Halt Expansion of Regulations"
+ FRA_halt_expansion_of_regulations_desc:0 "We need to halt the expansion of regulations that France has done in recent years, while we have not introduced many in the past year it is time to fully stop any going forward. Regulations are doing nothing but adding to the issues, making it harder for companies to hire workers or pay better wages."
+ 
+ FRA_reject_the_socialist_keynesian_economics:0 "Reject The Socialist Keynesian Thought"
+ FRA_reject_the_socialist_keynesian_economics_desc:0 "Keynesian Thought is the idea from British Economist John Maynard Keynes that states regulations and social security are necessary, especially in times of crisis along with running deficits. This would mean artificial increase of demands, what Keynes does not account for is the fact that this artificial boost will collapse in on itself and would lead to job loss and more."
+ 
+ FRA_austerity_measures:0 "Austerity Measures"
+ FRA_austerity_measures_desc:0 "While the government certainly should have a limited place in business France is still in a bad place and we need to pull ourselves out of it. To do this we shall embrace Austerity, the idea of raising taxes while making spending cuts. This will allow us to make more money for the government and restore the economy to allow us to return to lower taxes soon enough!"
+ 
+ FRA_less_taxes_more_jobs:0 "Less Taxes More Jobs"
+ FRA_less_taxes_more_jobs_desc:0 "We shall decrease taxes for companies in certain industries so they can expand their workforce with well deserved compensation. Since a company will be able to pay less in taxes, they will have more money and this will allow them to put it towards their workers which will benefit the people and the economy."
+ 
+ FRA_herriot_economics:0 "Herriot Economics"
+ FRA_herriot_economics_desc:0 "Herriot Economics is a government social networking plan that allows the people to be aware of the wonderful new ideas introduced are all part of Herriot's own economic plan. This will allow people to have even more faith in the Republic and in Herriot."
+ 
+ FRA_pull_back_on_laicite:0 "Pull Back On Laicite"
+ FRA_pull_back_on_laicite_desc:0 "Numerous advisors have suggested the scaling back of Laicite secular policies, in tern this will allow for workers to take Sundays off from work or at least shorter days, along with other encouragement of faith in Herriot. If a worker is allowed to have Sunday off, they will work harder."
+ 
+ FRA_christianize_the_public_sphere:0 "Christianize The Public Sphere"
+ FRA_christianize_the_public_sphere_desc:0 "France is a Catholic majority country, and while the foundations of our great Republic are in secularism and the ideas pushed under Laicite we need to understand that the majority needs to be able to freely practice their religion and have support from the government. Holidays shall be granted to Christians, productivity will continue to increase. While we maintain a secular cause we shall let the people know they are welcome."
+ 
+ FRA_privatise_african_rails:0 "Privatize African Rails"
+ FRA_privatise_african_rails_desc:0 "During the late 1800s and early 1900s France took time to built rail systems in North and West Africa, these rail lines which are owned and operated by the government should be sold off to private companies to give the economy a necessary boost."
+ 
+ FRA_ignorance_to_natives:0 "Ignorance To Natives"
+ FRA_ignorance_to_natives_desc:0 "Africa is a land of vast resources, and while much of French colonial holdings were taken after our defeat in the Great War we still have a stake. It is time to start selling off pieces of land, extracting resources, and making use of the territory regardless of what the locals think."
+ 
+ FRA_crack_down_on_unions:0 "Crack Down On Unions"
+ FRA_crack_down_on_unions_desc:0 "While an individual deserves to negotiate their rights as a worker, the collective nature within unions is nothing but a threat to the Republic, economy, and people. We shall crack down on unions who attempt to bully companies into things individual workers should negotiate for themselves."
+ 
+ FRA_promote_emmigration_to_africa:0 "Promote Emigration To Africa"
+ FRA_promote_emmigration_to_africa_desc:0 "Africa is like a new New World, well not so new but nevertheless it is time to encourage people to relocate there for certain situations as companies begin to expand into Africa it will allow for great workforces and in general more jobs for the French people of this Great Republic."
+ 
+ FRA_look_to_progressives:0 "Look To Progressives"
+ FRA_look_to_progressives_desc:0 "The progressive movement is a global thing and has been for over a century constantly evolving. In France, the revolution was considered to be progressive while elements of that same regime are considered regressive by mainstream progressives. We shall look to the modern progressives the heal our economy using various left wing methods."
+ 
+ FRA_french_socialism:0 "French Socialism"
+ FRA_french_socialism_desc:0 "French Socialism, a term we shall use to label our government plans and reforms for the economy. While different from more mainstream Marxist forms of Socialism, the government will take a step forward to make a perfect system for our Republic."
+ 
+ FRA_a_guaranteed_wage:0 "A Guaranteed Wage"
+ FRA_a_guaranteed_wage_desc:0 "The workers of France, while receiving pay for their toil tend to not receive fair compensation so we must enact a guaranteed wage of minimum payment. Some countries have already implemented such bills and has improved the lives of many."
+ 
+ FRA_implement_tax_reforms:0 "Implement Tax Reforms"
+ FRA_implement_tax_reforms_desc:0 "It is time to implement tax reforms that can be used to generate new income for the government and put towards pulling us out of the economic hole we are in plus social security for the people in the Republic."
+ 
+ FRA_new_education_programs:0 "New Education Programs"
+ FRA_new_education_programs_desc:0 "Implementing new education program will improve the literacy in the nation, producing more skilled workers. A necessary expense to fix our Republic."
+ 
+ FRA_expand_rights_to_africains:0 "Expand Rights To Africans"
+ FRA_expand_rights_to_africains_desc:0 "We need to consider all the people in the Republic, not just the majority white population but all from Paris to Timbuktu. We need to expand several of our new programs to the people in Africa to help unify the people of the Republic further."
+ 
+ FRA_industrial_programs_in_the_north:0 "Industrial Programs In The North"
+ FRA_industrial_programs_in_the_north_desc:0 "The desolate North was heavily ruined in the Great War and for the most part has not been properly rebuilt with people living in poverty and in some cases poorly built shacks. We need to start a massive project to begin rebuilding the region, a much needed step for the people, and the economy."
+ 
+ FRA_northern_employment_programs:0 "Northern Employment Programs"
+ FRA_northern_employment_programs_desc:0 "The North along with its massive desolation is also severally unemployed with one in three adults unemployed, and those who are working, suffer miserable conditions. Creating new jobs through government programs can bring needed change and assist the people."
+ 
+ FRA_progressisme_francais:0 "Progressisme Français"
+ FRA_progressisme_francais_desc:0 "Progressisme Français is a term coined by Prime Minister Herriot for new plans, the key ideas of this ideological program, term, and plans include representation of minorities, continued Laicite programs, as well as the legalisation or rather decriminalization of homosexuality."
+ 
+ FRA_equal_races_of_france:0 "Equal Races of France"
+ FRA_equal_races_of_france_desc:0 "It is time to accept that there is no superiority in race and any form of segregation between the masses must end followed with extreme integration of the masses. While France doesn't have a racial system like the countries in the Americas or numerous others, we do have many unjust racial laws and protocols. Our great Republic is a multicultural one and it is time to embrace such a thing, and work towards uniting the people no matter their race!"
+ 
+ FRA_abolish_homosexual_penalties:0 "Abolish Homosexual Penalties"
+ FRA_abolish_homosexual_penalties_desc:0 "Homosexual men, and in some more rare cases women are arrested or even put to death for the 'crime' of being a homosexual. Whether or not it is a sin, whether or not it is a choice, it is between God and the homosexual. It is only right we follow through with distancing ourselves with the Christian thought more if we are to maintain the Laicite practices."
+ 
+ FRA_maintain_laicite_policies:0 "Maintain Laicite Policies"
+ FRA_maintain_laicite_policies_desc:0 "Laicite Policies have evolved massively over the existence of the French Republic, in the beginning there was a heavy atheist enforcement within government and for a short time a turn away from the atheism and embracing of Pro-Religious secularism. Laicite was introduced to counter balance that and to ensure a separation of Church and State in the public sphere. The Church would have no say in what the government does, and the government would not submit to religious radicals. We need to return to such ideals."
+ 
+ FRA_increase_military_budget:0 "Increase Military Budget"
+ FRA_increase_military_budget_desc:0 "Increasing the military budget will not only provide numerous new jobs to people of the country but also allow for further defense of our Republic. The ideas that influenced Herriots great modern Republic advocated for a strong and appreciated military, it only is right that the nation honor this ideal!"
+ 
+ FRA_shaping_herriots_foreign_policy:0 "Shaping Herriots Foreign Policy"
+ FRA_shaping_herriots_foreign_policy_desc:0 "Our future on the foreign stage is not set in stone, we must decide what path our Republic will follow. One of cooperation against the radical menace? Or one to retrieve what we lost?"
+ 
+ FRA_forget_the_war:0 "Forget The War"
+ FRA_forget_the_war_desc:0 "Forget the war, radicals are a bigger problem, we can attempt to work with our old enemies and old friends to ensure a bulwark against radicals who will do nothing but attempt to trample over the Republic."
+ 
+ FRA_vanguard_against_radicalism:0 "Vanguard Against Radicalism"
+ FRA_vanguard_against_radicalism_desc:0 "We must lead the vanguard against radicalism, we must protect the world from the erratic ideas that plague this great Earth."

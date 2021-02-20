@@ -1,0 +1,316 @@
+﻿l_english:
+ 
+ #Country Name
+ FOAU_BOX_NAME:0 "[?ROOT.GetName]"
+ 
+ #Ideologies
+ radical_socialism:0 "Radical Socialism"
+ radical_socialism_noun:0 "Radical Socialists"
+ radical_socialism_desc:0 "Radical Socialist Regime"
+ 
+ utopian_socialism:0 "Utopian Socialism"
+ utopian_socialism_noun:0 "Utopian Socialists"
+ utopian_socialism_desc:0 "Utopian Socialist Regime"
+ 
+ pastoralism:0 "Pastoralism"
+ pastoralism_noun:0 "Pastoralist"
+ pastoralism_desc:0 "Pastoralist Regime"
+ 
+ liberalism:0 "Liberalism"
+ liberalism_noun:0 "Liberal"
+ liberalism_desc:0 "Liberal Regime"
+ 
+ conservatism:0 "Conservatism"
+ conservatism_noun:0 "Conservative"
+ conservatism_desc:0 "Conservative Regime"
+ 
+ traditionalism:0 "Traditionalism"
+ traditionalism_noun:0 "Traditionalist"
+ traditionalism_desc:0 "Traditionalist Regime"
+ 
+ staatism:0 "Staatism"
+ staatism_noun:0 "Staatist"
+ staatism_desc:0 "Staatist Regime"
+ 
+ popularism:0 "Popularism"
+ popularism_noun:0 "Popularist"
+ popularism_desc:0 "Popularist Regime"
+ 
+ #RadSoc Subs
+ radical_socialism_ideology:0 "Radical Socialism"
+ radical_socialism_ideology_desc:0 "Radical Socialism carries along the ideas of socialism along a more radical and revolutionary transition, opposed to the Utopian Socialist ideal of working with the bourgeoisie in a peaceful cooperative society."
+ fascism:0 "Fascism"
+ fascism_desc:0 "Fascism is a populist and nationalistic strain of the greater Radical Socialist movement, at times compared to early forms of Popularism and labeled as Popularism itself at times it is different as it does not hold the nationalistic ideas to absolute authority. Fascists are open to abandoning their nationalistic agenda when needed in favor of the populist and socialist key ideas of the movement. Fascists wish to build up the workers of their nation, opposed to popularist style socialism which seeks to put their national identity above the workers."
+ marxism_gallarcherism:0 "Marxism-Gallarchism"
+ marxism_gallarcherism_desc:0 ""
+ martovism:0 "Martovism"
+ martovism_desc:0 ""
+ social_democracy:0 "Social Democracy"
+ social_democracy_desc:0 ""
+ voyennoye_pervenstvo:0 "Voyennoye Pervenstvo"
+ voyennoye_pervenstvo_desc:0 ""
+ ramirezism:0 "Ramirezism"
+ ramirezism_desc:0 ""
+ ultravisionary_socialism:0 "Ultravisionary Socialism"
+ ultravisionary_socialism_desc:0 ""
+ 
+ #UtopSoc Subs
+ utopian_socialism_ideology:0 "Utopian Socialism"
+ utopian_socialism_ideology_desc:0 "Utopian Socialism embraces socialistic ideals while believing that they can be implemented in a smooth cooperative transition, allowing all corners and classes of society to work together, which is opposed to the revolutionary and radical ideas of the Radical Socialist sect of Socialism."
+ associationism:0 "Associationism"
+ associationism_desc:0 "Associationism is often confused with the popularist movement of Utopian Nationalism due to the latter using the name Utopian and the former being a strain of Utopian Socialism as well as nationalist. Associationism believes in working together with the enemies within a nation to make the country a better place, cooperate with those you aren't aligned with to ensure the success of the nation. One of the key ideas of Associationism was born out of a phrase, said phrase being 'An enemy is just a friend, yet to be made!'."
+ religious_socialism:0 "Religious Socialism"
+ religious_socialism_desc:0 "Religious Socialism is a strain of the Utopian Socialist movement that seeks to unite the people under God, or their key religious figure. Believing that socialism is the true way forward as praised my many gods and deities, to help one another and rejoice in the faith. Religious Socialism is opposed to class warfare as adherents believe possible enemies need to be assisted, and worked with to ensure a better society for all on their way through life."
+ democratic_socialism:0 "Democratic Socialism"
+ democratic_socialism_desc:0 "Democratic Socialism embraces democratic principles along with socialist economic ideals. Democratic Socialists want to work within the Democratic framework to reform society from inside opposed to revolution. Democratic Socialists also embrace cooperation with capitalist parties as to ensure they can succeed in the political sphere."
+ imperial_socialism:0 "Imperial Socialism"
+ imperial_socialism_desc:0 "Imperial Socialism is a variant of Socialism that can trace its roots back to the United Kingdom. Formed in the melting pot of nations that was Imperial London, in debate salons as well as union pubs, Imperial Socialism is deeply internationalist in its onlook. What sets the ideology apart from the other stems of Socialism is its belief in the "Red Worker's Burden", that it is the task of the emancipated working class to spread the revolution to countries it has yet to reach, and shepherd the unemancipated workers towards the universal Socialist Commonwealth, a fraternity of equal nations under the scarlet banner. Imperial Socialism is revolutionary, but rejects revolutionary terror tactics, believing that the Commonwealth is unattainable without humanity and mutual cooperation. A uniquely British way of thought, Imperial Socialism has very few adherants outside of Great Britain, but has made some traction within the British socialist movement."
+
+ #Pastoralist Subs
+ pastoralism_ideology:0 "Pastoralism"
+ pastoralism_ideology_desc:0 "Pastoralists are a group of anti-industrial thinkers that grew out of post-Great War strife that they pin on the Industrial Revolution. While being very socialistic in nature, the ideology is not inherently socialist in all strains but instead is focused on the idea of nature, naturalism, ruralism and more. While most Pastoralists don't wish for the total abandonment of industrial society they typically wish to slow down said society or implement reforms and regulations for what they say is a possible environmental crisis."
+ 
+ #Liberalism
+ liberalism_ideology:0 "Liberalism"
+ liberalism_ideology_desc:0 ""
+ 
+ #Staatist Subs
+ revanche_liberalism:0 "Revanche Liberalism"
+ revanche_liberalism_desc:0 "Revanche Liberalism is the name of the ideology put in place under the Herriot Regime of France. The term came about prior to the establishment of the Nouvelle démocratie system. Despite its name, Revanche Liberalism is a fairly illiberal staatist ideology that espouses extreme anti-radicalism, autocratic rule, revanche, and colonialism. It is at times compared to Popularism by liberals and sometimes nicknamed Herriotism, and despite its anti-radical talking points is radical in its own right. Followers of the ideology however tend to strongly defend it as being liberal, and socially protectionist, defending their nation against radicalism while ignoring the radical extents the beliefs itself holds onto."
+ 
+ 
+ ###Country Ideas###
+ ###################
+ 
+ #Ministers
+ cabinet:0 "Cabinet"
+ second_in_command:0 "Second In Command"
+ foreign_minister:0 "Foreign Minister"
+ economic_minister:0 "Economic Minister"
+ intelligence_minister:0 "Intelligence Minister"
+ defense_minister:0 "Defense Minister"
+ very_important_person:0 "V.I.P."
+ 
+ #Political Stances
+ radical_socialist:0 "Radical Socialist"
+ utopian_socialist:0 "Utopian Socialist"
+ pastoralist:0 "Pastoralist"
+ liberal:0 "Liberal"
+ staatist:0 "Staatist"
+ conservative:0 "Conservative"
+ traditionalist:0 "Traditionalist"
+ popularist:0 "Popularist"
+ 
+ #Ministerial Traits
+ politician_with_connections:0 "Politician With Connections"
+ naval_intelligence_specialist:0 "Navy Intelligence Specialist"
+ novice_mastermind:0 "Novice Mastermind"
+ efficient_sociopath:0 "Efficient Sociopath"
+ prince_of_terror:0 "Prince of Terror"
+ intelligence_director:0 "Intelligence Director"
+ isolationist:0 "Isolationist"
+ ex_military:0 "Ex-Military"
+ compassionate_gentleman:0 "Compassionate Gentleman"
+ silent_lawyer:0 "Silent Lawyer"
+ extreme_regulator:0 "Extreme Regulator"
+ corrupt_kleptocrat:0 "Corrupt Kleptocrat"
+ private_military_specialist:0 "Private Military Specialist"
+ former_scientist:0 "Former Scientist"
+ libertarian_capitalist:0 "Libertarian Capitalist"
+ moderate_fill_in:0 "Moderate Fill In"
+ resource_industrialist:0 "Resource Industrialist"
+ administrative_genius:0 "Administrative Genius"
+ international_schemer:0 "International Schemer"
+ great_compromiser:0 "Great Compromiser"
+ iron_fisted_brute:0 "Iron Fisted Brute"
+ apologetic_clerk:0 "Apologetic Clerk"
+ ideological_crusader:0 "Ideological Crusader"
+ biased_intellectual:0 "Biased Intellectual"
+ religious_leader:0 "Religious Leader"
+ corporate_suit:0 "Corporate Suit"
+ ambitious_union_boss:0 "Ambitious Union Boss"
+ political_protege:0 "Political Protégé"
+ retired_air_force_general:0 "Retired Air Force General"
+ retired_admiral:0 "Retired Admiral"
+ retired_general:0 "Retired General"
+ oil_baron:0 "Oil Baron"
+ flamboyant_tough_guy:0 "Flamboyant Tough Guy"
+ naive_optimist:0 "Naive Optimist"
+ silent_workhorse:0 "Silent Workhorse"
+ insignificant_layman:0 "Insignificant Layman"
+ autocratic_charmer:0 "Autocratic Charmer"
+ power_hungry_demagogue:0 "Power Hungry Demagogue"
+ 
+ 
+ #Political Systems
+ government_form:0 "Government Form"
+ economic_policy:0 "Economic Policy"
+ civil_liberties:0 "Civil Liberties"
+ press_liberties:0 "Press Laws"
+ racial_integration:0 "Racial Integration"
+ religious_policy:0 "Religious Policy"
+ security_policy:0 "Security Policy"
+ 
+ 
+ #Political Systems Groups
+ 
+ #GovForms
+ illiberal_democracy:0 "Illiberal Democracy"
+ illiberal_democracy_desc:0 "An illiberal democracy is a governing system in which although elections take place, citizens are cut off from knowledge about the activities of those who exercise real power because of the lack of civil liberties; thus it is not an open society."
+ 
+ military_junta:0 "Military Junta"
+ military_junta_desc:0 "Military Junta."
+ 
+ liberal_democracy:0 "Liberal Democracy"
+ liberal_democracy_desc:0 "Liberal Democracy."
+ 
+ welfare_democracy:0 "Welfare Democracy"
+ welfare_democracy_desc:0 "Welfare Democracy."
+ 
+ autocratic_state:0 "Autocratic State"
+ autocratic_state_desc:0 "Autocratic State."
+ 
+ absolute_monarchy:0 "Absolute Monarchy"
+ absolute_monarchy_desc:0 "Absolute Monarchy."
+ 
+ theocracy:0 "Theocracy"
+ theocracy_desc:0 "Theocracy."
+ 
+ socialist_dictatorship:0 "Socialist Dictatorship"
+ socialist_dictatorship_desc:0 "Socialist Dictatorship."
+ 
+ council_state:0 "Council State"
+ council_state_desc:0 "Council State"
+ 
+ theodemocracy:0 "Theodemocracy"
+ theodemocracy_desc:0 "Theodemocracy."
+ 
+ tribal_union:0 "Tribal Union"
+ tribal_union_desc:0 "Tribal Union."
+ 
+ khanate:0 "Khanate"
+ khanate_desc:0 "Khanate."
+ 
+ islamic_state:0 "Islamic State"
+ islamic_state_desc:0 "Islamic State."
+ 
+ organic_peoples_state:0 "Organic Peoples State"
+ organic_peoples_state_desc:0 "Organic Peoples State."
+ 
+ communal_state:0 "Communal State"
+ communal_state_desc:0 "Communal State."
+ 
+ anarchist_society:0 "Anarchist Society"
+ anarchist_society_desc:0 "Anarchist Society."
+ 
+ feudal:0 "Feudalistic Society"
+ feudal_desc:0 "Feudalistic Society."
+ 
+ oligarchy:0 "Oligarchy"
+ oligarchy_desc:0 "Oligarchy."
+ 
+ colonial_administration:0 "Colonial Administration"
+ colonial_administration_desc:0 "Colonial Administration."
+ 
+ market_board_state:0 "Market Board State"
+ market_board_state_desc:0 "Market Board State."
+ 
+ rebel_committe:0 "Rebel Committee"
+ rebel_committe_desc:0 "Rebel Committee"
+ 
+ ##Economic Policies ###Descriptions for economic policies done by TheRealGrixly
+ 
+ voluntary_society:0 "Voluntary Society"
+ voluntary_society_desc:0 "Voluntary Society advocates for the elimination of centralized states in favor of a system of private property enforced by private agencies, free markets and the right-libertarian interpretation of self-ownership, which extends the concept to include control of private property as part of the self."
+ 
+ laissez_faire_capitalism:0 "Laissez-Faire Capitalism"
+ laissez_faire_capitalism_desc:0 "Laissez-Faire Capitalism is an economic system in which transactions between private groups of people are absent or almost absent of any form of economic interventionism such as regulation and subsidies via the Government."
+ 
+ interventionism:0 "Interventionism"
+ interventionism_desc:0 "Interventionism is an economic policy perspective favoring government intervention in the market process to correct market failures and promote the general welfare of the people."
+ 
+ social_market:0 "Social Market"
+ social_market_desc:0 "A Social Market Economy is a socioeconomic model combining a free market capitalist economic system alongside social policies that establish both fair competition within the market and a welfare state."
+ 
+ corporatism:0 "Corporatism"
+ corporatism_desc:0 "Corporatism, referring to a Oligarchal corporation, is a government body that brings together federations of workers and employers syndicates to regulate production in a holistic manner. Each trade union would theoretically represent its professional concerns, especially by negotiation of labour contracts and the like."
+ 
+ state_capitalism:0 "State Capitalism"
+ state_capitalism_desc:0 "State Capitalism is an economic system in which the state undertakes business and commercial economic activity and where the means of production are organized and managed as state-owned enterprises."
+ 
+ cooperative_society:0 "Cooperative Society"
+ cooperative_society_desc:0 "Cooperative Society Economics is a type of economic system involving the public, cooperative or social ownership of the means of production in the framework of a market economy."
+ 
+ planned_economy:0 "Planned Economy"
+ planned_economy_desc:0 "Planned Economy is a type of economic system where investment, production and the allocation of capital goods take place according to economy-wide economic plans and production plans."
+ 
+ mutual_aid:0 "Mutual Aid"
+ mutual_aid_desc:0 "Mutual Aid is a voluntary reciprocal exchange of resources and services for mutual benefit. Mutual aid projects are a form of political participation in which people take responsibility for caring for one another and changing political conditions."
+ 
+ ##Civil Liberties
+ anarhkia:0 "Anarhkia"
+ 
+ radical_freedom:0 "Radical Freedom"
+ 
+ commonwealth:0 "Commonwealth"
+ 
+ moral_society:0 "Moral Society"
+ 
+ guided_society:0 "Guided Society"
+ 
+ authoritarianism:0 "Authoritarianism"
+ 
+ totalitarianism:0 "Totalitarianism"
+ 
+ obliteration_of_the_self:0 "Obliteration of The Self"
+ 
+ ##Press Liberties
+ 
+ free_press:0 "Free Press"
+ 
+ state_sponsered_press:0 "State Sponsored Press"
+ 
+ controlled_press:0 "Controlled Press"
+ 
+ censorship:0 "Censorship"
+ 
+ state_press:0 "State Press"
+ 
+ propaganda_machine:0 "Propaganda Machine"
+ 
+ ##Racial Integration
+ 
+ post_racial_society:0 "Post-racial Society"
+ 
+ racial_equality:0 "Racial Equality"
+ 
+ racial_integration_idea:0 "Racial Integration"
+ 
+ multi_racial_society:0 "Multi-racial Society"
+ 
+ racial_inequality:0 "Racial Inequality"
+ 
+ segregation:0 "Segregation"
+ 
+ separation:0 "Separation"
+ 
+ slavery:0 "Slavery"
+ 
+ extermination:0 "Extermination"
+ 
+ ##Religious Policy
+ 
+ state_atheism:0 "State Atheism"
+ 
+ laicite:0 "Laïcité"
+ 
+ secularism:0 "Secularism"
+ 
+ tolerant_state_religion:0 "Tolerant State Religion"
+ 
+ dominant_state_religion:0 "Dominant State Religion"
+ 
+ hegemonic_state_religion:0 "Hegemonic State Religion"
+ 
+ mandatory_cult:0 "Mandatory Cult"
+ 

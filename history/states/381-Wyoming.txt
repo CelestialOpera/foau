@@ -1,0 +1,23 @@
+
+state={
+	id=381
+	name="STATE_381"
+	manpower = 225564
+	state_category = rural
+	
+	history={
+		owner = NAT
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NAT
+		victory_points = {
+			1815 25
+		}
+	}
+
+	provinces={
+		1815 4610 4794 4820 7688 7814 7888 10711 12651 
+	}
+	
+}

@@ -1,0 +1,20 @@
+state={
+	id=826
+	name="STATE_826"
+	history={
+		buildings = {
+			infrastructure = 3
+			
+		}
+		
+		owner = SWI
+		add_core_of = SWI
+		
+	}
+	provinces={
+		6661 9584 11587
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

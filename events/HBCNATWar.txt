@@ -1,0 +1,177 @@
+add_namespace = nativerevolt
+
+#Skirmish on French Border!
+country_event = {
+	id = nativerevolt.1
+	title = nativerevolt.1.t
+	desc = nativerevolt.1.d
+	#fire_only_once = yes
+	#picture = the_black_morning
+	fire_only_once = yes
+	mean_time_to_happen = {
+		days = 2
+	}
+	trigger = {
+		tag = HBC
+		
+		country_exists = HBC
+		country_exists = NAT
+		NAT = {
+			has_war_with = HBC
+			controls_state = 883
+			controls_state = 807
+		}
+		
+		
+	}
+	immediate = {
+		hidden_effect = {
+			set_global_flag = NATWAR_peace_attempted
+			HBC = {
+				set_country_flag = HBC_NATWAR_peace_attempt
+			}
+		}
+	}
+	
+	#Send Our Offer
+	option = {
+		name = nativerevolt.1.o1
+		ai_chance = {
+			base = 85
+			modifier = {
+				add = 15
+				is_historical_focus_on = yes
+			}
+		}
+		NAT = {
+			country_event = {
+				id = nativerevolt.2
+			}
+		}
+		#This sends a peace offer to the Natives, AI will always accept. 
+		
+		hidden_effect = {
+			set_country_flag = HBC_NATWAR_peace_sent
+		}
+	}
+	
+	#NEVER!
+	option = {
+		name = nativerevolt.1.o2
+		ai_chance = {
+			base = 15
+			modifier = {
+				add = -15
+				is_historical_focus_on = yes
+			}
+		}
+		hidden_effect = {
+			set_country_flag = HBC_NATWAR_peace_avoided
+		}
+		
+		#If this option is chosen, then HBC will start to collapse, in fact it won't only start to collapse but if the Natives take Minnesota OR Winnipeg then peace is automated (unless Natives chose to not), Natives get the border land (Montana+Dakota) and Minnesota, and the country begins to collapse
+	}
+	
+}
+
+##HBC offers Peace
+country_event = {
+	id = nativerevolt.2
+	title = nativerevolt.2.t
+	desc = nativerevolt.2.d
+	#picture = 
+	
+	is_triggered_only = yes
+	
+	#The Only Way
+	option = {
+		name = nativerevolt.2.o1
+		ai_chance = {
+			base = 100
+		}
+		
+		white_peace = {
+			tag = HBC
+			message = NATIVE_WAR_PEACE
+		}
+		
+		HBC = {
+			country_event = {
+				id = nativerevolt.3
+			}
+		}
+		
+	}
+	
+	#Never
+	option = {
+		name = nativerevolt.2.o2
+		ai_chance = {
+			base = 0
+		}
+		
+		HBC = {
+			country_event = {
+				id = nativerevolt.4
+			}
+		}
+		
+	}
+}
+
+##Natives Accept
+country_event = {
+	id = nativerevolt.3
+	title = nativerevolt.3.t
+	desc = nativerevolt.3.d
+	#picture = 
+	
+	is_triggered_only = yes
+	
+	#Peace! Time to Rebuild...
+	option = {
+		name = nativerevolt.3.o1
+		add_war_support = -0.50
+		add_stability = -0.25
+		
+		NAT = {
+			add_war_support = -0.50
+			add_stability = -0.35
+			
+			set_cosmetic_tag = NAT_EP_provgov
+			set_state_owner = 807
+			set_state_owner = 883
+			set_state_owner = 893
+			add_state_core = 807
+			add_state_core = 883
+			add_state_core = 893
+		}
+		
+		HBC = {
+			remove_state_core = 807
+			remove_state_core = 883
+			remove_state_core = 893
+		}
+	}
+}
+
+##Natives Reject!
+country_event = {
+	id = nativerevolt.4
+	title = nativerevolt.4.t
+	desc = nativerevolt.4.d
+	#picture = 
+	
+	is_triggered_only = yes
+	
+	#Dammit! Push On!
+	option = {
+		name = nativerevolt.4.o1
+		add_war_support = -0.05
+		
+		NAT = {
+			add_war_support = -0.05
+		}
+	}
+}
+##

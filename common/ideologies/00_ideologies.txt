@@ -1,0 +1,431 @@
+ideologies = {
+	
+	radical_socialism = {
+	
+		types = {
+		
+			
+			radical_socialism_ideology = {
+			}
+			
+			marxism = { #Orthodox Marxism
+			}
+			
+			directoralism = { #Directoralism is like Stalinism, Ubervanguardists who wish to guide the world into Socialism without a single stray from the path.
+			}
+			
+			marxism_gallarcherism = { #De Leonism and council com
+			}
+			
+			martovism = { #Mensheviks/Marxist Social Democracy
+			}
+			
+			social_democracy = { #Early Bolshevism
+			}
+			
+			voyennoye_pervenstvo = { #Tukhachevsky's thing
+			}
+			
+			ramirezism = { #Rojo Ramirez in California/Leninism
+			}
+			
+			anarcho_syndicalism = { #
+			}
+			
+			ultravisionary_socialism = { #People who want to completely reshape Californian society
+			}
+			
+			fascism = {
+				#Fascism is a nationalist and populist radical socialist movement. Many compare the ideology to that of Popularism but what they don't realize is that many aspects of the nationalist agenda will be overlooked and put aside for the populist and socialist key of the ideology. The want to build up the workers in their nation opposed to popularist style socialism where they wish to build their nation and give to the workers of the nation.
+				#In other words this ideology represents people who embrace nationalism and use it in their populist ideals but ultimately they will put it aside for time if it harms the workers. Fascists tend to be more peaceful if it may cause harm to the workers. They leave out ethnic nationalism, and ultranationalist rhetoric.
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 117 49 54 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			generate_wargoal_tension = 0.00
+			join_faction_tension = 0.00
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			#hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+
+
+	utopian_socialism = {
+	
+		types = {
+		
+			
+			utopian_socialism_ideology = {
+			}
+			
+			associationism = {
+				#Opposed to Utopian Nationalism, an ideology that some mix up with Associationism; this ideology wishes to bring forth a country into its great state while working together with theoretical enemies. Associationists mind set tend to put forward the idea of; an enemy is just a friend yet to be made.
+			}
+			
+			religious_socialism = {
+			}
+			
+			democratic_socialism = {
+			}
+			
+			imperial_socialism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 193 89 90 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			generate_wargoal_tension = 0.00
+			join_faction_tension = 0.00
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			#hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+
+	pastoralism = {
+	
+		types = {
+		
+			
+			pastoralism_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 91 191 98 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			generate_wargoal_tension = 0.00
+			join_faction_tension = 0.00
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			#hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+	liberalism = {
+	
+		types = {
+		
+			
+			liberalism_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 253 232 95 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			generate_wargoal_tension = 0.00
+			join_faction_tension = 0.00
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			#hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+
+
+	staatism = {
+	
+		types = {
+		
+			
+			staatism_ideology = {
+			}
+			
+			revanche_liberalism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 111 111 111 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			generate_wargoal_tension = 0.00
+			join_faction_tension = 0.00
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			#hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+
+
+	conservatism = {
+	
+		types = {
+		
+			
+			conservatism_ideology = {
+			}
+			
+			christian_democracy = {
+			}
+			
+			conservative_monarch = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 50 41 165 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			generate_wargoal_tension = 0.00
+			join_faction_tension = 0.00
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			#hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+
+
+	traditionalism = {
+	
+		types = {
+		
+			
+			traditionalism_ideology = {
+			}
+			
+			monarchism = {
+			}
+			
+			fundamentalism = {
+			}
+			
+			integralism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 34 6 48 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			generate_wargoal_tension = 0.00
+			join_faction_tension = 0.00
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			#hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+
+
+	popularism = {
+	
+		types = {
+		
+			
+			popularism_ideology = {
+			}
+			
+			romantic_vanguardism = {
+				#Romantic Vanguardists wish to put in place a hyper-totalitarian dictatorship to ensure the protection of the nation and its history. Anti-Capitalism, Anti-Socialism.
+				#Unlike UtopNats they don't believe in this Nationalist utopia. They ultimately are building towards a perfect society, however one based in the ideas and design of the past. Opposed to Utopian Nationalism which simply wishes to build the nation anew.
+			}
+			
+			utopian_nationalism = {
+				#Utopian Nationalism stemmed from the Utopian Socialist movement however diverged radically leaving many of the cooperation based style of rules that UtopSocs include and replaced them with building the nation into a utopia. Clear and perfect, for the people, of the nation.
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 119 87 62 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			generate_wargoal_tension = 0.00
+			join_faction_tension = 0.00
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			#hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+}

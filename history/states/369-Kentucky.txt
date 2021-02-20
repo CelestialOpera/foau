@@ -1,0 +1,26 @@
+
+state={
+	id=369
+	name="STATE_369"
+	manpower = 2114588
+	
+	state_category = city
+
+	history={
+		owner = CUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			air_base = 4
+		}
+		add_core_of = CUL
+		victory_points = {
+			6696 1 
+		}
+
+	}
+
+	provinces={
+		4402 4988 6696 6974 10727 12709 
+	}
+}

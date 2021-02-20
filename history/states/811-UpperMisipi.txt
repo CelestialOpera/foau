@@ -1,0 +1,19 @@
+state={
+	id=811
+	name="STATE_811"
+	history={
+		owner = AIV
+		add_core_of = AIV
+		buildings = {
+			infrastructure = 2
+			
+		}
+		
+	}
+	provinces={
+		1523 7449 7607 10333 10391 10516
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

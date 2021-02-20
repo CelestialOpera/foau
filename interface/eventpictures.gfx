@@ -1,0 +1,53 @@
+spriteTypes = {
+
+	
+	spriteType = {
+		name = "the_black_morning"
+		texturefile = "gfx/event_pictures/report_event/black_morning.dds"
+	}
+	
+	spriteType = {
+		name = "report_sad_tale_reims"
+		texturefile = "gfx/event_pictures/report_event/sad_tale_reims.dds"
+	}
+	
+	spriteType = {
+		name = "report_france_lore"
+		texturefile = "gfx/event_pictures/report_event/france_lore.dds"
+	}
+	
+	spriteType = {
+		name = "report_attempt_on_herriot"
+		texturefile = "gfx/event_pictures/report_event/attempt_on_herriot.dds"
+	}
+	
+	spriteType = {
+		name = "report_funeral_france"
+		texturefile = "gfx/event_pictures/report_event/funeral_france.dds"
+	}
+	
+	spriteType = {
+		name = "report_french_officers"
+		texturefile = "gfx/event_pictures/report_event/french_officers.dds"
+	}
+	
+	spriteType = {
+		name = "report_public_meeting"
+		texturefile = "gfx/event_pictures/report_event/public_meeting.dds"
+	}
+	
+	spriteType = {
+		name = "report_militant_meeting"
+		texturefile = "gfx/event_pictures/report_event/militant_meeting.dds"
+	}
+	
+	spriteType = {
+		name = "report_french_soldiers"
+		texturefile = "gfx/event_pictures/report_event/french_soldiers.dds"
+	}
+	
+	spriteType = {
+		name = "report_british_civil_war"
+		texturefile = "gfx/event_pictures/report_event/british_civil_war.dds"
+	}
+}

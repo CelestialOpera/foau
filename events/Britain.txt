@@ -1,0 +1,327 @@
+add_namespace = britain
+
+#British Civil War Outbreak
+country_event = {
+	id = britain.1
+	title = britain.1.t
+	desc = britain.1.d
+	picture = report_british_civil_war
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+		
+			SCO = {
+				transfer_state = 120
+				transfer_state = 121
+				transfer_state = 136
+				transfer_state = 133
+				
+				add_state_core = 120
+				add_state_core = 121
+				add_state_core = 136
+				add_state_core = 133
+				
+				set_cosmetic_tag = SCO_british_liberal_gov
+				
+				declare_war_on = {
+					target = BRN
+					type = annex_everything
+				}
+				
+				declare_war_on = {
+					target = PUR
+					type = annex_everything
+				}
+			}
+			
+			
+			
+			BRN = {
+				transfer_state = 122
+				transfer_state = 128
+				transfer_state = 129
+				transfer_state = 130
+				transfer_state = 132
+				transfer_state = 131
+				
+				add_state_core = 122
+				add_state_core = 128
+				add_state_core = 129
+				add_state_core = 130
+				add_state_core = 132
+				add_state_core = 131
+				
+				declare_war_on = {
+					target = ENG
+					type = annex_everything
+				}
+				
+				declare_war_on = {
+					target = PUR
+					type = annex_everything
+				}
+				
+				declare_war_on = {
+					target = SCO
+					type = annex_everything
+				}
+				
+			}
+			
+			BST = {
+				transfer_state = 696
+				transfer_state = 311
+				transfer_state = 693
+				transfer_state = 690
+				transfer_state = 689
+				transfer_state = 687
+				transfer_state = 691
+				transfer_state = 692
+				transfer_state = 694
+				transfer_state = 308
+				transfer_state = 118
+				transfer_state = 116
+				transfer_state = 829
+				transfer_state = 183
+				transfer_state = 703
+				transfer_state = 704
+				transfer_state = 720
+				transfer_state = 299
+				transfer_state = 709
+				transfer_state = 707
+				transfer_state = 710
+				transfer_state = 713
+				transfer_state = 711
+				transfer_state = 712
+				transfer_state = 270
+				transfer_state = 684
+				transfer_state = 725
+				transfer_state = 643
+				transfer_state = 639
+				transfer_state = 642
+				
+				
+			}
+			
+			PUR = {
+				transfer_state = 125
+				transfer_state = 127
+				transfer_state = 338
+				transfer_state = 123
+				
+				add_state_core = 125
+				add_state_core = 127
+				add_state_core = 338
+				add_state_core = 123
+				
+				declare_war_on = {
+					target = ENG
+					type = annex_everything
+				}
+				
+				declare_war_on = {
+					target = BRN
+					type = annex_everything
+				}
+				
+				declare_war_on = {
+					target = SCO
+					type = annex_everything
+				}
+				
+			}
+			
+			every_country = {
+				limit = {
+					is_puppet_of = ENG
+				}
+				
+				end_puppet = ROOT
+			}
+			
+			for_each_scope_loop = {
+				array = ENG.core_states
+				add_core_of = SCO
+				add_core_of = BRN
+				add_core_of = PUR
+			}
+			
+			news_event = { id = britain.3 days = 1 }
+			
+			ENG = {
+				set_cosmetic_tag = ENG_london_emergency_government
+				
+				news_event = { id = britain.3 days = 5 }
+
+				set_country_flag = ENG_civil_war_begun
+				
+				create_country_leader = {
+					name = "Bernard Montgomery"
+					desc = "POLITICS_BERNARD_MONTGOMERY_DESC"
+					picture = "Bernard_Montgomery.dds"
+					expire = "1965.1.1"
+					ideology = liberalism_ideology
+					traits = {
+					}
+				}
+				
+				for_each_scope_loop = {
+					array = ENG.subjects
+					end_puppet = THIS
+					log = "Removed puppet relationship between [THIS.Getname] and ENG"
+				}
+				
+				
+				
+				declare_war_on = {
+					target = BRN
+					type = annex_everything
+				}
+				
+				declare_war_on = {
+					target = PUR
+					type = annex_everything
+				}
+				
+				
+				diplomatic_relation = {
+					country = FAR
+					relation = guarantee
+					active = no
+				}
+				
+				transfer_units_fraction= {
+					target = SCO
+					size = 0.25
+					stockpile_ratio = 0.25
+					army_ratio = 0.25
+					navy_ratio = 0.25
+					air_ratio = 0.25
+					#keep_unit_leaders_trigger = {
+					#	has_trait = trait_SPA_nationalist_sympathies
+					#}
+				}
+				
+				transfer_units_fraction= {
+					target = BRN
+					size = 0.33
+					stockpile_ratio = 0.33
+					army_ratio = 0.33
+					navy_ratio = 0.33
+					air_ratio = 0.33
+					
+					
+				}
+				
+				transfer_units_fraction= {
+					target = PUR
+					size = 0.5
+					stockpile_ratio = 0.5
+					army_ratio = 0.5
+					navy_ratio = 0.5
+					air_ratio = 0.5
+					
+				}
+				
+				transfer_units_fraction= {
+					target = BST
+					size = 0.1
+					stockpile_ratio = 0.2
+					army_ratio = 0.1
+					navy_ratio = 0.1
+					air_ratio = 0.1
+					
+				}
+				
+			}
+		
+		}
+	}
+	
+	#Stay In London!
+	option = { 
+		name = britain.1.o1
+		
+		
+	}
+	
+	#To Scotland!
+	option = { 
+		name = britain.1.o2
+		
+		SCO = { 
+			change_tag_from = ENG 
+		}
+		
+	}
+	
+	#Revolutionary Force!
+	option = { 
+		name = britain.1.o3
+		
+		country_event = { id = britain.2 }
+		
+	}
+	
+}
+
+#Which Side Are You On
+country_event = {
+	id = britain.2
+	title = britain.2.t
+	desc = britain.2.d
+	picture = report_british_civil_war
+	
+	is_triggered_only = yes
+	
+	
+	#For The Workers!
+	option = { 
+		name = britain.2.o1
+		
+		BRN = { 
+			change_tag_from = ENG 
+		}
+	}
+	
+	#For Britain!
+	option = { 
+		name = britain.2.o2
+		
+		PUR = { 
+			change_tag_from = ENG 
+		}
+		
+	}
+	
+	#Nevermind!
+	option = { 
+		name = britain.2.o3
+		
+		country_event = { id = britain.1 }
+		
+	}
+	
+}
+
+#War In Britain!
+news_event = {
+	id = britain.3
+	title = britain.3.t
+	desc = britain.3.d
+	picture = news_war_in_britain
+	is_triggered_only = yes
+
+	major = yes
+	trigger = {
+		NOT = {
+			tag = ENG
+		}
+	}
+
+	option = {
+		name = britain.3.o1
+	}
+}

@@ -1,0 +1,20 @@
+state={
+	id=855 
+	name="STATE_855"
+	history={
+		owner = CRA
+		add_core_of = CRA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			7797 10
+		}
+	}
+	provinces={
+		1987 7615 7797 10586 10615
+	}
+	manpower=1256124
+	buildings_max_level_factor=1.000
+	state_category=town
+}

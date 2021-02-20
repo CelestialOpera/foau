@@ -1,0 +1,20 @@
+state={
+	id=881
+	name="STATE_881"
+	
+	history={
+		owner = CUL
+		add_core_of = CUL
+		
+		buildings = {
+			infrastructure = 5
+			
+		}
+	}
+	provinces={
+		9786
+	}
+	manpower=238241
+	buildings_max_level_factor=1.000
+	state_category=town
+}

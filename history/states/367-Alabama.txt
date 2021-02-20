@@ -1,0 +1,28 @@
+
+state={
+	id=367
+	name="STATE_367"
+	manpower = 2646247
+	
+	state_category = city
+
+	history={
+		owner = FLR
+		add_core_of = FLR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			7480 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			7480 1 
+		}
+
+	}
+
+	provinces={
+		492 860 4756 7480 7640 10520 11942 
+	}
+}

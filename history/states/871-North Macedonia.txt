@@ -1,0 +1,21 @@
+state={
+	id=871
+	name="STATE_871"
+	history={
+		owner = BUL
+		add_core_of = BUL
+		
+		
+		buildings = {
+			infrastructure = 3
+	
+		}
+		
+	}
+	provinces={
+		907 974 3833 6886
+	}
+	manpower=542750
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

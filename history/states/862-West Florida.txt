@@ -1,0 +1,23 @@
+state={
+	id=862
+	name="STATE_862"
+	history={
+		owner = LOU
+		add_core_of = LOU
+		
+		
+		buildings = {
+			infrastructure = 4
+		}
+		
+		victory_points = {
+			1453 10 
+		}
+	}
+	provinces={
+		1453 7524
+	}
+	manpower=320265
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

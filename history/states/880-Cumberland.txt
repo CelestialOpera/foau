@@ -1,0 +1,20 @@
+state={
+	id=880
+	name="STATE_880"
+	
+	history={
+		owner = CUL
+		add_core_of = CUL
+		
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		1445 1582 4452 7547 9727 12568 12637
+	}
+	manpower=677899
+	buildings_max_level_factor=1.000
+	state_category=town
+}

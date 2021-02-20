@@ -1,0 +1,23 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "news_the_black_morning"
+		texturefile = "gfx/event_pictures/news_event/the_black_morning_news.dds"
+	}
+	
+	spriteType = {
+		name = "news_attempt_on_herriot"
+		texturefile = "gfx/event_pictures/news_event/attempt_on_herriot.dds"
+	}
+	
+	spriteType = {
+		name = "news_herriot_dead"
+		texturefile = "gfx/event_pictures/news_event/herriot_dead.dds"
+	}
+	
+	spriteType = {
+		name = "news_war_in_britain"
+		texturefile = "gfx/event_pictures/news_event/war_in_britain.dds"
+	}
+
+}

@@ -1,0 +1,149 @@
+﻿l_english:
+ 
+ FRA_FALLACY_DESC:0 "The French Republic, sometimes called Lafayette's Republic lead the revolutionary cause in Europe and was a dominant power up until The Great War. The Great War saw a large loss for the French Republic including the loss of a majority of the nations colonies, this massive loss on top of the growing economic crisis has lead to the rise of radical groups in the nation from the far-right to the far-left. Now the Prime Minister, Édouard Herriot has turned to Staatism to prevent these radicals from taking power by passing a bill known as the Prevention Act. The Prevention Act allows for the Prime Minister and his cabinet to enact emergency powers to prevent enemies of the state from taking control."
+ #FRA_FALLACY_DESC:0 "The French Republic, sometimes called Lafayette's Republic lead the revolutionary cause in Europe and was a dominant power up until The Great War. The Great War saw a large loss for the French Republic including the loss of a majority of the nations colonies, this massive loss on top of the growing economic crisis has lead to the rise of radical groups in the nation from the far-right to the far-left. Now the Prime Minister, Édouard Herriot has turned to Staatism to prevent these radicals from taking power by passing a bill known as the Prevention Act. The Prevention Act allows for the Prime Minister and his cabinet to enact emergency powers to prevent enemies of the state from taking control. Many oppose this \"New Democracy" including some within Herriot's own party."
+ 
+ #Country Name
+ FRA_radical_socialism:0 "Republic of France"
+ FRA_radical_socialism_DEF:0 "The Republic of France"
+ FRA_radical_socialism_ADJ:0 "French"
+ FRA_utopian_socialism:0 "Republic of France"
+ FRA_utopian_socialism_DEF:0 "The Republic of France"
+ FRA_utopian_socialism_ADJ:0 "French"
+ FRA_pastoralism:0 "Republic of France"
+ FRA_pastoralism_DEF:0 "The Republic of France"
+ FRA_pastoralism_ADJ:0 "French"
+ FRA_liberalism:0 "Republic of France"
+ FRA_liberalism_DEF:0 "The Republic of France"
+ FRA_liberalism_ADJ:0 "French"
+ FRA_conservatism:0 "Republic of France"
+ FRA_conservatism_DEF:0 "The Republic of France"
+ FRA_conservatism_ADJ:0 "French"
+ FRA_traditionalism:0 "Republic of France"
+ FRA_traditionalism_DEF:0 "The Republic of France"
+ FRA_traditionalism_ADJ:0 "French"
+ FRA_staatism:0 "Republic of France"
+ FRA_staatism_DEF:0 "The Republic of France"
+ FRA_staatism_ADJ:0 "French"
+ FRA_popularism:0 "Republic of France"
+ FRA_popularism_DEF:0 "The Republic of France"
+ FRA_popularism_ADJ:0 "French"
+ 
+ #Parties
+ FRA_radical_socialism_party:0 "Communalistes"
+ FRA_radical_socialism_party_long:0 "Parti communaliste-socialiste de France - Communalist-Socialist Party of France"
+ FRA_utopian_socialism_party:0 "Réformistes"
+ FRA_utopian_socialism_party_long:0 "Parti Ouvrier Démocrate Français - French Democratic Workers Party"
+ FRA_pastoralism_party:0 "Agrariens"
+ FRA_pastoralism_party_long:0 "Parti de la Révolution Agraire Française - French Agrarian Revolution Party"
+ FRA_liberalism_party:0 "Minorités"
+ FRA_liberalism_party_long:0 "Parti Populaire Libéral Français(Minorités) - French Peoples-Liberal Party(Minority Faction)"
+ FRA_staatism_party:0 "Majorités"
+ FRA_staatism_party_long:0 "Parti Populaire Libéral Français(Majorités) - French Peoples-Liberal Party(Majority Faction)"
+ FRA_conservatism_party:0 "Progressistes"
+ FRA_conservatism_party_long:0 "Parti Progressiste de France - Progressive Party of France"
+ FRA_traditionalism_party:0 "Monarchistes"
+ FRA_traditionalism_party_long:0 "Ligue de la Règle Divine - League of Divine Rule"
+ FRA_popularism_party:0 "Populaires"
+ FRA_popularism_party_long:0 "Parti Socialiste Populaire Français - French Popular-Socialist Party"
+ 
+ FRA_christian_dem_pf:0 "Chrétiens"
+ FRA_christian_dem_pf_long:0 "Parti Chrétien-Démocrate de France - Christian Democratic Party of France"
+ FRA_french_posop:0 "Populaires"
+ FRA_french_posop_long:0 "Parti National Populaire de France - National Popular Party of France"
+ 
+ #Events
+ 
+ france.1.t:0 "A Disgraced Republic"
+ france.1.d:0 "The French Republic was founded in the late 18th century in the French revolution heavily inspired by the revolution in the United States. The most important figures in said revolution included Gilbert Lafayette, Maximilien Robespierre, George Danton, Napoleon Bonaparte, and Jean Paul Marat; Lafayette came out on top of the revolution and lead the republic as President(later renamed Prime Minister) for quite some time except for a brief period when Robespierre had control(known as the Robespierre Period). Lafayette would consolidate power to ensure a transition into a proper democracy only a few years later and would go down as a hero in French history. The French lead the revolutionary cause in Europe in the beginning of the 19th century spreading said revolution to Corsica, Switzerland, and indirectly Germany with the direct supplying of the German Imperial Republic and its armies; France was in an era of greatness but greatness does not last forever. \n\nThe Great War broke out in 1911 and France was allied with the Prussians and while they initially faired well in the war it eventually ended in defeat; betrayed by former allies such as the German Imperial Republic, and Switzerland. The war saw France disgraced, and shattered left with very few colonial possessions and lands of the French mainland seized; what didn't help was in the Treaty of Sedan they were forced to pay heavy reparations to the victorious powers which crippled the French economy. Throughout the 1920s an economic crisis grew in France and it lead to radical groups of the left and right to jump up, something that scared many moderate politicians and people; leading to the rise of Édouard Herriot. Herriot was quite the famous politician prior to his rise to power and was known for his more liberal beliefs, however with the rise of radicalism he adopted Staatist beliefs and passed the Prevention Act which would give various powers to the Prime Minister and his cabinet in the event of a serious and deadly threat to the French Republic. The Prevention Act and Herriot's /"New Democracy" would  be seen as the steps towards a French authoritarian state under Herriot with very few democratic liberties; especially to those suspected of partaking in radical groups deemed as enemies of the state. Many opposed Herriot's /"New democracy" including many in his own party which would lead to an internal split between the Loyal Staatists named the Majorités and the so called dissident Liberals named the Minorités. As Herriot presides over the rise of radicalism and a worsening economic crisis; many fear that Herriot may be the very reason France falls to an extremist group himself..."
+ france.1.o1:0 "Let The Game Begin"
+ 
+ france.2.t:0 "Effects of The Black Morning"
+ france.2.d:0 "It was almost a week ago but it feels like just yesterday that the news rolled in about the crash in the London stock market. Black Morning on the Thames they are calling it in Britain, but what do they know? The effects are finally rolling in on France and already hundreds if not thousands of jobs have started to lay off workers skyrocketing unemployment across the nation, with the already suffering North getting the worst. Many are worrying for their lives in France, and the government has been too worried with so called enemies of the state to take care of the economic hardships of the country; surely this is only the beginning...\n\nBlack Morning On The Thames? More like Black Morning On The Seine."
+ france.2.o1:0 "Dear God"
+ 
+ france.3.t:0 "A Sad Tale From Reims"
+ france.3.d:0 "France was hit bad with economic issues, from the devastation of the Great War, to the reparations following, and now the dreadful Black Morning Stock Crash; however, not many cities were hit as bad as those in the North, especially Reims. Reims was devastated in the Great War and remained that way even to today with many factories, apartments, and homes destroyed from the fighting, and with the new economic collapse came a further wave of job loss, as well as rising inflation. The inflation effected many families in Reims who have been forced to move out of their homes and live in camps in the city parks known as \"Villes noires" where multiple make shift tents and homes have been set up for shelter, those who have been able to eat have eaten poorly with some people eating the leather of belts and shoes. People have taken to nickname the situation in Reims as \"The Reims Famine" and many people have reportedly been suffering from malnutrition and some even dying of starvation. While similar things are happening across the country nothing to this scale, nothing so terrifying. Things like this are not supposed to happen in France, things like this aren't supposed to happen at all...\n\nMay God Himself reach down and help the people of Reims, of France, of The World."
+ france.3.o1:0 "This Is Tragic"
+ 
+ france.4.t:0 "Shots On Herriot"
+ france.4.d:0 "Emergency news from Paris, Prime Minister Herriot while leaving a cabinet meeting was shot at by an unknown assailant in a motor vehicle. It was around noon when the meeting ended and Herriot was leaving the building with security and fellow cabinet members when the vehicle came from around the corner and began to shoot at the men, the security all began to return fire while also going to secure the cabinet but most importantly Herriot. Three security guards and Minister of Defense Paul Reynaud were all hit with bullets and have reportedly survived, while Herriot himself was hit with four bullets. The bullets that hit Herriot have supposedly hit his lower arm, shoulder, and stomach and once the scene was clear of the suspect Herriot was very quickly rushed to the closest hospital where he was treated for his wounds. The Prime Minister is said to be doing better and recovering from the attempt on his life; however, there has been no released comments from Herriot himself. Expected to recover, some worry about how Herriot may react to this attempt on his life with an already increasingly authoritarian style of rule it is feared that he may take the country on a further turn to authoritarianism and dictatorship. It is believed that even some in Herriot's own cabinet are fearing a full recovery and return to power of Herriot.\n\nIn terms of the suspect, there was not much evidence to point towards who they could be except for the vehicle being driven which was reported to be a dark black French made vehicle. No official motive has been determined but it is suspected that the attacker was motivated by a combination of the authoritarian practices of Herriot along with his failure to do anything to help the economic crisis that has painfully struck France."
+ france.4.o1:0 "Now Is Our Chance!"
+ france.4.o2:0 "Wish For A Speedy Recovery!"
+ 
+ france.5.t:0 "Attempt On Herriot!"
+ france.5.d:0 "Only a few days ago France was thrown into more chaos as the French Prime Minister was shot multiple times by an unknown assailant, this sent the ruling government of the country into a chaotic panic to save their leader as he was rushed to the nearest hospital. Multiple victims have been reported including the French defense minister but all are said to be making a speedy recovery including the Prime Minister himself who had suffered multiple shots, Herriot has already prepared to make a statement in which he is expected to further condemn radicalism in the nation. Many are looking on in fear at how the Prime Minister will react to the attempt on his life by what is expected to be an extremist."
+ france.5.o1:0 "Absolute Chaos!"
+ 
+ france.6.t:0 "The Investigation"
+ france.6.d:0 "Lieutenant Maurice Bellamy, a detective within the Gendarmerie was somewhat known among the higher ups for previous work on the Murders of Place Lafayette, and one of the first officers assigned to the case following the assassination attempt on the Prime Minister. He was however removed from the case for unknown higher up reasons that was not revealed to him, the Prime Minister did not care much for what his subordinates advised on this situation; Bellamy was the man for this job. Summoned by the Prime Minister himself, Maurice Bellamy sat in the office of Prime Minister Édouard Herriot not knowing what to expect, of course until the Prime Minister walked in and told him everything. Bellamy went to work immediately starting back at the initial scene of the crime, where Herriot was shot by the drive by shooter and nearly lost his life.\n\nWhen he arrived at the scene he was looking for a while and did not come across anything new and returned to Gendarmerie headquarters in Paris to try and look through files, evidence, witness testimonies, anything that could give him a lead. Unfortunately he couldn't find anything new, he began to reach out to underground informants about the vehicle and it was then he believed to get some kind of lead. Jules Bonnot, a Paris underworld crime boss asked to meet with the detective, while initially hesitant for the trouble it could get him in he knew that Herriot would not care.\nThe next day, Bellamy met with Bonnot in his personal club but what they spoke about in their meeting is not known, however, what is known is Bellamy was right about his lead. Bellamy found the vehicle abandoned on a farm field not far outside of Paris, hoping to find some kind of documents or information he searched the vehicle and was lucky. Inside the vehicle was not only the rigged pistol used in the shooting but also some kind of receipt from a hotel in Paris, after checking out the hotel he was able to find the home of a possible suspect in the Danton Village an immigrant slum in Paris. Was it a foreigner? If it was, it could cause a massive backlash and would not be good if it was done out of some cultural motive. Bellamy needed to interrogate this man, to get more information."
+ france.6.o1:0 "Proceed!"
+ 
+ #National Spirits 
+ FRA_nouvelle_democratie:0 "Nouvelle Démocratie"
+ FRA_nouvelle_democratie_desc:0 "Nouvelle Démocratie or New Democracy is the system in place under the Herriot regime through the powers granted with the Prevention Act. Unpopular with many among the French populace even those intimidated by the rise of extremism oppose the Nouvelle Démocratie. The System includes harsh supervision of those assumed to be \"Enemies of the State" along with the police being militarized, said police being allowed to arrest anyone who is suspected along with raiding any property of said suspects, and most notably the ability to suspend and/or postpone elections. Some look on, and wonder if Herriot has become the very thing he swore to destroy; but the Prime Minister continues to promise the return to proper democracy."
+ 
+ FRA_growing_economic_crisis:0 "Festering Economic Crisis"
+ FRA_growing_economic_crisis_desc:0 "The Great War left a dent in the French economy, prior to the war and especially during the war the economy was on the rise and booming but defeat came and scared away the boom. At first came the destruction, the northern border regions of France were in ruins from the war with industry being nearly non-existent compared to before the outbreak and if the massive need for reconstruction wasn't enough there was also the reparations. The reparations could not have come at a worse time with the Germans to the North East imposing extremely high reparations on the French Republic, reparations that would slowly eat away at the economic state of France. Of course, this growing crisis could only get worse if the rumors from London are truthful."
+ 
+ FRA_defaite_honteuse:0 "Défaite Honteuse"
+ FRA_defaite_honteuse_desc:0 "Défaite Honteuse or Shameful Defeat is the popular phrase to refer to the French defeat in the Great War. The defeat in the great war caused great anger and sadness in France, from the Pre-War nationalists who were angered from the loss of territory to the veterans and their families; along with the families of lost soldiers who felt like the war and death was in vain. The shameful defeat is nothing but a stain on the legacy of France, a stain that many want to scrub clean."
+ 
+ FRA_occitanie_et_bretagne:0 "Occitanie et Bretagne"
+ FRA_occitanie_et_bretagne_desc:0 "Occitania and Brittany are two diverse regions of mainland Metropolitan France full of separatist forces. Occitania while being fairly similar to the French in the modern era, they were not always that way and the history on top of feeling separate from the rest of the country with feelings of neglect. Brittany however is more different, the Celtic people of Brittany are more similar to the Irish or Welsh then the French and it shows with the levels of separatism in the region with some people calling for the outright expulsion of the French from Brittany. These two regions however are important to France and the nationalists who feel they lost enough as it is in the Great War would not appreciate separation."
+ 
+ FRA_terres_d_afrique:0 "Terres d'Afrique"
+ FRA_terres_d_afrique_desc:0 "French Africa was once bigger but the Great War took territory there away just like in the mainland, and now the North and West are the last beacons of French colonial power becaons that continue to fade. The natives in the colonies of Africa for the most part oppose the colonial regime and wish for independence from the republic or at very least autonomy."
+ 
+ FRA_effects_of_black_morning:0 "Effects of The Black Morning"
+ FRA_effects_of_black_morning_desc:0 "The Black Morning came to France quickly and didn't show a bit of mercy to the French people who now suffer even more."
+ 
+ FRA_occitanie_et_bretagne_2:0 "Occitanie et Bretagne"
+ FRA_occitanie_et_bretagne_2_desc:0 "Occitania and Brittany are two diverse regions of mainland Metropolitan France full of separatist forces. Occitania while being fairly similar to the French in the modern era, they were not always that way and the history on top of feeling separate from the rest of the country with feelings of neglect. Brittany however is more different, the Celtic people of Brittany are more similar to the Irish or Welsh then the French and it shows with the levels of separatism in the region with some people calling for the outright expulsion of the French from Brittany. These two regions however are important to France and the nationalists who feel they lost enough as it is in the Great War would not appreciate separation."
+ 
+ 
+ #Flags
+ attempt_on_herriot:0 "Assassination Attempted On Herriot"
+ attempt_on_herriot_successful:0 "Herriot Has Been Assassinated"
+ attempt_on_herriot_failed:0 "Herriot Survived"
+ herriot_passes_away:0 "Herriot Has Died"
+ FRA_civil_war_ending:0 "French Civil War Has Ended"
+ FRA_civil_war_beginning:0 "French Civil War Has Begun"
+ FRENCH_CIVIL_WAR:0 "France Is In A Civil War"
+ FRA_FE_Laval_Elected:0 "Pierre Laval Has Been Elected"
+ FRA_FE_DAUTRY_Elected:0 "Raoul Dautry Has Been Elected"
+ FRA_FE_FONCK_Elected:0 "René Fonck Has Been Elected"
+ FRA_FE_LUBAC_Elected:0 "Henri de Lubac Has Been Elected"
+ FRAinvestigation_completed:0 "Investigation Completed"
+ FRA_national_assembly_angry:0 "National Assembly Protest"
+ 
+ #Ministers
+ FRA_PAUL_REYNAUD_DEF:0 "Paul Reynaud"
+ FRA_PAUL_REYNAUD_DEF_desc:0 ""
+ FRA_ALBERT_LEBRUN_SIC:0 "Albert Lebrun"
+ FRA_ALBERT_LEBRUN_SIC_desc:0 ""
+ FRA_EDOUARD_DALADIER_ECM:0 "Édouard Daladier"
+ FRA_EDOUARD_DALADIER_ECM_desc:0 ""
+ FRA_CAMILLE_CHAUTEMPS_FOR:0 "Camille Chautemps"
+ FRA_CAMILLE_CHAUTEMPS_FOR_desc:0 ""
+ FRA_LIONEL_LEANDRE_INT:0 "Lionel Léandre"
+ FRA_LIONEL_LEANDRE_INT_desc:0 ""
+ FRA_VACANT_SIC:0 "Vacant"
+ FRA_VACANT_SIC_desc:0 ""
+ 
+ ####Traits
+ 
+ #General
+ 
+ #Military
+ trait_FRA_popularist_sympathies:0 "Populare Sympathies"
+ trait_FRA_popularist_sympathies_desc:0 "Popularist Sympathizer"
+ trait_FRA_toiler_sympathies:0 "Far-Left Sympathies"
+ trait_FRA_toiler_sympathies_desc:0 "Far-Left Sympathizer"
+ trait_FRA_liberal_sympathies:0 "Democratic Sympathies"
+ trait_FRA_liberal_sympathies_desc:0 "Democratic Sympathizer"
+ amateur_leader:0 "Amateur Leader"
+ amateur_leader_desc:0 "Amateur Leaders"
+ 
+ #####Custom Tooltips
+ FRA_loyalists_rise:0 "Loyalists Rise In Paris"

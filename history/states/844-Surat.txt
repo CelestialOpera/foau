@@ -1,0 +1,23 @@
+state={
+	id=844 
+	name="STATE_844"
+	history={
+		buildings = {
+			infrastructure = 2
+			4187 = {
+				naval_base = 1
+			}
+		}
+
+		victory_points = {
+			4187 5
+		}
+		owner = RAJ
+	}
+	provinces={
+		4187
+	}
+	manpower=724124
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,22 @@
+state={
+	id=813
+	name="STATE_813"
+	history={
+		owner = PRE
+		add_core_of = PRE
+		buildings = {
+			infrastructure = 2
+			
+		}
+		victory_points = {
+			514 15 
+		}
+		
+	}
+	provinces={
+		514 573 3514 6441 9535
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

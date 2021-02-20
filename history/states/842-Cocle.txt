@@ -1,0 +1,24 @@
+state={
+	id=842 
+	name="STATE_842"
+	history={
+		buildings = {
+			infrastructure = 2
+			4611 = {
+				naval_base = 1
+			}
+		}
+
+		victory_points = {
+			4611 1
+		}
+		owner = COL
+		add_core_of = COL
+	}
+	provinces={
+		1633 4611 4624
+	}
+	manpower=90924
+	buildings_max_level_factor=1.000
+	state_category=town
+}

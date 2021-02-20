@@ -1,0 +1,24 @@
+state={
+	id=883
+	name="STATE_883"
+	
+	history={
+		owner = HBC
+		add_core_of = HBC
+		
+		buildings = {
+			infrastructure = 3
+		}
+		
+		
+		victory_points = {
+			1836 5
+		}
+	}
+	provinces={
+		1836 4772 4880 7862 10569 10595 10685 12620 12667
+	}
+	manpower=102124
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

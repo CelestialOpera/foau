@@ -1,0 +1,23 @@
+state={
+	id=870
+	name="STATE_870"
+	history={
+		owner = CEN
+		add_core_of = CEN
+		
+		
+		buildings = {
+			infrastructure = 3
+			13250 = {
+				naval_base = 2
+			}
+		}
+		
+	}
+	provinces={
+		4991 13250 13251
+	}
+	manpower=542750
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,1316 @@
+ideas = {
+
+	government_form = { 
+		law = yes
+		use_list_view = yes
+		
+		illiberal_democracy = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		military_junta = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		liberal_democracy = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		welfare_democracy = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		autocratic_state = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		absolute_monarchy = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		theocracy = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		socialist_dictatorship = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		council_state = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		theodemocracy = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		tribal_union = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		khanate = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		islamic_state = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		organic_peoples_state = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		communal_state = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		anarchist_society = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		feudal = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		oligarchy = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		colonial_administration = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		market_board_state = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		rebel_committe = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+	}
+	
+	economic_policy = { 
+		law = yes
+		use_list_view = yes
+		
+		voluntary_society = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		laissez_faire_capitalism = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		interventionism = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		social_market = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		corporatism = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		state_capitalism = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		cooperative_society = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		planned_economy = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		mutual_aid = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+	}
+	
+	civil_liberties = { 
+		law = yes
+		use_list_view = yes
+		
+		anarhkia = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		radical_freedom = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		commonwealth = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		moral_society = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		guided_society = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		authoritarianism = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		totalitarianism = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		obliteration_of_the_self = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+	}
+	
+	press_liberties = { 
+		law = yes
+		use_list_view = yes
+		
+		free_press = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		state_sponsered_press = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		controlled_press = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		censorship = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		state_press = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		propaganda_machine = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+	}
+	
+	racial_integration = { 
+		law = yes
+		use_list_view = yes
+		
+		post_racial_society = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		racial_equality = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		racial_integration_idea = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		multi_racial_society = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		racial_inequality = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		segregation = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		separation = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		slavery = { #Haha its the funi
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		extermination = { #Haha its the funi 2: Electric Boogaloo
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+	}
+	
+	religious_policy = { 
+		law = yes
+		use_list_view = yes
+		
+		state_atheism = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		laicite = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		secularism = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		tolerant_state_religion = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		dominant_state_religion = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		hegemonic_state_religion = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		mandatory_cult = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+	}
+	
+	security_policy = { 
+		law = yes
+		use_list_view = yes
+		
+		no_laws = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		self_policing = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		watchman_state = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		secret_police = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		surveillance_state = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		panopticon = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+		all_seeing_eye = {
+			
+			
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+		
+			modifier = {
+				
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+			
+			cancel_if_invalid = no
+		}
+		
+	}
+}

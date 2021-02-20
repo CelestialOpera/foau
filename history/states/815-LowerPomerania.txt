@@ -1,0 +1,19 @@
+state={
+	id=815
+	name="STATE_815"
+	history={
+		buildings = {
+			infrastructure = 2
+			
+		}
+		owner = PRE
+		add_core_of = PRE
+		
+	}
+	provinces={
+		268 293 375 3367 11219
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
