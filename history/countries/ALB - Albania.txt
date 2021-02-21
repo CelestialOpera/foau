@@ -77,26 +77,26 @@ set_convoys = 500
 
 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = conservatism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	radical_socialism = 6
-	utopian_socialism = 15
-	pastoralism = 9
-	liberalism = 19
-	conservatism = 17
-	traditionalism = 16
-	staatism = 8
-	popularism = 10
+	utopian_socialism = 9
+	pastoralism = 11
+	liberalism = 7
+	staatism = 25
+	conservatism = 31
+	traditionalism = 6
+	popularism = 5
 }
 
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
+	name = "Essad Pasha Toptani"
+	desc = "POLITICS_ESSAD_PASHA_TOPTANI_DESC"
+	picture = "Essad_Pasha_Toptani.dds"
 	expire = "1947.1.1"
 	ideology = liberalism_ideology
 	traits = {

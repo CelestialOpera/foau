@@ -80,13 +80,13 @@ TUR = { #done
 	color = rgb { 79 25 23 }
 	color_ui = rgb { 79 25 23 }
 }
-GRE = { #Done
-	color = rgb { 154 180 179 }
-	color_ui = rgb { 154 180 179 }
+GRE = { #DONE
+	color = rgb { 66 139 87 }
+	color_ui = rgb { 66 139 87 }
 }
 ALB = { #Done
-	color = rgb { 135 60 98 }
-	color_ui = rgb { 135 60 98 }
+	color = rgb { 154 180 179 }
+	color_ui = rgb { 154 180 179 }
 }
 NOR = {
 	color = rgb { 111 71 71 }
@@ -101,8 +101,8 @@ OLB = { #DONE
 	color_ui = rgb { 69 31 28 }
 }
 BUL = { #Done
-	color = rgb { 82 151 54 }
-	color_ui = rgb { 82 151 54 }
+	color = rgb { 156 95 90 }
+	color_ui = rgb { 156 95 90 }
 }
 POR = { #Done
 	color = rgb { 97 176 139 }

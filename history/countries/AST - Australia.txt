@@ -60,28 +60,28 @@ set_convoys = 500
 set_cosmetic_tag = AST_AT
 
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = pastoralism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 6
-	utopian_socialism = 15
-	pastoralism = 9
-	liberalism = 19
-	conservatism = 17
-	traditionalism = 16
-	staatism = 8
-	popularism = 10
+	radical_socialism = 11
+	utopian_socialism = 19
+	pastoralism = 27
+	liberalism = 2
+	staatism = 1
+	conservatism = 24
+	traditionalism = 5
+	popularism = 11
 }
 
 create_country_leader = {
-	name = "Ernesto Belloni"
-	desc = "POLITICS_ERNESTO_BELLONI_DESC"
-	picture = "Ernesto_Belloni.dds"
+	name = "Robert Gardiner"
+	desc = "POLITICS_ROBERT_GARDINER_DESC"
+	picture = "Robert_Gardiner.dds"
 	expire = "1947.1.1"
-	ideology = conservatism_ideology
+	ideology = pastoralism_ideology
 	traits = {
 		
 	}

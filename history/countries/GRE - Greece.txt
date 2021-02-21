@@ -83,20 +83,20 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 6
-	utopian_socialism = 15
-	pastoralism = 9
-	liberalism = 19
-	conservatism = 17
-	traditionalism = 16
-	staatism = 8
-	popularism = 10
+	radical_socialism = 18
+	utopian_socialism = 10
+	pastoralism = 5
+	liberalism = 24
+	staatism = 4
+	conservatism = 15
+	traditionalism = 4
+	popularism = 20
 }
 
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
+	name = "Eleftherios Venizelos"
+	desc = "POLITICS_ELEFTHERIOS_VENIZELOS_DESC"
+	picture = "Eleftherios_Venizelos.dds"
 	expire = "1947.1.1"
 	ideology = liberalism_ideology
 	traits = {

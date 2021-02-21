@@ -51,3 +51,7 @@
  AST_AT_popularism_DEF:0 "The Territory of Australia"
  AST_AT_popularism_ADJ:0 "Australian"
  
+ ###Parties
+ AST_pastoralism_party:0 "Farmers"
+ AST_pastoralism_party_long:0 "Australian Farmers Party"
+ 
