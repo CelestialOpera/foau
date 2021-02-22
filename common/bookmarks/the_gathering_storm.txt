@@ -17,7 +17,7 @@ bookmarks = {
 				
 			}
 		}
-		"TUR"={
+		"OTT"={
 			history = "TUR_FALLACY_DESC"
 			ideology = liberalism
 			ideas = {
