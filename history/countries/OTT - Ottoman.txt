@@ -107,3 +107,43 @@ create_country_leader = {
 		
 	}
 }
+
+"LBA" = {
+	set_politics = {
+		ruling_party = traditionalism
+		last_election = "1932.11.8"
+		election_frequency = 48
+		elections_allowed = no
+	}
+	set_popularities = {
+		radical_socialism = 16
+		utopian_socialism = 6
+		pastoralism = 15
+		liberalism = 16
+		staatism = 6
+		conservatism = 10
+		traditionalism = 17
+		popularism = 14
+	}
+
+}
+
+"TUN" = {
+	set_politics = {
+		ruling_party = traditionalism
+		last_election = "1932.11.8"
+		election_frequency = 48
+		elections_allowed = no
+	}
+	set_popularities = {
+		radical_socialism = 10
+		utopian_socialism = 11
+		pastoralism = 9
+		liberalism = 20
+		staatism = 1
+		conservatism = 19
+		traditionalism = 21
+		popularism = 9
+	}
+
+}

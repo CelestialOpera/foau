@@ -98,7 +98,7 @@ create_country_leader = {
 	desc = "POLITICS_ESSAD_PASHA_TOPTANI_DESC"
 	picture = "Essad_Pasha_Toptani.dds"
 	expire = "1947.1.1"
-	ideology = liberalism_ideology
+	ideology = conservatism_ideology
 	traits = {
 		
 	}
