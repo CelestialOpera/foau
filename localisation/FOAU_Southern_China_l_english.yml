@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- GXC_radical_socialism:0 "State of Guangxi"
- GXC_radical_socialism_DEF:0 "The State of Guangxi"
- GXC_radical_socialism_ADJ:0 "Guangxi Chinese"
+ GXC_scientific_socialism:0 "State of Guangxi"
+ GXC_scientific_socialism_DEF:0 "The State of Guangxi"
+ GXC_scientific_socialism_ADJ:0 "Guangxi Chinese"
  GXC_utopian_socialism:0 "State of Guangxi"
  GXC_utopian_socialism_DEF:0 "The State of Guangxi"
  GXC_utopian_socialism_ADJ:0 "Guangxi Chinese"
@@ -26,9 +26,9 @@
  GXC_popularism_DEF:0 "The State of Guangxi"
  GXC_popularism_ADJ:0 "Guangxi Chinese"
  
- GXC_MSCS_radical_socialism:0 "Mandate of The South China Sea"
- GXC_MSCS_radical_socialism_DEF:0 "The Mandate of The South China Sea"
- GXC_MSCS_radical_socialism_ADJ:0 "British-Chinese"
+ GXC_MSCS_scientific_socialism:0 "Mandate of The South China Sea"
+ GXC_MSCS_scientific_socialism_DEF:0 "The Mandate of The South China Sea"
+ GXC_MSCS_scientific_socialism_ADJ:0 "British-Chinese"
  GXC_MSCS_utopian_socialism:0 "Mandate of The South China Sea"
  GXC_MSCS_utopian_socialism_DEF:0 "The Mandate of The South China Sea"
  GXC_MSCS_utopian_socialism_ADJ:0 "British-Chinese"

@@ -303,8 +303,8 @@ ideas = {
 			}
 		}
 
-		POR_iberian_radical_socialism_pressure = {
-			picture = generic_radical_socialism_drift_bonus
+		POR_iberian_scientific_socialism_pressure = {
+			picture = generic_scientific_socialism_drift_bonus
 			allowed = {
 				original_tag = POR
 			}
@@ -315,18 +315,18 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				radical_socialism_drift = 0.02
+				scientific_socialism_drift = 0.02
 			}
 		}
 
-		POR_spread_radical_socialism_overseas = {
-			picture = generic_radical_socialism_drift_bonus
+		POR_spread_scientific_socialism_overseas = {
+			picture = generic_scientific_socialism_drift_bonus
 			allowed = {
 				original_tag = POR
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			removal_cost = -1
 			
@@ -336,8 +336,8 @@ ideas = {
 			}
 		}
 
-		POR_latin_american_radical_socialism = {
-			picture = generic_radical_socialism_drift_bonus
+		POR_latin_american_scientific_socialism = {
+			picture = generic_scientific_socialism_drift_bonus
 			allowed = {
 				OR = {
 						TAG = BRA TAG = MEX
@@ -354,13 +354,13 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			removal_cost = -1
 			
 			modifier = {
-				radical_socialism_drift = 0.1
-				radical_socialism_acceptance = 50
+				scientific_socialism_drift = 0.1
+				scientific_socialism_acceptance = 50
 			}
 		}
 
@@ -769,7 +769,7 @@ ideas = {
 
 				do_effect = {
 					NOT = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 					}
 				}
 				

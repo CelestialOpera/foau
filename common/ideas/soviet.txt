@@ -30,7 +30,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			picture = generic_production_bonus
@@ -83,7 +83,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			modifier = {
@@ -100,7 +100,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			modifier = {
@@ -122,10 +122,10 @@ ideas = {
 				always = yes
 			}
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
-				radical_socialism_drift = 0.05
+				scientific_socialism_drift = 0.05
 			}
 		}
 
@@ -155,7 +155,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			picture = generic_manpower_bonus
@@ -175,7 +175,7 @@ ideas = {
 			picture = generic_production_bonus
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			modifier = {
@@ -210,7 +210,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			modifier = {
@@ -229,7 +229,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			modifier = {
@@ -245,7 +245,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			modifier = {
@@ -261,7 +261,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -288,7 +288,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -314,7 +314,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -340,7 +340,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -366,7 +366,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -392,7 +392,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -418,7 +418,7 @@ ideas = {
 			}
 			
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -444,7 +444,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -470,7 +470,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -496,7 +496,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -523,7 +523,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -548,7 +548,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -573,7 +573,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -598,7 +598,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -623,7 +623,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			research_bonus = {
@@ -648,7 +648,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 		}
@@ -656,14 +656,14 @@ ideas = {
 		SOV_collectivist_propaganda = { 
 			removal_cost = -1
 			
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 
 			allowed = {
 				always = no # Added via focus
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			modifier = {
@@ -792,7 +792,7 @@ ideas = {
 	
 			do_effect = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			

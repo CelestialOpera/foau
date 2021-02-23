@@ -55,7 +55,7 @@ set_convoys = 10
 }
 
 set_politics = {
-	ruling_party = radical_socialism
+	ruling_party = scientific_socialism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -63,6 +63,6 @@ set_politics = {
 set_popularities = {
 	liberalism = 25
 	traditionalism = 20
-	radical_socialism = 50
+	scientific_socialism = 50
 	conservatism = 5
 }

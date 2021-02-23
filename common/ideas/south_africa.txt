@@ -141,23 +141,23 @@ ideas = {
 
 		}
 
-		SAF_abandon_westminster_radical_socialism = {
+		SAF_abandon_westminster_scientific_socialism = {
 			allowed = {
 				always = no
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = ast_abandon_the_westminster_system_radical_socialism
+			picture = ast_abandon_the_westminster_system_scientific_socialism
 
 			modifier = {
 				autonomy_gain = 1
 				liberalism_drift = -0.03
-				radical_socialism_drift = 0.03
+				scientific_socialism_drift = 0.03
 			}
 
 		}
@@ -293,7 +293,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -312,7 +312,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -332,7 +332,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -351,7 +351,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -370,7 +370,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -389,7 +389,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -595,7 +595,7 @@ ideas = {
 
 			do_effect = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			

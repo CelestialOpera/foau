@@ -84,7 +84,7 @@ ideas = {
 			}			
 		}
 		
-		CZE_radical_socialism_with_a_human_face = {
+		CZE_scientific_socialism_with_a_human_face = {
 			
 			
 			allowed = {
@@ -93,7 +93,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = popularism
 				}
 			}
@@ -124,9 +124,9 @@ ideas = {
 						}
 					}
 					AND = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						GER = {
-							has_government = radical_socialism
+							has_government = scientific_socialism
 						}
 					}
 					AND = {

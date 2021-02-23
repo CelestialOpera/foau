@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- NEP_radical_socialism:0 "Nepali Empire"
- NEP_radical_socialism_DEF:0 "The Nepali Empire"
- NEP_radical_socialism_ADJ:0 "Nepali"
+ NEP_scientific_socialism:0 "Nepali Empire"
+ NEP_scientific_socialism_DEF:0 "The Nepali Empire"
+ NEP_scientific_socialism_ADJ:0 "Nepali"
  NEP_utopian_socialism:0 "Nepali Empire"
  NEP_utopian_socialism_DEF:0 "The Nepali Empire"
  NEP_utopian_socialism_ADJ:0 "Nepali"
@@ -26,9 +26,9 @@
  NEP_popularism_DEF:0 "The Nepali Empire"
  NEP_popularism_ADJ:0 "Nepali"
  
- NEP_BNIR_radical_socialism:0 "Crown Colony of Northern India"
- NEP_BNIR_radical_socialism_DEF:0 "The Crown Colony of Northern India"
- NEP_BNIR_radical_socialism_ADJ:0 "North Indian"
+ NEP_BNIR_scientific_socialism:0 "Crown Colony of Northern India"
+ NEP_BNIR_scientific_socialism_DEF:0 "The Crown Colony of Northern India"
+ NEP_BNIR_scientific_socialism_ADJ:0 "North Indian"
  NEP_BNIR_utopian_socialism:0 "Crown Colony of Northern India"
  NEP_BNIR_utopian_socialism_DEF:0 "The Crown Colony of Northern India"
  NEP_BNIR_utopian_socialism_ADJ:0 "North Indian"

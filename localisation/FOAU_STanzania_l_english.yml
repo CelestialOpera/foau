@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- TNZ_radical_socialism:0 "Republic of Lindi"
- TNZ_radical_socialism_DEF:0 "The Republic of Lindi"
- TNZ_radical_socialism_ADJ:0 "Lindian"
+ TNZ_scientific_socialism:0 "Republic of Lindi"
+ TNZ_scientific_socialism_DEF:0 "The Republic of Lindi"
+ TNZ_scientific_socialism_ADJ:0 "Lindian"
  TNZ_utopian_socialism:0 "Republic of Lindi"
  TNZ_utopian_socialism_DEF:0 "The Republic of Lindi"
  TNZ_utopian_socialism_ADJ:0 "Lindian"
@@ -26,9 +26,9 @@
  TNZ_popularism_DEF:0 "The Republic of Lindi"
  TNZ_popularism_ADJ:0 "Lindian"
  
- TNZ_CCT_radical_socialism:0 "Crown Colony of Tanzania"
- TNZ_CCT_radical_socialism_DEF:0 "The Crown Colony of Tanzania"
- TNZ_CCT_radical_socialism_ADJ:0 "Tanzanian"
+ TNZ_CCT_scientific_socialism:0 "Crown Colony of Tanzania"
+ TNZ_CCT_scientific_socialism_DEF:0 "The Crown Colony of Tanzania"
+ TNZ_CCT_scientific_socialism_ADJ:0 "Tanzanian"
  TNZ_CCT_utopian_socialism:0 "Crown Colony of Tanzania"
  TNZ_CCT_utopian_socialism_DEF:0 "The Crown Colony of Tanzania"
  TNZ_CCT_utopian_socialism_ADJ:0 "Tanzanian"

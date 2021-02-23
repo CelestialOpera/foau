@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- DAH_radical_socialism:0 "Kingdom of Dahomey"
- DAH_radical_socialism_DEF:0 "The Kingdom of Dahomey"
- DAH_radical_socialism_ADJ:0 "Dahomeyan"
+ DAH_scientific_socialism:0 "Kingdom of Dahomey"
+ DAH_scientific_socialism_DEF:0 "The Kingdom of Dahomey"
+ DAH_scientific_socialism_ADJ:0 "Dahomeyan"
  DAH_utopian_socialism:0 "Kingdom of Dahomey"
  DAH_utopian_socialism_DEF:0 "The Kingdom of Dahomey"
  DAH_utopian_socialism_ADJ:0 "Dahomeyan"
@@ -26,9 +26,9 @@
  DAH_popularism_DEF:0 "The Kingdom of Dahomey"
  DAH_popularism_ADJ:0 "Dahomeyan"
  
- DAH_DD_radical_socialism:0 "Danish Dahomey"
- DAH_DD_radical_socialism_DEF:0 "The Danish Dahomey"
- DAH_DD_radical_socialism_ADJ:0 "Danish-Dahomeyan"
+ DAH_DD_scientific_socialism:0 "Danish Dahomey"
+ DAH_DD_scientific_socialism_DEF:0 "The Danish Dahomey"
+ DAH_DD_scientific_socialism_ADJ:0 "Danish-Dahomeyan"
  DAH_DD_utopian_socialism:0 "Danish Dahomey"
  DAH_DD_utopian_socialism_DEF:0 "The Danish Dahomey"
  DAH_DD_utopian_socialism_ADJ:0 "Danish-Dahomeyan"

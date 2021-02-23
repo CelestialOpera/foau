@@ -77,7 +77,7 @@ if = {
 }
 
 set_popularities = {	liberalism = 25
-	radical_socialism = 35	conservatism = 40
+	scientific_socialism = 35	conservatism = 40
 }
 
 create_country_leader = {
@@ -85,7 +85,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
 	expire = "1953.3.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		
 	}

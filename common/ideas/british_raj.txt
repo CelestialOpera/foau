@@ -130,7 +130,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism
 					}
 				}
@@ -178,7 +178,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism
 					}
 				}
@@ -202,7 +202,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism
 					}
 				}
@@ -226,7 +226,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism
 					}
 				}
@@ -251,7 +251,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism
 					}
 				}
@@ -277,7 +277,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism
 					}
 				}
@@ -301,7 +301,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = popularism
 				}
 			}
@@ -336,16 +336,16 @@ ideas = {
 			}
 		}
 
-		RAJ_all_india_forward_bloc_radical_socialism = {
+		RAJ_all_india_forward_bloc_scientific_socialism = {
 
-			picture = raj_all_india_forward_bloc_radical_socialism
+			picture = raj_all_india_forward_bloc_scientific_socialism
 
 			allowed = {
 				original_tag = RAJ
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -353,7 +353,7 @@ ideas = {
 			modifier = {
 				liberalism_drift = -0.02
 				traditionalism_drift = -0.02
-				radical_socialism_drift = 0.03
+				scientific_socialism_drift = 0.03
 				autonomy_gain = 0.5
 			}
 		}
@@ -388,7 +388,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism
 					}
 				}
@@ -461,7 +461,7 @@ ideas = {
 			
 			do_effect = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			

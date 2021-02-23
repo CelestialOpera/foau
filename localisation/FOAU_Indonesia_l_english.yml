@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- INS_radical_socialism:0 "United Kingdoms of Indonesia"
- INS_radical_socialism_DEF:0 "The United Kingdoms of Indonesia"
- INS_radical_socialism_ADJ:0 "Indonesian"
+ INS_scientific_socialism:0 "United Kingdoms of Indonesia"
+ INS_scientific_socialism_DEF:0 "The United Kingdoms of Indonesia"
+ INS_scientific_socialism_ADJ:0 "Indonesian"
  INS_utopian_socialism:0 "United Kingdoms of Indonesia"
  INS_utopian_socialism_DEF:0 "The United Kingdoms of Indonesia"
  INS_utopian_socialism_ADJ:0 "Indonesian"
@@ -26,9 +26,9 @@
  INS_popularism_DEF:0 "The United Kingdoms of Indonesia"
  INS_popularism_ADJ:0 "Indonesian"
  
- INS_DEI_radical_socialism:0 "Dutch East Indies"
- INS_DEI_radical_socialism_DEF:0 "The Dutch East Indies"
- INS_DEI_radical_socialism_ADJ:0 "Dutch-East Indian"
+ INS_DEI_scientific_socialism:0 "Dutch East Indies"
+ INS_DEI_scientific_socialism_DEF:0 "The Dutch East Indies"
+ INS_DEI_scientific_socialism_ADJ:0 "Dutch-East Indian"
  INS_DEI_utopian_socialism:0 "Dutch East Indies"
  INS_DEI_utopian_socialism_DEF:0 "The Dutch East Indies"
  INS_DEI_utopian_socialism_ADJ:0 "Dutch-East Indian"

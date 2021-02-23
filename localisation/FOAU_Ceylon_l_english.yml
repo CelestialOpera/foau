@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- SRL_radical_socialism:0 "Republic of Sri Lanka"
- SRL_radical_socialism_DEF:0 "The Republic of Sri Lanka"
- SRL_radical_socialism_ADJ:0 "Sri Lankan"
+ SRL_scientific_socialism:0 "Republic of Sri Lanka"
+ SRL_scientific_socialism_DEF:0 "The Republic of Sri Lanka"
+ SRL_scientific_socialism_ADJ:0 "Sri Lankan"
  SRL_utopian_socialism:0 "Republic of Sri Lanka"
  SRL_utopian_socialism_DEF:0 "The Republic of Sri Lanka"
  SRL_utopian_socialism_ADJ:0 "Sri Lankan"
@@ -26,9 +26,9 @@
  SRL_popularism_DEF:0 "The Republic of Sri Lanka"
  SRL_popularism_ADJ:0 "Sri Lankan"
  
- SRL_CCC_radical_socialism:0 "Crown Colony of Ceylon"
- SRL_CCC_radical_socialism_DEF:0 "The Crown Colony of Ceylon"
- SRL_CCC_radical_socialism_ADJ:0 "Ceylonese"
+ SRL_CCC_scientific_socialism:0 "Crown Colony of Ceylon"
+ SRL_CCC_scientific_socialism_DEF:0 "The Crown Colony of Ceylon"
+ SRL_CCC_scientific_socialism_ADJ:0 "Ceylonese"
  SRL_CCC_utopian_socialism:0 "Crown Colony of Ceylon"
  SRL_CCC_utopian_socialism_DEF:0 "The Crown Colony of Ceylon"
  SRL_CCC_utopian_socialism_ADJ:0 "Ceylonese"

@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- GHA_radical_socialism:0 "Ashanti Empire"
- GHA_radical_socialism_DEF:0 "The Ashanti Empire"
- GHA_radical_socialism_ADJ:0 "Ashanti"
+ GHA_scientific_socialism:0 "Ashanti Empire"
+ GHA_scientific_socialism_DEF:0 "The Ashanti Empire"
+ GHA_scientific_socialism_ADJ:0 "Ashanti"
  GHA_utopian_socialism:0 "Ashanti Empire"
  GHA_utopian_socialism_DEF:0 "The Ashanti Empire"
  GHA_utopian_socialism_ADJ:0 "Ashanti"
@@ -26,9 +26,9 @@
  GHA_popularism_DEF:0 "The Ashanti Empire"
  GHA_popularism_ADJ:0 "Ashanti"
  
- GHA_CCGC_radical_socialism:0 "Crown Colony of The Gold Coast"
- GHA_CCGC_radical_socialism_DEF:0 "The Crown Colony of The Gold Coast"
- GHA_CCGC_radical_socialism_ADJ:0 "Gold Coastian"
+ GHA_CCGC_scientific_socialism:0 "Crown Colony of The Gold Coast"
+ GHA_CCGC_scientific_socialism_DEF:0 "The Crown Colony of The Gold Coast"
+ GHA_CCGC_scientific_socialism_ADJ:0 "Gold Coastian"
  GHA_CCGC_utopian_socialism:0 "Crown Colony of The Gold Coast"
  GHA_CCGC_utopian_socialism_DEF:0 "The Crown Colony of The Gold Coast"
  GHA_CCGC_utopian_socialism_ADJ:0 "Gold Coastian"

@@ -130,13 +130,13 @@ save_global_event_target_as = WTT_communist_china
 }
 
 set_politics = {
-	ruling_party = radical_socialism
+	ruling_party = scientific_socialism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 100
+	scientific_socialism = 100
 }
 
 add_ideas = {
@@ -164,7 +164,7 @@ create_country_leader = {
 	desc = "POLITICS_MAO_ZEDONG_DESC"
 	picture = "GFX_portrait_prc_mao_zedong"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		cornered_fox
 	}

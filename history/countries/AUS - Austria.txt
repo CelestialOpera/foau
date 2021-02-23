@@ -85,7 +85,7 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 14
+	scientific_socialism = 14
 	utopian_socialism = 8
 	pastoralism = 19
 	liberalism = 19

@@ -87,7 +87,7 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 14
+	scientific_socialism = 14
 	utopian_socialism = 15
 	pastoralism = 16
 	liberalism = 11
@@ -116,7 +116,7 @@ create_country_leader = {
 		elections_allowed = no
 	}
 	set_popularities = {
-		radical_socialism = 16
+		scientific_socialism = 16
 		utopian_socialism = 6
 		pastoralism = 15
 		liberalism = 16
@@ -136,7 +136,7 @@ create_country_leader = {
 		elections_allowed = no
 	}
 	set_popularities = {
-		radical_socialism = 10
+		scientific_socialism = 10
 		utopian_socialism = 11
 		pastoralism = 9
 		liberalism = 20

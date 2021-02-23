@@ -91,7 +91,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 15
 	traditionalism = 75
-	radical_socialism = 10
+	scientific_socialism = 10
 }
 
 create_country_leader = {

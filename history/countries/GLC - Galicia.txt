@@ -62,14 +62,14 @@ set_politics = {
 set_popularities = {
 	liberalism = 93
 	traditionalism = 3
-	radical_socialism = 4
+	scientific_socialism = 4
 }
 
 create_country_leader = {
 	name = "Fuco Gómez"
 	picture = "gfx//leaders//Europe//Portrait_Europe_Generic_1.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 }
 
 create_country_leader = {

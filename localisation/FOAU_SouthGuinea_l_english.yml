@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- SIE_radical_socialism:0 "South Guinean Federation"
- SIE_radical_socialism_DEF:0 "The South Guinean Federation"
- SIE_radical_socialism_ADJ:0 "South Guinean"
+ SIE_scientific_socialism:0 "South Guinean Federation"
+ SIE_scientific_socialism_DEF:0 "The South Guinean Federation"
+ SIE_scientific_socialism_ADJ:0 "South Guinean"
  SIE_utopian_socialism:0 "South Guinean Federation"
  SIE_utopian_socialism_DEF:0 "The South Guinean Federation"
  SIE_utopian_socialism_ADJ:0 "South Guinean"
@@ -26,9 +26,9 @@
  SIE_popularism_DEF:0 "The South Guinean Federation"
  SIE_popularism_ADJ:0 "South Guinean"
  
- SIE_CCSG_radical_socialism:0 "Crown Colony of South Guinea"
- SIE_CCSG_radical_socialism_DEF:0 "The Crown Colony of South Guinea"
- SIE_CCSG_radical_socialism_ADJ:0 "South Guinean"
+ SIE_CCSG_scientific_socialism:0 "Crown Colony of South Guinea"
+ SIE_CCSG_scientific_socialism_DEF:0 "The Crown Colony of South Guinea"
+ SIE_CCSG_scientific_socialism_ADJ:0 "South Guinean"
  SIE_CCSG_utopian_socialism:0 "Crown Colony of South Guinea"
  SIE_CCSG_utopian_socialism_DEF:0 "The Crown Colony of South Guinea"
  SIE_CCSG_utopian_socialism_ADJ:0 "South Guinean"

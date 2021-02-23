@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- OTT_radical_socialism:0 "Sublime Ottoman State"
- OTT_radical_socialism_DEF:0 "The Sublime Ottoman State"
- OTT_radical_socialism_ADJ:0 "Ottoman"
+ OTT_scientific_socialism:0 "Sublime Ottoman State"
+ OTT_scientific_socialism_DEF:0 "The Sublime Ottoman State"
+ OTT_scientific_socialism_ADJ:0 "Ottoman"
  OTT_utopian_socialism:0 "Sublime Ottoman State"
  OTT_utopian_socialism_DEF:0 "The Sublime Ottoman State"
  OTT_utopian_socialism_ADJ:0 "Ottoman"
@@ -26,8 +26,8 @@
  OTT_popularism_DEF:0 "The Sublime Ottoman State"
  OTT_popularism_ADJ:0 "Ottoman"
  
- OTT_radical_socialism_party:0 "Worker's Party"
- OTT_radical_socialism_party_long:0 "Worker's Party of The Ottoman Empire"
+ OTT_scientific_socialism_party:0 "Worker's Party"
+ OTT_scientific_socialism_party_long:0 "Worker's Party of The Ottoman Empire"
  OTT_utopian_socialism_party:0 "Unionists"
  OTT_utopian_socialism_party_long:0 "Union Party of The Ottoman Empire"
  OTT_pastoralism_party:0 "Agrarians"

@@ -433,7 +433,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = traditionalism
 				}
 			}
@@ -441,7 +441,7 @@ ideas = {
 			modifier = {
 				military_leader_cost_factor = 0.5 
 				max_command_power = 25
-				radical_socialism_drift = 0.1
+				scientific_socialism_drift = 0.1
 				army_core_attack_factor = 0.1
 				army_core_defence_factor = 0.1
 			}
@@ -483,12 +483,12 @@ ideas = {
 			removal_cost = -1
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			modifier = {
 				conscription = 0.02
-				radical_socialism_drift = 0.1
+				scientific_socialism_drift = 0.1
 			}
 		}
 		
@@ -504,7 +504,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			
@@ -526,7 +526,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			
@@ -785,7 +785,7 @@ ideas = {
 		}		
 		MEX_bolivarian_agitation = {
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 
 			allowed = {
 				always = no
@@ -798,7 +798,7 @@ ideas = {
 			}
 
 			modifier = {
-				radical_socialism_drift = 0.2
+				scientific_socialism_drift = 0.2
 			}
 		}						
 		MEX_idea_vanguard_of_the_4th_international = {
@@ -813,7 +813,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = traditionalism
 				}
 			}
@@ -1135,7 +1135,7 @@ ideas = {
 			
 			available = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = traditionalism
 				}
 				has_global_flag = flag_mexico_invited_trotsky_to_government
@@ -1169,7 +1169,7 @@ ideas = {
 			available = {
 				has_completed_focus = MEX_focus_support_general_cedillo
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			

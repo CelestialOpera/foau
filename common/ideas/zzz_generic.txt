@@ -146,7 +146,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -155,7 +155,7 @@ ideas = {
 			
 			modifier = {
 				#justify_war_goal_time = -0.25
-				radical_socialism_drift = 0.1
+				scientific_socialism_drift = 0.1
 			}
 		}
 
@@ -187,16 +187,16 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
-				radical_socialism_drift = 0.1
-				radical_socialism_acceptance = 85
+				scientific_socialism_drift = 0.1
+				scientific_socialism_acceptance = 85
 			}
 		}
 		liberalism_influence = {
@@ -249,12 +249,12 @@ ideas = {
 						tag = GER
 						has_government = popularism
 						SOV = {
-							has_government = radical_socialism
+							has_government = scientific_socialism
 						}
 					}
 					AND = {
 						tag = SOV
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						GER = {
 							has_government = popularism
 						}
@@ -265,7 +265,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				radical_socialism_acceptance = 100
+				scientific_socialism_acceptance = 100
 				popularism_acceptance = 100
 			}
 		}
@@ -278,15 +278,15 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
-				radical_socialism_drift = 0.1
+				scientific_socialism_drift = 0.1
 			}
 		}
 		# from decision
@@ -298,15 +298,15 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
-				radical_socialism_drift = 0.1
+				scientific_socialism_drift = 0.1
 				research_speed_factor = 0.035
 			}
 		}
@@ -398,7 +398,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 		
 			removal_cost = -1
@@ -460,7 +460,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = popularism
 				}
 			}
@@ -483,7 +483,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = popularism
 				}
 			}
@@ -506,7 +506,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = popularism
 				}
 			}
@@ -554,7 +554,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			removal_cost = -1
@@ -690,7 +690,7 @@ ideas = {
 			}			
 		}
 
-		radical_socialism_banned = {
+		scientific_socialism_banned = {
 			picture = anti_soviet_pact
 			allowed = {
 				always = no
@@ -698,12 +698,12 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 
 			modifier = {
-				radical_socialism_drift = -0.05
+				scientific_socialism_drift = -0.05
 			}
 		}
 
@@ -1120,7 +1120,7 @@ ideas = {
 					has_government = liberalism
 					has_government = pastoralism
 					has_government = utopian_socialism
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				} 
 			}
 			
@@ -1289,7 +1289,7 @@ ideas = {
 					has_government = liberalism
 					has_government = pastoralism
 					has_government = utopian_socialism
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				} 
 			}
 			
@@ -1340,7 +1340,7 @@ ideas = {
 					has_government = liberalism
 					has_government = pastoralism
 					has_government = utopian_socialism
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				} 
 			}
 			
@@ -1580,7 +1580,7 @@ ideas = {
 					has_government = liberalism
 					has_government = pastoralism
 					has_government = utopian_socialism
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				} 
 			}
 			
@@ -1606,7 +1606,7 @@ ideas = {
 					has_government = liberalism
 					has_government = pastoralism
 					has_government = utopian_socialism
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				} 
 			}
 			

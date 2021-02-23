@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- TAM_radical_socialism:0 "Union of Tamil Nadu"
- TAM_radical_socialism_DEF:0 "The Union of Tamil Nadu"
- TAM_radical_socialism_ADJ:0 "Tamilar"
+ TAM_scientific_socialism:0 "Union of Tamil Nadu"
+ TAM_scientific_socialism_DEF:0 "The Union of Tamil Nadu"
+ TAM_scientific_socialism_ADJ:0 "Tamilar"
  TAM_utopian_socialism:0 "Union of Tamil Nadu"
  TAM_utopian_socialism_DEF:0 "The Union of Tamil Nadu"
  TAM_utopian_socialism_ADJ:0 "Tamilar"
@@ -26,9 +26,9 @@
  TAM_popularism_DEF:0 "The Union of Tamil Nadu"
  TAM_popularism_ADJ:0 "Tamilar"
  
- TAM_TCG_radical_socialism:0 "Danish East India"
- TAM_TCG_radical_socialism_DEF:0 "The Danish East India"
- TAM_TCG_radical_socialism_ADJ:0 "Danish-East Indian"
+ TAM_TCG_scientific_socialism:0 "Danish East India"
+ TAM_TCG_scientific_socialism_DEF:0 "The Danish East India"
+ TAM_TCG_scientific_socialism_ADJ:0 "Danish-East Indian"
  TAM_TCG_utopian_socialism:0 "Danish East India"
  TAM_TCG_utopian_socialism_DEF:0 "The Danish East India"
  TAM_TCG_utopian_socialism_ADJ:0 "Danish-East Indian"

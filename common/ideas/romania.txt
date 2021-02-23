@@ -13,7 +13,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			
@@ -25,7 +25,7 @@ ideas = {
 	
 		ROM_revenge_against_germany = {
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 
 			removal_cost = -1
 			
@@ -40,8 +40,8 @@ ideas = {
 			}
 			
 			modifier = {
-				radical_socialism_drift = 0.1
-				radical_socialism_acceptance = 100
+				scientific_socialism_drift = 0.1
+				scientific_socialism_acceptance = 100
 			}
 		}
 
@@ -424,11 +424,11 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			modifier = {
-				radical_socialism_drift = 0.01
+				scientific_socialism_drift = 0.01
 			}
 		}
 
@@ -443,11 +443,11 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			modifier = {
-				radical_socialism_drift = 0.01
+				scientific_socialism_drift = 0.01
 				conscription = 0.01
 			}
 		}

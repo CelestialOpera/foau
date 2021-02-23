@@ -9,7 +9,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT ={
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 				NOT = {
 					any_other_country = {
@@ -37,7 +37,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT ={
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 				NOT = {
 					any_other_country = {
@@ -90,7 +90,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT ={
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 				NOT = {
 					any_other_country = {
@@ -181,7 +181,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 
@@ -223,7 +223,7 @@ ideas = {
 			
 			allowed_civil_war = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 
@@ -938,7 +938,7 @@ ideas = {
 			}
 
 			modifier = {
-				radical_socialism_drift = 0.02
+				scientific_socialism_drift = 0.02
 				stability_weekly = -0.002
 				political_power_factor = -0.15
 			}
@@ -1072,10 +1072,10 @@ ideas = {
 			}
 
 			modifier = {
-				radical_socialism_drift = 0.3
+				scientific_socialism_drift = 0.3
 			}
 
-			picture = ast_abandon_the_westminster_system_radical_socialism
+			picture = ast_abandon_the_westminster_system_scientific_socialism
 			
 			removal_cost = -1	
 
@@ -1715,7 +1715,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				NOT = { has_government = radical_socialism }
+				NOT = { has_government = scientific_socialism }
 			}
 			
 			removal_cost = -1
@@ -1736,7 +1736,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				NOT = { has_government = radical_socialism }
+				NOT = { has_government = scientific_socialism }
 			}
 			
 			removal_cost = -1
@@ -1763,7 +1763,7 @@ ideas = {
 					limit = {
 						has_dlc = "Man the Guns"
 					}
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 				if = {
 					limit = { has_dlc = "Man the Guns" }	
@@ -1775,7 +1775,7 @@ ideas = {
 	
 			do_effect = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			
@@ -1944,7 +1944,7 @@ ideas = {
 			#picture = generic_communist_revolutionary_western_european_2d
 
 			available = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 				if = {
 					limit = { has_dlc = "Man the Guns" }	
 					NOT = { has_autonomy_state = autonomy_supervised_state }
@@ -1968,7 +1968,7 @@ ideas = {
 			#picture = generic_political_advisor_europe_1
 
 			available = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			allowed = {

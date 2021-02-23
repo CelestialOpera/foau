@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- IRE_radical_socialism:0 "United States of Ireland"
- IRE_radical_socialism_DEF:0 "The United States of Ireland"
- IRE_radical_socialism_ADJ:0 "Irish"
+ IRE_scientific_socialism:0 "United States of Ireland"
+ IRE_scientific_socialism_DEF:0 "The United States of Ireland"
+ IRE_scientific_socialism_ADJ:0 "Irish"
  IRE_utopian_socialism:0 "United States of Ireland"
  IRE_utopian_socialism_DEF:0 "The United States of Ireland"
  IRE_utopian_socialism_ADJ:0 "Irish"
@@ -26,9 +26,9 @@
  IRE_popularism_DEF:0 "The United States of Ireland"
  IRE_popularism_ADJ:0 "Irish"
  
- IRE_AP_radical_socialism:0 "Irish Autonomous Province"
- IRE_AP_radical_socialism_DEF:0 "The Irish Autonomous Province"
- IRE_AP_radical_socialism_ADJ:0 "Irish"
+ IRE_AP_scientific_socialism:0 "Irish Autonomous Province"
+ IRE_AP_scientific_socialism_DEF:0 "The Irish Autonomous Province"
+ IRE_AP_scientific_socialism_ADJ:0 "Irish"
  IRE_AP_utopian_socialism:0 "Irish Autonomous Province"
  IRE_AP_utopian_socialism_DEF:0 "The Irish Autonomous Province"
  IRE_AP_utopian_socialism_ADJ:0 "Irish"

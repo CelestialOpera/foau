@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- FFC_radical_socialism:0 "Free French Committee"
- FFC_radical_socialism_DEF:0 "The Free French Committee"
- FFC_radical_socialism_ADJ:0 "Free French"
+ FFC_scientific_socialism:0 "Free French Committee"
+ FFC_scientific_socialism_DEF:0 "The Free French Committee"
+ FFC_scientific_socialism_ADJ:0 "Free French"
  FFC_utopian_socialism:0 "Free French Committee"
  FFC_utopian_socialism_DEF:0 "The Free French Committee"
  FFC_utopian_socialism_ADJ:0 "Free French"
@@ -26,9 +26,9 @@
  FFC_popularism_DEF:0 "The Free French Committee"
  FFC_popularism_ADJ:0 "Free French"
  
- FFC_FProvGov_radical_socialism:0 "French Provisional Government"
- FFC_FProvGov_radical_socialism_DEF:0 "The French Provisional Government"
- FFC_FProvGov_radical_socialism_ADJ:0 "French"
+ FFC_FProvGov_scientific_socialism:0 "French Provisional Government"
+ FFC_FProvGov_scientific_socialism_DEF:0 "The French Provisional Government"
+ FFC_FProvGov_scientific_socialism_ADJ:0 "French"
  FFC_FProvGov_utopian_socialism:0 "French Provisional Government"
  FFC_FProvGov_utopian_socialism_DEF:0 "The French Provisional Government"
  FFC_FProvGov_utopian_socialism_ADJ:0 "French"
@@ -53,8 +53,8 @@
  
  ##Parties
  
- FFC_radical_socialism_party:0 "Communalistes"
- FFC_radical_socialism_party_long:0 "Parti communaliste-socialiste de France - Communalist-Socialist Party of France"
+ FFC_scientific_socialism_party:0 "Communalistes"
+ FFC_scientific_socialism_party_long:0 "Parti communaliste-socialiste de France - Communalist-Socialist Party of France"
  FFC_utopian_socialism_party:0 "Réformistes"
  FFC_utopian_socialism_party_long:0 "Parti Ouvrier Démocrate Français - French Democratic Workers Party"
  FFC_pastoralism_party:0 "Agrariens"

@@ -15,7 +15,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 				NOT = {
 					any_other_country = {
@@ -40,7 +40,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = liberalism
 					}
 				}
@@ -49,7 +49,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				radical_socialism_acceptance = -10
+				scientific_socialism_acceptance = -10
 				liberalism_acceptance = -10
 				popularism_acceptance = 10
 				ai_focus_aggressive_factor = 0.5
@@ -74,9 +74,9 @@ ideas = {
 						}
 					}
 					AND = {
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						GER = {
-							has_government = radical_socialism
+							has_government = scientific_socialism
 						}
 					}
 					AND = {
@@ -118,7 +118,7 @@ ideas = {
 
 			do_effect = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			

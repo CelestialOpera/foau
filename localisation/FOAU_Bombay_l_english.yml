@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- BOM_radical_socialism:0 "State of Mumbai"
- BOM_radical_socialism_DEF:0 "The State of Mumbai"
- BOM_radical_socialism_ADJ:0 "Mumbaikar"
+ BOM_scientific_socialism:0 "State of Mumbai"
+ BOM_scientific_socialism_DEF:0 "The State of Mumbai"
+ BOM_scientific_socialism_ADJ:0 "Mumbaikar"
  BOM_utopian_socialism:0 "State of Mumbai"
  BOM_utopian_socialism_DEF:0 "The State of Mumbai"
  BOM_utopian_socialism_ADJ:0 "Mumbaikar"
@@ -26,9 +26,9 @@
  BOM_popularism_DEF:0 "The State of Mumbai"
  BOM_popularism_ADJ:0 "Mumbaikar"
  
- BOM_BR_radical_socialism:0 "Bombay Residency"
- BOM_BR_radical_socialism_DEF:0 "The Bombay Residency"
- BOM_BR_radical_socialism_ADJ:0 "Bombayite"
+ BOM_BR_scientific_socialism:0 "Bombay Residency"
+ BOM_BR_scientific_socialism_DEF:0 "The Bombay Residency"
+ BOM_BR_scientific_socialism_ADJ:0 "Bombayite"
  BOM_BR_utopian_socialism:0 "Bombay Residency"
  BOM_BR_utopian_socialism_DEF:0 "The Bombay Residency"
  BOM_BR_utopian_socialism_ADJ:0 "Bombayite"

@@ -75,7 +75,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 82
 	traditionalism = 9
-	radical_socialism = 9
+	scientific_socialism = 9
 }
 
 create_country_leader = {
@@ -94,7 +94,7 @@ create_country_leader = {
 	desc = "POLITICS_PEDRO_BAGUISA_DESC"
 	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_2.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

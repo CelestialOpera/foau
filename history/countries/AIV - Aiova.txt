@@ -83,7 +83,7 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 12
+	scientific_socialism = 12
 	utopian_socialism = 19
 	pastoralism = 10
 	liberalism = 15
@@ -98,7 +98,7 @@ create_country_leader = {
 	desc = "POLITICS_VSEVOLOD_HOLUBOVYCH_DESC"
 	picture = "Vsevolod_Holubovych.dds"
 	expire = "1964.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		
 	}

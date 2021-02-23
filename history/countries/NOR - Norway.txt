@@ -134,7 +134,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 96
 	traditionalism = 2
-	radical_socialism = 2
+	scientific_socialism = 2
 }
 
 1939.1.1 = {
@@ -147,7 +147,7 @@ set_popularities = {
 	set_popularities = {
 		liberalism = 84
 		traditionalism = 2
-		radical_socialism = 2
+		scientific_socialism = 2
 		conservatism = 12
 	}
 }
@@ -190,7 +190,7 @@ create_country_leader = {
 	desc = "POLITICS_ADAM_EGEDE_NISSEN_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

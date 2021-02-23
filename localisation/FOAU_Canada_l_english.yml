@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- CAN_radical_socialism:0 "State of Canada"
- CAN_radical_socialism_DEF:0 "The State of Canada"
- CAN_radical_socialism_ADJ:0 "Canadian"
+ CAN_scientific_socialism:0 "State of Canada"
+ CAN_scientific_socialism_DEF:0 "The State of Canada"
+ CAN_scientific_socialism_ADJ:0 "Canadian"
  CAN_utopian_socialism:0 "State of Canada"
  CAN_utopian_socialism_DEF:0 "The State of Canada"
  CAN_utopian_socialism_ADJ:0 "Canadian"
@@ -26,9 +26,9 @@
  CAN_popularism_DEF:0 "The State of Canada"
  CAN_popularism_ADJ:0 "Canadian"
  
- CAN_poc_radical_socialism:0 "Province's of Canada"
- CAN_poc_radical_socialism_DEF:0 "The Province's of Canada"
- CAN_poc_radical_socialism_ADJ:0 "Canadian"
+ CAN_poc_scientific_socialism:0 "Province's of Canada"
+ CAN_poc_scientific_socialism_DEF:0 "The Province's of Canada"
+ CAN_poc_scientific_socialism_ADJ:0 "Canadian"
  CAN_poc_utopian_socialism:0 "Province's of Canada"
  CAN_poc_utopian_socialism_DEF:0 "The Province's of Canada"
  CAN_poc_utopian_socialism_ADJ:0 "Canadian"
@@ -53,8 +53,8 @@
  
  
  #Parties
- CAN_radical_socialism_party:0 "Yorkists"
- CAN_radical_socialism_party_long:0 "York League"
+ CAN_scientific_socialism_party:0 "Yorkists"
+ CAN_scientific_socialism_party_long:0 "York League"
  CAN_utopian_socialism_party:0 "FML"
  CAN_utopian_socialism_party_long:0 "Free Mans League"
  CAN_pastoralism_party:0 "Free Farmers"

@@ -191,7 +191,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 15
 	traditionalism = 10
-	radical_socialism = 15
+	scientific_socialism = 15
 	conservatism = 60
 }
 
@@ -205,7 +205,7 @@ set_popularities = {
 	set_popularities = {
 		liberalism = 10
 		traditionalism = 20
-		radical_socialism = 10
+		scientific_socialism = 10
 		conservatism = 60
 	}
 }
@@ -249,7 +249,7 @@ create_country_leader = {
 	desc = "POLITICS_JOSIP_BROZ_TITO_DESC"
 	picture = "Portrait_Yugoslavia_Josip_Broz_Tito.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

@@ -2394,4 +2394,29 @@ spriteTypes = {
 		name = "GFX_focus_censorship"
 		texturefile = "gfx/interface/goals/censorship.dds" #Lskywalker48
 	}
+	
+	SpriteType = { 
+		name = "GFX_focus_corporate_cabinet"
+		texturefile = "gfx/interface/goals/corporate_cabinet.dds" #Lskywalker48
+	}
+	
+	SpriteType = { 
+		name = "GFX_focus_military_cabinet"
+		texturefile = "gfx/interface/goals/military_cabinet.dds" #Lskywalker48
+	}
+	
+	SpriteType = { 
+		name = "GFX_focus_cabinet_protest"
+		texturefile = "gfx/interface/goals/cabinet_protest.dds" #Lskywalker48
+	}
+	
+	SpriteType = { 
+		name = "GFX_focus_Integrate_Armee_Protectrice"
+		texturefile = "gfx/interface/goals/Integrate_Armee_Protectrice.dds" #Lskywalker48
+	}
+	
+	SpriteType = { 
+		name = "GFX_focus_Recovery_Speech"
+		texturefile = "gfx/interface/goals/Recovery_Speech.dds" #Lskywalker48
+	}
 }

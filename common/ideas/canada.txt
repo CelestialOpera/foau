@@ -117,7 +117,7 @@ ideas = {
 			picture = can_defence_of_canada_regulations_liberalism
 			
 			modifier = {
-				radical_socialism_drift = -0.01
+				scientific_socialism_drift = -0.01
 				popularism_drift = -0.01
 				foreign_subversive_activites = -0.50
 			}
@@ -139,24 +139,24 @@ ideas = {
 			
 			modifier = {
 				liberalism_drift = -0.01
-				radical_socialism_drift = -0.01
+				scientific_socialism_drift = -0.01
 				foreign_subversive_activites = -0.50
 			}
 		}
 
-		CAN_defence_of_canada_regulations_radical_socialism = {
+		CAN_defence_of_canada_regulations_scientific_socialism = {
 
 			allowed = {
 				always = no
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = can_defence_of_canada_regulations_radical_socialism
+			picture = can_defence_of_canada_regulations_scientific_socialism
 			
 			modifier = {
 				liberalism_drift = -0.01
@@ -448,16 +448,16 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 
 			modifier = {
 				liberalism_drift = -0.1
-				radical_socialism_drift = 0.2
+				scientific_socialism_drift = 0.2
 			}
 		}
 
@@ -467,16 +467,16 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 
 			modifier = {
 				liberalism_drift = -0.1
-				radical_socialism_drift = 0.2
+				scientific_socialism_drift = 0.2
 				industrial_capacity_factory = 0.02
 				industrial_capacity_dockyard = 0.02
 			}
@@ -488,18 +488,18 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				 has_government = radical_socialism
+				 has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 
 			rule = { can_send_volunteers = yes }
 
 			modifier = {
 				liberalism_drift = -0.1
-				radical_socialism_drift = 0.2
+				scientific_socialism_drift = 0.2
 				industrial_capacity_factory = 0.04
 				industrial_capacity_dockyard = 0.04
 				subversive_activites_upkeep = -0.5
@@ -648,7 +648,7 @@ ideas = {
 			
 			do_effect = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			

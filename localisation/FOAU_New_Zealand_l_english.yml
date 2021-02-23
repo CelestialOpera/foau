@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- NZL_radical_socialism:0 "Republic of New Zeeland"
- NZL_radical_socialism_DEF:0 "The Republic of New Zeeland"
- NZL_radical_socialism_ADJ:0 "New Zeelander"
+ NZL_scientific_socialism:0 "Republic of New Zeeland"
+ NZL_scientific_socialism_DEF:0 "The Republic of New Zeeland"
+ NZL_scientific_socialism_ADJ:0 "New Zeelander"
  NZL_utopian_socialism:0 "Republic of New Zeeland"
  NZL_utopian_socialism_DEF:0 "The Republic of New Zeeland"
  NZL_utopian_socialism_ADJ:0 "New Zeelander"
@@ -26,9 +26,9 @@
  NZL_popularism_DEF:0 "The Republic of New Zeeland"
  NZL_popularism_ADJ:0 "New Zeelander"
  
- NZL_DNZC_radical_socialism:0 "Dutch New Zeeland Colony"
- NZL_DNZC_radical_socialism_DEF:0 "The Dutch New Zeeland Colony"
- NZL_DNZC_radical_socialism_ADJ:0 "New Zeelander"
+ NZL_DNZC_scientific_socialism:0 "Dutch New Zeeland Colony"
+ NZL_DNZC_scientific_socialism_DEF:0 "The Dutch New Zeeland Colony"
+ NZL_DNZC_scientific_socialism_ADJ:0 "New Zeelander"
  NZL_DNZC_utopian_socialism:0 "Dutch New Zeeland Colony"
  NZL_DNZC_utopian_socialism_DEF:0 "The Dutch New Zeeland Colony"
  NZL_DNZC_utopian_socialism_ADJ:0 "New Zeelander"

@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- BAN_radical_socialism:0 "Republic of Bengal"
- BAN_radical_socialism_DEF:0 "The Republic of Bengal"
- BAN_radical_socialism_ADJ:0 "Bengali"
+ BAN_scientific_socialism:0 "Republic of Bengal"
+ BAN_scientific_socialism_DEF:0 "The Republic of Bengal"
+ BAN_scientific_socialism_ADJ:0 "Bengali"
  BAN_utopian_socialism:0 "Republic of Bengal"
  BAN_utopian_socialism_DEF:0 "The Republic of Bengal"
  BAN_utopian_socialism_ADJ:0 "Bengali"
@@ -26,9 +26,9 @@
  BAN_popularism_DEF:0 "The Republic of Bengal"
  BAN_popularism_ADJ:0 "Bengali"
  
- BAN_APOB_radical_socialism:0 "Autonomous Province of Bengal"
- BAN_APOB_radical_socialism_DEF:0 "The Autonomous Province of Bengal"
- BAN_APOB_radical_socialism_ADJ:0 "Bengali"
+ BAN_APOB_scientific_socialism:0 "Autonomous Province of Bengal"
+ BAN_APOB_scientific_socialism_DEF:0 "The Autonomous Province of Bengal"
+ BAN_APOB_scientific_socialism_ADJ:0 "Bengali"
  BAN_APOB_utopian_socialism:0 "Autonomous Province of Bengal"
  BAN_APOB_utopian_socialism_DEF:0 "The Autonomous Province of Bengal"
  BAN_APOB_utopian_socialism_ADJ:0 "Bengali"

@@ -19,7 +19,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 50
 	traditionalism = 10
-	radical_socialism = 10
+	scientific_socialism = 10
 	conservatism = 30
 }
 
@@ -57,7 +57,7 @@ create_country_leader = {
 	name = "Khalid Bakdash"
 	desc = ""
 	picture = "gfx/leaders/SYR/Portrait_Arabia_Generic_1.dds"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

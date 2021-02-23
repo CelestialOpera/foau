@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- CHA_radical_socialism:0 "Republic of Tchad"
- CHA_radical_socialism_DEF:0 "The Republic of Tchad"
- CHA_radical_socialism_ADJ:0 "Tchadian"
+ CHA_scientific_socialism:0 "Republic of Tchad"
+ CHA_scientific_socialism_DEF:0 "The Republic of Tchad"
+ CHA_scientific_socialism_ADJ:0 "Tchadian"
  CHA_utopian_socialism:0 "Republic of Tchad"
  CHA_utopian_socialism_DEF:0 "The Republic of Tchad"
  CHA_utopian_socialism_ADJ:0 "Tchadian"
@@ -26,9 +26,9 @@
  CHA_popularism_DEF:0 "The Republic of Tchad"
  CHA_popularism_ADJ:0 "Tchadian"
  
- CHA_CCT_radical_socialism:0 "Crown Colony of Tchad"
- CHA_CCT_radical_socialism_DEF:0 "The Crown Colony of Tchad"
- CHA_CCT_radical_socialism_ADJ:0 "Tchadian"
+ CHA_CCT_scientific_socialism:0 "Crown Colony of Tchad"
+ CHA_CCT_scientific_socialism_DEF:0 "The Crown Colony of Tchad"
+ CHA_CCT_scientific_socialism_ADJ:0 "Tchadian"
  CHA_CCT_utopian_socialism:0 "Crown Colony of Tchad"
  CHA_CCT_utopian_socialism_DEF:0 "The Crown Colony of Tchad"
  CHA_CCT_utopian_socialism_ADJ:0 "Tchadian"

@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- BRA_radical_socialism:0 "Republic of Brazil"
- BRA_radical_socialism_DEF:0 "The Republic of Brazil"
- BRA_radical_socialism_ADJ:0 "Brazilian"
+ BRA_scientific_socialism:0 "Republic of Brazil"
+ BRA_scientific_socialism_DEF:0 "The Republic of Brazil"
+ BRA_scientific_socialism_ADJ:0 "Brazilian"
  BRA_utopian_socialism:0 "Republic of Brazil"
  BRA_utopian_socialism_DEF:0 "The Republic of Brazil"
  BRA_utopian_socialism_ADJ:0 "Brazilian"
@@ -26,8 +26,8 @@
  BRA_popularism_DEF:0 "The Republic of Brazil"
  BRA_popularism_ADJ:0 "Brazilian"
  
- BRA_radical_socialism_party:0 "Comunistas"
- BRA_radical_socialism_party_long:0 "Partido Socialista Brasileiro(Comunistas) - Socialist Party of Brazil(Communists)"
+ BRA_scientific_socialism_party:0 "Comunistas"
+ BRA_scientific_socialism_party_long:0 "Partido Socialista Brasileiro(Comunistas) - Socialist Party of Brazil(Communists)"
  BRA_utopian_socialism_party:0 "Getulistas"
  BRA_utopian_socialism_party_long:0 "Partido Socialista Brasileiro(Getulismo) - Socialist Party of Brazil(Getulism)"
  BRA_pastoralism_party:0 "PFR"

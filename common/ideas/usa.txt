@@ -379,7 +379,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = liberalism
 				}
 			}
@@ -398,7 +398,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = liberalism
 				}
 			}
@@ -419,7 +419,7 @@ ideas = {
 
 			allowed_civil_war = {
 				OR = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_government = liberalism
 				}
 			}
@@ -1065,37 +1065,37 @@ ideas = {
 			}			
 		}
 			# idea for the protect Amercians focus - USA communist
-		american_influence_defence_radical_socialism = {
+		american_influence_defence_scientific_socialism = {
 			allowed = { always = no	}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			modifier = {
 				drift_defence_factor = 0.5
 			}
 		}
-		american_influence_drift_radical_socialism = {
+		american_influence_drift_scientific_socialism = {
 			allowed = { always = no	}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			modifier = {
-				radical_socialism_drift = 0.05
+				scientific_socialism_drift = 0.05
 			}
 		} 
-		american_protection_defence_radical_socialism = {
+		american_protection_defence_scientific_socialism = {
 			allowed = { always = no	}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -1104,17 +1104,17 @@ ideas = {
 				drift_defence_factor = 0.5
 			}
 		}
-		american_protection_drift_radical_socialism = {
+		american_protection_drift_scientific_socialism = {
 			allowed = { always = no	}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 			picture = generic_intel_bonus
 			modifier = {
-				radical_socialism_drift = 0.05
+				scientific_socialism_drift = 0.05
 			}			
 		}
 			# idea for the protect Amercians focus - USA fascist
@@ -1235,7 +1235,7 @@ ideas = {
 
 			do_effect = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			
@@ -1263,7 +1263,7 @@ ideas = {
 				original_tag = "USA"
 			}
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			available = {
 				if = {
@@ -1293,7 +1293,7 @@ ideas = {
 				original_tag = "USA"
 			}
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			available = {
 				if = {
@@ -1322,7 +1322,7 @@ ideas = {
 				original_tag = "USA"
 			}
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			available = {
 				if = {
@@ -1351,7 +1351,7 @@ ideas = {
 				original_tag = "USA"
 			}
 			allowed_civil_war = {
-				not = { has_government = radical_socialism }
+				not = { has_government = scientific_socialism }
 			}
 			available = {
 				if = {
@@ -1381,7 +1381,7 @@ ideas = {
 				original_tag = "USA"
 			}
 			allowed_civil_war = {
-				not = { has_government = radical_socialism }
+				not = { has_government = scientific_socialism }
 			}
 			available = {
 				if = {

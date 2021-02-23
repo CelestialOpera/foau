@@ -67,7 +67,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 40
 	traditionalism = 30
-	radical_socialism = 30
+	scientific_socialism = 30
 }
 
 create_country_leader = {
@@ -104,7 +104,7 @@ create_country_leader = {
 	name = "Bulus Farah"
 	desc = ""
 	picture = "gfx/leaders/PAL/Portrait_Arabia_Generic_2.dds"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

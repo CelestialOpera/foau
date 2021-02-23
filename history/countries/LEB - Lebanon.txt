@@ -67,7 +67,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 50
 	traditionalism = 10
-	radical_socialism = 10
+	scientific_socialism = 10
 	conservatism = 30
 }
 
@@ -105,7 +105,7 @@ create_country_leader = {
 	name = "Rami Sarraff"
 	desc = ""
 	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_land_2.dds"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

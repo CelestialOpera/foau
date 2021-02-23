@@ -132,7 +132,7 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 16
+	scientific_socialism = 16
 	utopian_socialism = 13
 	pastoralism = 11
 	liberalism = 9
@@ -147,7 +147,7 @@ create_country_leader = {
 	desc = "POLITICS_FELIX_GOUIN_DESC"
 	picture = "Felix_Gouin.dds"
 	expire = "1947.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		
 	}

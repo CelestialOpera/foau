@@ -85,7 +85,7 @@ set_politics = {
 }
 #The popularity may need to be re-worked for Bombay, and while Thomas' regime is liberal, it is still under the jurisdiction of the British. Thomas has tend to be more lenient on natives compared to some predecessors or colleagues in other governments.
 set_popularities = {
-	radical_socialism = 7
+	scientific_socialism = 7
 	utopian_socialism = 6
 	pastoralism = 11
 	liberalism = 21

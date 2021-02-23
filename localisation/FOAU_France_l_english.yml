@@ -4,9 +4,9 @@
  #FRA_FALLACY_DESC:0 "The French Republic, sometimes called Lafayette's Republic lead the revolutionary cause in Europe and was a dominant power up until The Great War. The Great War saw a large loss for the French Republic including the loss of a majority of the nations colonies, this massive loss on top of the growing economic crisis has lead to the rise of radical groups in the nation from the far-right to the far-left. Now the Prime Minister, Édouard Herriot has turned to Staatism to prevent these radicals from taking power by passing a bill known as the Prevention Act. The Prevention Act allows for the Prime Minister and his cabinet to enact emergency powers to prevent enemies of the state from taking control. Many oppose this \"New Democracy" including some within Herriot's own party."
  
  #Country Name
- FRA_radical_socialism:0 "Republic of France"
- FRA_radical_socialism_DEF:0 "The Republic of France"
- FRA_radical_socialism_ADJ:0 "French"
+ FRA_scientific_socialism:0 "Republic of France"
+ FRA_scientific_socialism_DEF:0 "The Republic of France"
+ FRA_scientific_socialism_ADJ:0 "French"
  FRA_utopian_socialism:0 "Republic of France"
  FRA_utopian_socialism_DEF:0 "The Republic of France"
  FRA_utopian_socialism_ADJ:0 "French"
@@ -30,8 +30,8 @@
  FRA_popularism_ADJ:0 "French"
  
  #Parties
- FRA_radical_socialism_party:0 "Communalistes"
- FRA_radical_socialism_party_long:0 "Parti communaliste-socialiste de France - Communalist-Socialist Party of France"
+ FRA_scientific_socialism_party:0 "Communalistes"
+ FRA_scientific_socialism_party_long:0 "Parti communaliste-socialiste de France - Communalist-Socialist Party of France"
  FRA_utopian_socialism_party:0 "Réformistes"
  FRA_utopian_socialism_party_long:0 "Parti Ouvrier Démocrate Français - French Democratic Workers Party"
  FRA_pastoralism_party:0 "Agrariens"

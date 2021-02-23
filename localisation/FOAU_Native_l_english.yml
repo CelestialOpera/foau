@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- NAT_radical_socialism:0 "Insurgency of The First Nations"
- NAT_radical_socialism_DEF:0 "The Insurgency of The First Nations"
- NAT_radical_socialism_ADJ:0 "First Nations"
+ NAT_scientific_socialism:0 "Insurgency of The First Nations"
+ NAT_scientific_socialism_DEF:0 "The Insurgency of The First Nations"
+ NAT_scientific_socialism_ADJ:0 "First Nations"
  NAT_utopian_socialism:0 "Insurgency of The First Nations"
  NAT_utopian_socialism_DEF:0 "The Insurgency of The First Nations"
  NAT_utopian_socialism_ADJ:0 "First Nations"
@@ -26,9 +26,9 @@
  NAT_popularism_DEF:0 "The Insurgency of The First Nations"
  NAT_popularism_ADJ:0 "First Nations"
  
- NAT_EP_provgov_radical_socialism:0 "Thatewakpa Provisional Government"
- NAT_EP_provgov_radical_socialism_DEF:0 "The Thatewakpa Provisional Government"
- NAT_EP_provgov_radical_socialism_ADJ:0 "Thatewakpan"
+ NAT_EP_provgov_scientific_socialism:0 "Thatewakpa Provisional Government"
+ NAT_EP_provgov_scientific_socialism_DEF:0 "The Thatewakpa Provisional Government"
+ NAT_EP_provgov_scientific_socialism_ADJ:0 "Thatewakpan"
  NAT_EP_provgov_utopian_socialism:0 "Thatewakpa Provisional Government"
  NAT_EP_provgov_utopian_socialism_DEF:0 "The Thatewakpa Provisional Government"
  NAT_EP_provgov_utopian_socialism_ADJ:0 "Thatewakpan"

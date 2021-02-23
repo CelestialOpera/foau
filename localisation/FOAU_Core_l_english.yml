@@ -4,9 +4,9 @@
  FOAU_BOX_NAME:0 "[?ROOT.GetName]"
  
  #Ideologies
- radical_socialism:0 "Radical Socialism"
- radical_socialism_noun:0 "Radical Socialists"
- radical_socialism_desc:0 "Radical Socialist Regime"
+ scientific_socialism:0 "Scientific Socialism"
+ scientific_socialism_noun:0 "Scientific Socialists"
+ scientific_socialism_desc:0 "Scientific Socialist Regime"
  
  utopian_socialism:0 "Utopian Socialism"
  utopian_socialism_noun:0 "Utopian Socialists"
@@ -37,10 +37,10 @@
  popularism_desc:0 "Popularist Regime"
  
  #RadSoc Subs
- radical_socialism_ideology:0 "Radical Socialism"
- radical_socialism_ideology_desc:0 "Radical Socialism carries along the ideas of socialism along a more radical and revolutionary transition, opposed to the Utopian Socialist ideal of working with the bourgeoisie in a peaceful cooperative society."
+ scientific_socialism_ideology:0 "Scientific Socialism"
+ scientific_socialism_ideology_desc:0 "Scientific Socialism carries along the ideas of socialism along a more radical and revolutionary transition, opposed to the Utopian Socialist ideal of working with the bourgeoisie in a peaceful cooperative society."
  fascism:0 "Fascism"
- fascism_desc:0 "Fascism is a populist and nationalistic strain of the greater Radical Socialist movement, at times compared to early forms of Popularism and labeled as Popularism itself at times it is different as it does not hold the nationalistic ideas to absolute authority. Fascists are open to abandoning their nationalistic agenda when needed in favor of the populist and socialist key ideas of the movement. Fascists wish to build up the workers of their nation, opposed to popularist style socialism which seeks to put their national identity above the workers."
+ fascism_desc:0 "Fascism is a populist and nationalistic strain of the greater Scientific Socialist movement, at times compared to early forms of Popularism and labeled as Popularism itself at times it is different as it does not hold the nationalistic ideas to absolute authority. Fascists are open to abandoning their nationalistic agenda when needed in favor of the populist and socialist key ideas of the movement. Fascists wish to build up the workers of their nation, opposed to popularist style socialism which seeks to put their national identity above the workers."
  marxism_gallarcherism:0 "Marxism-Gallarchism"
  marxism_gallarcherism_desc:0 ""
  martovism:0 "Martovism"
@@ -56,7 +56,7 @@
  
  #UtopSoc Subs
  utopian_socialism_ideology:0 "Utopian Socialism"
- utopian_socialism_ideology_desc:0 "Utopian Socialism embraces socialistic ideals while believing that they can be implemented in a smooth cooperative transition, allowing all corners and classes of society to work together, which is opposed to the revolutionary and radical ideas of the Radical Socialist sect of Socialism."
+ utopian_socialism_ideology_desc:0 "Utopian Socialism embraces socialistic ideals while believing that they can be implemented in a smooth cooperative transition, allowing all corners and classes of society to work together, which is opposed to the revolutionary and radical ideas of the Scientific Socialist sect of Socialism."
  associationism:0 "Associationism"
  associationism_desc:0 "Associationism is often confused with the popularist movement of Utopian Nationalism due to the latter using the name Utopian and the former being a strain of Utopian Socialism as well as nationalist. Associationism believes in working together with the enemies within a nation to make the country a better place, cooperate with those you aren't aligned with to ensure the success of the nation. One of the key ideas of Associationism was born out of a phrase, said phrase being 'An enemy is just a friend, yet to be made!'."
  religious_socialism:0 "Religious Socialism"
@@ -92,7 +92,7 @@
  very_important_person:0 "V.I.P."
  
  #Political Stances
- radical_socialist:0 "Radical Socialist"
+ radical_socialist:0 "Scientific Socialist"
  utopian_socialist:0 "Utopian Socialist"
  pastoralist:0 "Pastoralist"
  liberal:0 "Liberal"

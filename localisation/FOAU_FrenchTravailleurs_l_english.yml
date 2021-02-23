@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- FTA_radical_socialism:0 "French Toilers Army"
- FTA_radical_socialism_DEF:0 "The French Toilers Army"
- FTA_radical_socialism_ADJ:0 "Toiler"
+ FTA_scientific_socialism:0 "French Toilers Army"
+ FTA_scientific_socialism_DEF:0 "The French Toilers Army"
+ FTA_scientific_socialism_ADJ:0 "Toiler"
  FTA_utopian_socialism:0 "French Toilers Army"
  FTA_utopian_socialism_DEF:0 "The French Toilers Army"
  FTA_utopian_socialism_ADJ:0 "Toiler"
@@ -26,9 +26,9 @@
  FTA_popularism_DEF:0 "The French Toilers Army"
  FTA_popularism_ADJ:0 "Toiler"
  
- FTA_FProvGov_radical_socialism:0 "French Toilers' Republic"
- FTA_FProvGov_radical_socialism_DEF:0 "The French Toilers' Republic"
- FTA_FProvGov_radical_socialism_ADJ:0 "French"
+ FTA_FProvGov_scientific_socialism:0 "French Toilers' Republic"
+ FTA_FProvGov_scientific_socialism_DEF:0 "The French Toilers' Republic"
+ FTA_FProvGov_scientific_socialism_ADJ:0 "French"
  FTA_FProvGov_utopian_socialism:0 "French Toilers' Republic"
  FTA_FProvGov_utopian_socialism_DEF:0 "The French Toilers' Republic"
  FTA_FProvGov_utopian_socialism_ADJ:0 "French"
@@ -53,8 +53,8 @@
  
  ##Parties
  
- FFC_radical_socialism_party:0 "Communalistes"
- FFC_radical_socialism_party_long:0 "Parti communaliste-socialiste de France - Communalist-Socialist Party of France"
+ FFC_scientific_socialism_party:0 "Communalistes"
+ FFC_scientific_socialism_party_long:0 "Parti communaliste-socialiste de France - Communalist-Socialist Party of France"
  FFC_utopian_socialism_party:0 "Réformistes"
  FFC_utopian_socialism_party_long:0 "Parti Ouvrier Démocrate Français - French Democratic Workers Party"
  FFC_pastoralism_party:0 "Agrariens"

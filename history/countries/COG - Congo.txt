@@ -72,7 +72,7 @@ create_country_leader = {
 	name = "Lumumba Lomendja"
 	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_1.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		silent_workhorse
 	}

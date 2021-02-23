@@ -108,7 +108,7 @@ set_politics = {
 	elections_allowed = no ##suspended through duration of war, which is handled via event
 }
 set_popularities = {
-	radical_socialism = 6
+	scientific_socialism = 6
 	utopian_socialism = 15
 	pastoralism = 9
 	liberalism = 19

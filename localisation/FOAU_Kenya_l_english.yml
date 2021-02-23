@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- KEN_radical_socialism:0 "Union of Kenyans"
- KEN_radical_socialism_DEF:0 "The Union of Kenyans"
- KEN_radical_socialism_ADJ:0 "Kenyan"
+ KEN_scientific_socialism:0 "Union of Kenyans"
+ KEN_scientific_socialism_DEF:0 "The Union of Kenyans"
+ KEN_scientific_socialism_ADJ:0 "Kenyan"
  KEN_utopian_socialism:0 "Union of Kenyans"
  KEN_utopian_socialism_DEF:0 "The Union of Kenyans"
  KEN_utopian_socialism_ADJ:0 "Kenyan"
@@ -26,9 +26,9 @@
  KEN_popularism_DEF:0 "The Union of Kenyans"
  KEN_popularism_ADJ:0 "Kenyan"
  
- KEN_DEAG_radical_socialism:0 "Dutch East Africa Government"
- KEN_DEAG_radical_socialism_DEF:0 "The Dutch East Africa Government"
- KEN_DEAG_radical_socialism_ADJ:0 "Dutch-East African"
+ KEN_DEAG_scientific_socialism:0 "Dutch East Africa Government"
+ KEN_DEAG_scientific_socialism_DEF:0 "The Dutch East Africa Government"
+ KEN_DEAG_scientific_socialism_ADJ:0 "Dutch-East African"
  KEN_DEAG_utopian_socialism:0 "Dutch East Africa Government"
  KEN_DEAG_utopian_socialism_DEF:0 "The Dutch East Africa Government"
  KEN_DEAG_utopian_socialism_ADJ:0 "Dutch-East African"

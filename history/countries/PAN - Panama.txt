@@ -102,7 +102,7 @@ create_country_leader = {
 		desc = "POLITICS_JULY_PORTOCARRERO_DESC"
 		picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_4.dds"
 		expire = "1965.1.1"
-		ideology = radical_socialism_ideology
+		ideology = scientific_socialism_ideology
 		traits = {
 			#
 		}

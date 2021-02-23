@@ -52,7 +52,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 75
 	traditionalism = 1
-	radical_socialism = 1
+	scientific_socialism = 1
 	conservatism = 23
 }
 

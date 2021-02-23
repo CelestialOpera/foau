@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- QUE_radical_socialism:0 "Republic of Quebec"
- QUE_radical_socialism_DEF:0 "The Republic of Quebec"
- QUE_radical_socialism_ADJ:0 "Québécois"
+ QUE_scientific_socialism:0 "Republic of Quebec"
+ QUE_scientific_socialism_DEF:0 "The Republic of Quebec"
+ QUE_scientific_socialism_ADJ:0 "Québécois"
  QUE_utopian_socialism:0 "Republic of Quebec"
  QUE_utopian_socialism_DEF:0 "The Republic of Quebec"
  QUE_utopian_socialism_ADJ:0 "Québécois"
@@ -26,9 +26,9 @@
  QUE_popularism_DEF:0 "The Republic of Quebec"
  QUE_popularism_ADJ:0 "Québécois"
  
- QUE_VRQ_radical_socialism:0 "Viceroyalty of Quebec"
- QUE_VRQ_radical_socialism_DEF:0 "The Viceroyalty of Quebec"
- QUE_VRQ_radical_socialism_ADJ:0 "Quebecer"
+ QUE_VRQ_scientific_socialism:0 "Viceroyalty of Quebec"
+ QUE_VRQ_scientific_socialism_DEF:0 "The Viceroyalty of Quebec"
+ QUE_VRQ_scientific_socialism_ADJ:0 "Quebecer"
  QUE_VRQ_utopian_socialism:0 "Viceroyalty of Quebec"
  QUE_VRQ_utopian_socialism_DEF:0 "The Viceroyalty of Quebec"
  QUE_VRQ_utopian_socialism_ADJ:0 "Quebecer"

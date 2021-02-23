@@ -89,13 +89,13 @@ set_convoys = 500
 
 
 set_politics = {
-	ruling_party = radical_socialism
+	ruling_party = scientific_socialism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 21
+	scientific_socialism = 21
 	utopian_socialism = 11
 	pastoralism = 9
 	liberalism = 11

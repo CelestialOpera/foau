@@ -519,7 +519,7 @@ ideas = {
 			available = {
 				NOT = { is_in_faction_with = SOV }
 				NOT = { has_war_together_with = SOV }
-				NOT = { has_government = radical_socialism }
+				NOT = { has_government = scientific_socialism }
 			}
 
 			allowed = {
@@ -610,7 +610,7 @@ ideas = {
 			picture = anti_soviet_pact
 
 			modifier = {
-				radical_socialism_drift = -0.1
+				scientific_socialism_drift = -0.1
 			}
 		}
 
@@ -625,10 +625,10 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 
 			modifier = {
-				radical_socialism_drift = 0.1
+				scientific_socialism_drift = 0.1
 			}
 		}
 
@@ -657,7 +657,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				NOT = { has_government = radical_socialism }
+				NOT = { has_government = scientific_socialism }
 			}
 
 			removal_cost = -1
@@ -665,7 +665,7 @@ ideas = {
 			picture = anti_soviet_pact
 
 			modifier = {
-				radical_socialism_drift = -0.1
+				scientific_socialism_drift = -0.1
 			}
 		}
 
@@ -701,7 +701,7 @@ ideas = {
 			picture = ger_the_great_red_menace
 
 			modifier = {
-				radical_socialism_drift = -0.02
+				scientific_socialism_drift = -0.02
 				liberalism_drift = 0.02
 			}
 		}
@@ -783,7 +783,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -802,7 +802,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -1667,7 +1667,7 @@ ideas = {
 
 			do_effect = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			

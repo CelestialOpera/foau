@@ -242,7 +242,7 @@ ideas = {
 		
 		YUG_idea_peasant_councils = {
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			allowed = {
 				original_tag = YUG
@@ -250,21 +250,21 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
-				radical_socialism_drift = 0.2
+				scientific_socialism_drift = 0.2
 			}
 		}
 		
 		YUG_idea_empowered_peasant_councils = {
 			
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			allowed = {
 				original_tag = YUG
@@ -272,12 +272,12 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
 				drift_defence_factor = 0.25
@@ -287,7 +287,7 @@ ideas = {
 		
 		YUG_idea_very_empowered_peasant_councils = {
 			
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			allowed = {
 				original_tag = YUG
@@ -295,12 +295,12 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
 				drift_defence_factor = 0.5
@@ -312,7 +312,7 @@ ideas = {
 		
 		pan_slavic_propaganda = {
 			
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			allowed = {
 				original_tag = YUG
@@ -320,21 +320,21 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
-				radical_socialism_drift = 0.2
+				scientific_socialism_drift = 0.2
 			}
 		}
 		
 		agitated_peasants = {
 			
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			allowed = {
 				original_tag = YUG
@@ -342,21 +342,21 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
-				radical_socialism_drift = 0.2
+				scientific_socialism_drift = 0.2
 			}
 		}
 		
 		armed_communist_militants = {
 			
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			allowed = {
 				original_tag = YUG
@@ -364,15 +364,15 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 			
 			modifier = {
-				radical_socialism_drift = 0.2
+				scientific_socialism_drift = 0.2
 				stability_weekly = -0.005
 			}
 		}
@@ -395,7 +395,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1

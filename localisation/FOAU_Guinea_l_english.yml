@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- GNA_radical_socialism:0 "Republic of Guinea"
- GNA_radical_socialism_DEF:0 "The Republic of Guinea"
- GNA_radical_socialism_ADJ:0 "Guinea"
+ GNA_scientific_socialism:0 "Republic of Guinea"
+ GNA_scientific_socialism_DEF:0 "The Republic of Guinea"
+ GNA_scientific_socialism_ADJ:0 "Guinea"
  GNA_utopian_socialism:0 "Republic of Guinea"
  GNA_utopian_socialism_DEF:0 "The Republic of Guinea"
  GNA_utopian_socialism_ADJ:0 "Guinea"
@@ -26,9 +26,9 @@
  GNA_popularism_DEF:0 "The Republic of Guinea"
  GNA_popularism_ADJ:0 "Guinea"
  
- GNA_AWAR_radical_socialism:0 "Austrian Westafrika Territory"
- GNA_AWAR_radical_socialism_DEF:0 "The Austrian Westafrika Territory"
- GNA_AWAR_radical_socialism_ADJ:0 "Westafrikan"
+ GNA_AWAR_scientific_socialism:0 "Austrian Westafrika Territory"
+ GNA_AWAR_scientific_socialism_DEF:0 "The Austrian Westafrika Territory"
+ GNA_AWAR_scientific_socialism_ADJ:0 "Westafrikan"
  GNA_AWAR_utopian_socialism:0 "Austrian Westafrika Territory"
  GNA_AWAR_utopian_socialism_DEF:0 "The Austrian Westafrika Territory"
  GNA_AWAR_utopian_socialism_ADJ:0 "Westafrikan"

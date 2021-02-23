@@ -149,7 +149,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 80
 	traditionalism = 10
-	radical_socialism = 10
+	scientific_socialism = 10
 }
 
 add_ideas = {
@@ -168,7 +168,7 @@ add_ideas = {
 	}
 	set_popularities = {
 		liberalism = 99
-		radical_socialism = 1
+		scientific_socialism = 1
 	}
 }
 

@@ -19,7 +19,7 @@ country_event = {
 				NOT = {
 					OR = {
 						tag = FRA
-						has_government = radical_socialism
+						has_government = scientific_socialism
 					}
 				}
 			}

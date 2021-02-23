@@ -32,7 +32,7 @@ set_popularities = {
 	liberalism = 65
 	conservatism = 20
 	traditionalism = 5
-	radical_socialism = 10
+	scientific_socialism = 10
 }
 
 create_country_leader = {
@@ -62,7 +62,7 @@ create_country_leader = {
 	desc = "POLITICS_KLEMENT_GOTTWALD_DESC"
 	picture = "Portrait_Czech_Klement_Gottwald.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

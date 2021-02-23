@@ -217,3 +217,26 @@
  
  FRA_vanguard_against_radicalism:0 "Vanguard Against Radicalism"
  FRA_vanguard_against_radicalism_desc:0 "We must lead the vanguard against radicalism, we must protect the world from the erratic ideas that plague this great Earth."
+ 
+ 
+ ########################################### Post-Rework
+ FRA_investigation:0 "Investigation"
+ FRA_investigation_desc:0 ""
+ 
+ FRA_seize_control_of_the_press:0 "Seize Control of The Press"
+ FRA_seize_control_of_the_press_desc:0 ""
+ 
+ FRA_reshuffle_the_cabinet:0 "Reshuffle The Cabinet"
+ FRA_reshuffle_the_cabinet_desc:0 ""
+ 
+ FRA_integrate_armee_protectrice:0 "Integrate The Armée Protectrice"
+ FRA_integrate_armee_protectrice_desc:0 ""
+ 
+ FRA_corporate_cabinet:0 "Corporate Cabinet"
+ FRA_corporate_cabinet_desc:0 ""
+ 
+ FRA_military_cabinet:0 "Military Cabinet"
+ FRA_military_cabinet_desc:0 ""
+ 
+ FRA_protest_over_the_cabinet:0 "Protest Over The Cabinet"
+ FRA_protest_over_the_cabinet_desc:0 ""

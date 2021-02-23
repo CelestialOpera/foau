@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- ARA_radical_socialism:0 "Union of The Arab Peninsula"
- ARA_radical_socialism_DEF:0 "The Union of The Arab Peninsula"
- ARA_radical_socialism_ADJ:0 "Peninsular Arab"
+ ARA_scientific_socialism:0 "Union of The Arab Peninsula"
+ ARA_scientific_socialism_DEF:0 "The Union of The Arab Peninsula"
+ ARA_scientific_socialism_ADJ:0 "Peninsular Arab"
  ARA_utopian_socialism:0 "Union of The Arab Peninsula"
  ARA_utopian_socialism_DEF:0 "The Union of The Arab Peninsula"
  ARA_utopian_socialism_ADJ:0 "Peninsular Arab"
@@ -26,9 +26,9 @@
  ARA_popularism_DEF:0 "The Union of The Arab Peninsula"
  ARA_popularism_ADJ:0 "Peninsular Arab"
  
- ARA_BAOC_radical_socialism:0 "British-Arab Oil Company"
- ARA_BAOC_radical_socialism_DEF:0 "The British-Arab Oil Company"
- ARA_BAOC_radical_socialism_ADJ:0 "British-Arab"
+ ARA_BAOC_scientific_socialism:0 "British-Arab Oil Company"
+ ARA_BAOC_scientific_socialism_DEF:0 "The British-Arab Oil Company"
+ ARA_BAOC_scientific_socialism_ADJ:0 "British-Arab"
  ARA_BAOC_utopian_socialism:0 "British-Arab Oil Company"
  ARA_BAOC_utopian_socialism_DEF:0 "The British-Arab Oil Company"
  ARA_BAOC_utopian_socialism_ADJ:0 "British-Arab"

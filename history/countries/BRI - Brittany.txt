@@ -178,7 +178,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 20
 	traditionalism = 40
-	radical_socialism = 10
+	scientific_socialism = 10
 	conservatism = 30
 }
 
@@ -186,7 +186,7 @@ create_country_leader = {
 	name = "Yann-Morvan Gefflot"
 	picture = "gfx//leaders//Europe//Portrait_Europe_Generic_1.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 }
 
 create_country_leader = {

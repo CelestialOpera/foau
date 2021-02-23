@@ -74,7 +74,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 35
 	traditionalism = 15
-	radical_socialism = 15
+	scientific_socialism = 15
 	conservatism = 35
 }
 
@@ -94,9 +94,9 @@ create_country_leader = {
 create_country_leader = {
 	name = "Ho Chí Minh" 
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_radical_socialism.dds"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_scientific_socialism.dds"
 	expire = "1953.3.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		
 	}

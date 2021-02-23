@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- SOM_radical_socialism:0 "Union of Somaliland"
- SOM_radical_socialism_DEF:0 "The Union of Somaliland"
- SOM_radical_socialism_ADJ:0 "Somali"
+ SOM_scientific_socialism:0 "Union of Somaliland"
+ SOM_scientific_socialism_DEF:0 "The Union of Somaliland"
+ SOM_scientific_socialism_ADJ:0 "Somali"
  SOM_utopian_socialism:0 "Union of Somaliland"
  SOM_utopian_socialism_DEF:0 "The Union of Somaliland"
  SOM_utopian_socialism_ADJ:0 "Somali"
@@ -26,9 +26,9 @@
  SOM_popularism_DEF:0 "The Union of Somaliland"
  SOM_popularism_ADJ:0 "Somali"
  
- SOM_CCS_radical_socialism:0 "Crown Colony of Somaliland"
- SOM_CCS_radical_socialism_DEF:0 "The Crown Colony of Somaliland"
- SOM_CCS_radical_socialism_ADJ:0 "Somali"
+ SOM_CCS_scientific_socialism:0 "Crown Colony of Somaliland"
+ SOM_CCS_scientific_socialism_DEF:0 "The Crown Colony of Somaliland"
+ SOM_CCS_scientific_socialism_ADJ:0 "Somali"
  SOM_CCS_utopian_socialism:0 "Crown Colony of Somaliland"
  SOM_CCS_utopian_socialism_DEF:0 "The Crown Colony of Somaliland"
  SOM_CCS_utopian_socialism_ADJ:0 "Somali"

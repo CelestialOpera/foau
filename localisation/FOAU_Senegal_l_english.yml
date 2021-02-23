@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- SEN_radical_socialism:0 "Republic of Senegal"
- SEN_radical_socialism_DEF:0 "The Republic of Senegal"
- SEN_radical_socialism_ADJ:0 "Senegalese"
+ SEN_scientific_socialism:0 "Republic of Senegal"
+ SEN_scientific_socialism_DEF:0 "The Republic of Senegal"
+ SEN_scientific_socialism_ADJ:0 "Senegalese"
  SEN_utopian_socialism:0 "Republic of Senegal"
  SEN_utopian_socialism_DEF:0 "The Republic of Senegal"
  SEN_utopian_socialism_ADJ:0 "Senegalese"
@@ -26,9 +26,9 @@
  SEN_popularism_DEF:0 "The Republic of Senegal"
  SEN_popularism_ADJ:0 "Senegalese"
  
- SEN_GWAT_radical_socialism:0 "German Westafrika Territory"
- SEN_GWAT_radical_socialism_DEF:0 "The German Westafrika Territory"
- SEN_GWAT_radical_socialism_ADJ:0 "Westafrikan"
+ SEN_GWAT_scientific_socialism:0 "German Westafrika Territory"
+ SEN_GWAT_scientific_socialism_DEF:0 "The German Westafrika Territory"
+ SEN_GWAT_scientific_socialism_ADJ:0 "Westafrikan"
  SEN_GWAT_utopian_socialism:0 "German Westafrika Territory"
  SEN_GWAT_utopian_socialism_DEF:0 "The German Westafrika Territory"
  SEN_GWAT_utopian_socialism_ADJ:0 "Westafrikan"

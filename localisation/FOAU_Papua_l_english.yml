@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- PNG_radical_socialism:0 "State of Papua"
- PNG_radical_socialism_DEF:0 "The State of Papua"
- PNG_radical_socialism_ADJ:0 "Papuan"
+ PNG_scientific_socialism:0 "State of Papua"
+ PNG_scientific_socialism_DEF:0 "The State of Papua"
+ PNG_scientific_socialism_ADJ:0 "Papuan"
  PNG_utopian_socialism:0 "State of Papua"
  PNG_utopian_socialism_DEF:0 "The State of Papua"
  PNG_utopian_socialism_ADJ:0 "Papuan"
@@ -26,9 +26,9 @@
  PNG_popularism_DEF:0 "The State of Papua"
  PNG_popularism_ADJ:0 "Papuan"
  
- PNG_DNG_radical_socialism:0 "Danish New Guinea"
- PNG_DNG_radical_socialism_DEF:0 "The Danish New Guinea"
- PNG_DNG_radical_socialism_ADJ:0 "Danish-New Guinean"
+ PNG_DNG_scientific_socialism:0 "Danish New Guinea"
+ PNG_DNG_scientific_socialism_DEF:0 "The Danish New Guinea"
+ PNG_DNG_scientific_socialism_ADJ:0 "Danish-New Guinean"
  PNG_DNG_utopian_socialism:0 "Danish New Guinea"
  PNG_DNG_utopian_socialism_DEF:0 "The Danish New Guinea"
  PNG_DNG_utopian_socialism_ADJ:0 "Danish-New Guinean"

@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- RAJ_radical_socialism:0 "United Kingdoms of India"
- RAJ_radical_socialism_DEF:0 "The United Kingdoms of India"
- RAJ_radical_socialism_ADJ:0 "Indian"
+ RAJ_scientific_socialism:0 "United Kingdoms of India"
+ RAJ_scientific_socialism_DEF:0 "The United Kingdoms of India"
+ RAJ_scientific_socialism_ADJ:0 "Indian"
  RAJ_utopian_socialism:0 "United Kingdoms of India"
  RAJ_utopian_socialism_DEF:0 "The United Kingdoms of India"
  RAJ_utopian_socialism_ADJ:0 "Indian"
@@ -26,9 +26,9 @@
  RAJ_popularism_DEF:0 "The United Kingdoms of India"
  RAJ_popularism_ADJ:0 "Indian"
  
- RAJ_CCSI_radical_socialism:0 "Crown Colony of Southern India"
- RAJ_CCSI_radical_socialism_DEF:0 "The Crown Colony of Southern India"
- RAJ_CCSI_radical_socialism_ADJ:0 "Southern Indian"
+ RAJ_CCSI_scientific_socialism:0 "Crown Colony of Southern India"
+ RAJ_CCSI_scientific_socialism_DEF:0 "The Crown Colony of Southern India"
+ RAJ_CCSI_scientific_socialism_ADJ:0 "Southern Indian"
  RAJ_CCSI_utopian_socialism:0 "Crown Colony of Southern India"
  RAJ_CCSI_utopian_socialism_DEF:0 "The Crown Colony of Southern India"
  RAJ_CCSI_utopian_socialism_ADJ:0 "Southern Indian"

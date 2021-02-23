@@ -1,11 +1,11 @@
 ideologies = {
 	
-	radical_socialism = {
+	scientific_socialism = {
 	
 		types = {
 		
 			
-			radical_socialism_ideology = {
+			scientific_socialism_ideology = {
 			}
 			
 			marxism = { #Orthodox Marxism

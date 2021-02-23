@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- ARM_radical_socialism:0 "State of Armenia"
- ARM_radical_socialism_DEF:0 "The State of Armenia"
- ARM_radical_socialism_ADJ:0 "Armenian"
+ ARM_scientific_socialism:0 "State of Armenia"
+ ARM_scientific_socialism_DEF:0 "The State of Armenia"
+ ARM_scientific_socialism_ADJ:0 "Armenian"
  ARM_utopian_socialism:0 "State of Armenia"
  ARM_utopian_socialism_DEF:0 "The State of Armenia"
  ARM_utopian_socialism_ADJ:0 "Armenian"
@@ -26,8 +26,8 @@
  ARM_popularism_DEF:0 "The State of Armenia"
  ARM_popularism_ADJ:0 "Armenian"
  
- ARM_radical_socialism_party:0 "FAR-Hunchaks"
- ARM_radical_socialism_party_long:0 "Federation of Armenian Revolutionaries(Hunchaks)"
+ ARM_scientific_socialism_party:0 "FAR-Hunchaks"
+ ARM_scientific_socialism_party_long:0 "Federation of Armenian Revolutionaries(Hunchaks)"
  ARM_utopian_socialism_party:0 "FAR-Dashnaks"
  ARM_utopian_socialism_party_long:0 "Federation of Armenian Revolutionaries(Dashnaks)"
  ARM_pastoralism_party:0 "FAR-Specificists"

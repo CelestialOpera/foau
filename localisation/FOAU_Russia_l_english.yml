@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- RUS_radical_socialism:0 "Russian Empire"
- RUS_radical_socialism_DEF:0 "The Russian Empire"
- RUS_radical_socialism_ADJ:0 "Russian"
+ RUS_scientific_socialism:0 "Russian Empire"
+ RUS_scientific_socialism_DEF:0 "The Russian Empire"
+ RUS_scientific_socialism_ADJ:0 "Russian"
  RUS_utopian_socialism:0 "Russian Empire"
  RUS_utopian_socialism_DEF:0 "The Russian Empire"
  RUS_utopian_socialism_ADJ:0 "Russian"

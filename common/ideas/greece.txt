@@ -186,7 +186,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism 
 					}
 				}
@@ -211,7 +211,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism 
 					}
 				}
@@ -236,7 +236,7 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism 
 					}
 				}
@@ -574,7 +574,7 @@ ideas = {
 				always = no
 			}
 
-			picture = gre_political_instability_radical_socialism
+			picture = gre_political_instability_scientific_socialism
 				
 			removal_cost = -1
 				
@@ -584,7 +584,7 @@ ideas = {
 			}
 		}
 
-		GRE_state_of_the_nation_radical_socialism = {
+		GRE_state_of_the_nation_scientific_socialism = {
 				
 			allowed = {
 				original_tag = GRE
@@ -594,7 +594,7 @@ ideas = {
 				always = no
 			}
 
-			picture = gre_political_instability_radical_socialism
+			picture = gre_political_instability_scientific_socialism
 				
 			removal_cost = -1
 				
@@ -1231,7 +1231,7 @@ ideas = {
 				original_tag = GRE
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism 
 						has_government = liberalism 
 					}
@@ -1265,7 +1265,7 @@ ideas = {
 				original_tag = GRE
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism 
 						has_government = liberalism 
 					}
@@ -1299,7 +1299,7 @@ ideas = {
 				original_tag = GRE
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism 
 						has_government = liberalism 
 					}
@@ -1332,7 +1332,7 @@ ideas = {
 				original_tag = GRE
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism 
 						has_government = liberalism 
 					}
@@ -1366,7 +1366,7 @@ ideas = {
 				original_tag = GRE
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = popularism 
 						has_government = liberalism 
 					}
@@ -1405,7 +1405,7 @@ ideas = {
 				}
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = liberalism 
 					}
 				}
@@ -1440,7 +1440,7 @@ ideas = {
 				}
 				NOT = {
 					OR = { 
-						has_government = radical_socialism
+						has_government = scientific_socialism
 						has_government = liberalism 
 					}
 				}
@@ -1521,7 +1521,7 @@ ideas = {
 			removal_cost = -1
 				
 			modifier = {			
-				radical_socialism_drift = 0.05
+				scientific_socialism_drift = 0.05
 				production_speed_industrial_complex_factor = 0.05		
 			}
 		}	
@@ -1541,7 +1541,7 @@ ideas = {
 			removal_cost = -1
 				
 			modifier = {			
-				radical_socialism_drift = 0.05
+				scientific_socialism_drift = 0.05
 				political_power_factor = 0.05
 				production_speed_industrial_complex_factor = 0.05		
 			}
@@ -1562,7 +1562,7 @@ ideas = {
 			removal_cost = -1
 				
 			modifier = {			
-				radical_socialism_drift = 0.05
+				scientific_socialism_drift = 0.05
 				war_support_factor = 0.1
 				production_speed_infrastructure_factor = 0.05
 				production_speed_industrial_complex_factor = 0.05		
@@ -1584,7 +1584,7 @@ ideas = {
 			removal_cost = -1
 				
 			modifier = {
-				radical_socialism_drift = 0.1
+				scientific_socialism_drift = 0.1
 				political_power_factor = 0.05
 				production_speed_infrastructure_factor = 0.1
 				production_speed_industrial_complex_factor = 0.1		
@@ -1625,7 +1625,7 @@ ideas = {
 			removal_cost = -1
 				
 			modifier = {		
-				radical_socialism_drift = 0.1	
+				scientific_socialism_drift = 0.1	
 				political_power_factor = 0.05
 				conscription = 0.02		
 			}
@@ -1646,7 +1646,7 @@ ideas = {
 			removal_cost = -1
 				
 			modifier = {	
-				radical_socialism_drift = 0.1	
+				scientific_socialism_drift = 0.1	
 				political_power_factor = 0.05
 				conscription = 0.02
 				army_morale_factor = 0.08		
@@ -1668,7 +1668,7 @@ ideas = {
 			removal_cost = -1
 				
 			modifier = {
-				radical_socialism_drift = 0.1
+				scientific_socialism_drift = 0.1
 				political_power_factor = 0.05
 				conscription = 0.03
 				army_org_factor = 0.04	
@@ -1725,12 +1725,12 @@ ideas = {
 				always = yes
 			}
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 				
 			removal_cost = -1
 				
 			modifier = {
-				radical_socialism_drift = 0.05
+				scientific_socialism_drift = 0.05
 			}
 		}
 
@@ -2020,7 +2020,7 @@ ideas = {
 			has_completed_focus = GRE_fiscal_responsibility
 			NOT = {
 				OR = { 
-					has_government = radical_socialism
+					has_government = scientific_socialism
 					has_country_leader = {
 						name = "Emmanouil Tsouderos"
 						ruling_only = yes
@@ -2106,7 +2106,7 @@ ideas = {
 		}
 
 		available = {
-			has_government = radical_socialism
+			has_government = scientific_socialism
 		}
 		
 		traits = { marxist_academic }

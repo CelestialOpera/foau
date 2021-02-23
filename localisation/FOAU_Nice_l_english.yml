@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- NIE_radical_socialism:0 "Commune of Nice"
- NIE_radical_socialism_DEF:0 "The Commune of Nice"
- NIE_radical_socialism_ADJ:0 "Niçois"
+ NIE_scientific_socialism:0 "Commune of Nice"
+ NIE_scientific_socialism_DEF:0 "The Commune of Nice"
+ NIE_scientific_socialism_ADJ:0 "Niçois"
  NIE_utopian_socialism:0 "Commune of Nice"
  NIE_utopian_socialism_DEF:0 "The Commune of Nice"
  NIE_utopian_socialism_ADJ:0 "Niçois"
@@ -26,8 +26,8 @@
  NIE_popularism_DEF:0 "The Commune of Nice"
  NIE_popularism_ADJ:0 "Niçois"
  
- NIE_radical_socialism_party:0 "Avant-gardistes"
- NIE_radical_socialism_party_long:0 "Parti Communal de Nice(Avant-gardistes) - Communal Party of Nice(Avant Gardists)"
+ NIE_scientific_socialism_party:0 "Avant-gardistes"
+ NIE_scientific_socialism_party_long:0 "Parti Communal de Nice(Avant-gardistes) - Communal Party of Nice(Avant Gardists)"
  NIE_utopian_socialism_party:0 "Démocrates"
  NIE_utopian_socialism_party_long:0 "Parti Communal de Nice(Democrats) - Communal Party of Nice(Democrats)"
  NIE_pastoralism_party:0 "Naturalistes"

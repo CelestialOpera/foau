@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- ALK_radical_socialism:0 "State of Alyeska"
- ALK_radical_socialism_DEF:0 "The State of Alyeska"
- ALK_radical_socialism_ADJ:0 "Alyeskan"
+ ALK_scientific_socialism:0 "State of Alyeska"
+ ALK_scientific_socialism_DEF:0 "The State of Alyeska"
+ ALK_scientific_socialism_ADJ:0 "Alyeskan"
  ALK_utopian_socialism:0 "State of Alyeska"
  ALK_utopian_socialism_DEF:0 "The State of Alyeska"
  ALK_utopian_socialism_ADJ:0 "Alyeskan"
@@ -26,9 +26,9 @@
  ALK_popularism_DEF:0 "The State of Alyeska"
  ALK_popularism_ADJ:0 "Alyeskan"
  
- ALK_RUS_OST_radical_socialism:0 "Russian Alyeska Krai-Territory"
- ALK_RUS_OST_radical_socialism_DEF:0 "The Russian Alyeska Krai-Territory"
- ALK_RUS_OST_radical_socialism_ADJ:0 "Alyeskan"
+ ALK_RUS_OST_scientific_socialism:0 "Russian Alyeska Krai-Territory"
+ ALK_RUS_OST_scientific_socialism_DEF:0 "The Russian Alyeska Krai-Territory"
+ ALK_RUS_OST_scientific_socialism_ADJ:0 "Alyeskan"
  ALK_RUS_OST_utopian_socialism:0 "Russian Alyeska Krai-Territory"
  ALK_RUS_OST_utopian_socialism_DEF:0 "The Russian Alyeska Krai-Territory"
  ALK_RUS_OST_utopian_socialism_ADJ:0 "Alyeskan"

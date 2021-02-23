@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- CAM_radical_socialism:0 "Kingdom of Kambudja"
- CAM_radical_socialism_DEF:0 "The Kingdom of Kambudja"
- CAM_radical_socialism_ADJ:0 "Kambudjian"
+ CAM_scientific_socialism:0 "Kingdom of Kambudja"
+ CAM_scientific_socialism_DEF:0 "The Kingdom of Kambudja"
+ CAM_scientific_socialism_ADJ:0 "Kambudjian"
  CAM_utopian_socialism:0 "Kingdom of Kambudja"
  CAM_utopian_socialism_DEF:0 "The Kingdom of Kambudja"
  CAM_utopian_socialism_ADJ:0 "Kambudjian"
@@ -26,9 +26,9 @@
  CAM_popularism_DEF:0 "The Kingdom of Kambudja"
  CAM_popularism_ADJ:0 "Kambudjian"
  
- CAM_KKT_radical_socialism:0 "Kampuki Krai-Territory"
- CAM_KKT_radical_socialism_DEF:0 "The Kampuki Krai-Territory"
- CAM_KKT_radical_socialism_ADJ:0 "Kampuki"
+ CAM_KKT_scientific_socialism:0 "Kampuki Krai-Territory"
+ CAM_KKT_scientific_socialism_DEF:0 "The Kampuki Krai-Territory"
+ CAM_KKT_scientific_socialism_ADJ:0 "Kampuki"
  CAM_KKT_utopian_socialism:0 "Kampuki Krai-Territory"
  CAM_KKT_utopian_socialism_DEF:0 "The Kampuki Krai-Territory"
  CAM_KKT_utopian_socialism_ADJ:0 "Kampuki"

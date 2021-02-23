@@ -123,7 +123,7 @@ set_politics = {
 }
 set_popularities = {
 	liberalism = 98
-	radical_socialism = 2
+	scientific_socialism = 2
 }
 
 create_country_leader = {
@@ -177,7 +177,7 @@ create_country_leader = {
 	desc = "POLITICS_CARLOS_CONTRERAS_LABARCA_DESC"
 	picture = "gfx/leaders/South America/Portrait_South_America_Generic_navy_1.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

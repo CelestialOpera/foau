@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- DJI_radical_socialism:0 "Republic of Djibouti"
- DJI_radical_socialism_DEF:0 "The Republic of Djibouti"
- DJI_radical_socialism_ADJ:0 "Djiboutian"
+ DJI_scientific_socialism:0 "Republic of Djibouti"
+ DJI_scientific_socialism_DEF:0 "The Republic of Djibouti"
+ DJI_scientific_socialism_ADJ:0 "Djiboutian"
  DJI_utopian_socialism:0 "Republic of Djibouti"
  DJI_utopian_socialism_DEF:0 "The Republic of Djibouti"
  DJI_utopian_socialism_ADJ:0 "Djiboutian"
@@ -26,9 +26,9 @@
  DJI_popularism_DEF:0 "The Republic of Djibouti"
  DJI_popularism_ADJ:0 "Djiboutian"
  
- DJI_RZKT_radical_socialism:0 "Zibuti-Somali Krai Territory"
- DJI_RZKT_radical_socialism_DEF:0 "The Zibuti-Somali Krai Territory"
- DJI_RZKT_radical_socialism_ADJ:0 "Zibitian-Somali"
+ DJI_RZKT_scientific_socialism:0 "Zibuti-Somali Krai Territory"
+ DJI_RZKT_scientific_socialism_DEF:0 "The Zibuti-Somali Krai Territory"
+ DJI_RZKT_scientific_socialism_ADJ:0 "Zibitian-Somali"
  DJI_RZKT_utopian_socialism:0 "Zibuti-Somali Krai Territory"
  DJI_RZKT_utopian_socialism_DEF:0 "The Zibuti-Somali Krai Territory"
  DJI_RZKT_utopian_socialism_ADJ:0 "Zibitian-Somali"

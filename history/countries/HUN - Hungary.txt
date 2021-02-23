@@ -176,7 +176,7 @@ create_country_leader = {
 	desc = "POLITICS_MATYAS_RAKOSKI_DESC"
 	picture = "Portrait_Hungary_Matyas_Rakoski.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}
@@ -222,7 +222,7 @@ create_country_leader = {
 	set_popularities = {
 		liberalism = 27
 		traditionalism = 70
-		radical_socialism = 3
+		scientific_socialism = 3
 	}
 }
 

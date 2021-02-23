@@ -147,7 +147,7 @@ set_politics = {
 	elections_allowed = no ##suspended through duration of war, which is handled via event
 }
 set_popularities = {
-	radical_socialism = 6
+	scientific_socialism = 6
 	utopian_socialism = 15
 	pastoralism = 9
 	liberalism = 19
@@ -162,7 +162,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIE_GALLACHER_DESC"
 	picture = "Willie_Gallacher.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 	}
 }

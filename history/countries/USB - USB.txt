@@ -135,7 +135,7 @@ set_politics = {
 }
 set_popularities = {
 	conservatism = 99
-	radical_socialism = 1
+	scientific_socialism = 1
 }
 
 add_ideas = {

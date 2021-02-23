@@ -150,7 +150,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 80
 	traditionalism = 10
-	radical_socialism = 10
+	scientific_socialism = 10
 }
 
 
@@ -182,7 +182,7 @@ create_country_leader = {
 #	desc = "POLITICS_WILHELM_PIECK_DESC"
 #	picture = "Portrait_Germany_Wilhelm_Pieck.dds"
 #	expire = "1965.1.1"
-#	ideology = radical_socialism_ideology
+#	ideology = scientific_socialism_ideology
 #	traits = {
 #	}
 #}
@@ -204,7 +204,7 @@ create_country_leader = {
 #	desc = "POLITICS_ERNST_THALMANN_DESC"
 #	picture = "Portrait_Germany_Adolf_Hitler.dds"
 #	expire = "1956.1.1"
-#	ideology = radical_socialism_ideology
+#	ideology = scientific_socialism_ideology
 #	traits = {
 #		assassination_survivor
 #		stalins_puppet

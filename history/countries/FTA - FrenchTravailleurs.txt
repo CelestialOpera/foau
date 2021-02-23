@@ -83,13 +83,13 @@ add_ideas = {
 set_convoys = 25
 
 set_politics = {
-	ruling_party = radical_socialism
+	ruling_party = scientific_socialism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 16
+	scientific_socialism = 16
 	utopian_socialism = 13
 	pastoralism = 11
 	liberalism = 9
@@ -104,7 +104,7 @@ create_country_leader = {
 	desc = "POLITICS_FELIX_GOUIN_DESC"
 	picture = "Felix_Gouin.dds"
 	expire = "1947.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		
 	}

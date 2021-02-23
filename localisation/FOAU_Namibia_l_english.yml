@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- NMB_radical_socialism:0 "Republic of Namibia"
- NMB_radical_socialism_DEF:0 "The Republic of Namibia"
- NMB_radical_socialism_ADJ:0 "Namibian"
+ NMB_scientific_socialism:0 "Republic of Namibia"
+ NMB_scientific_socialism_DEF:0 "The Republic of Namibia"
+ NMB_scientific_socialism_ADJ:0 "Namibian"
  NMB_utopian_socialism:0 "Republic of Namibia"
  NMB_utopian_socialism_DEF:0 "The Republic of Namibia"
  NMB_utopian_socialism_ADJ:0 "Namibian"
@@ -26,9 +26,9 @@
  NMB_popularism_DEF:0 "The Republic of Namibia"
  NMB_popularism_ADJ:0 "Namibian"
  
- NMB_GSAT_radical_socialism:0 "German Südafrika Territory"
- NMB_GSAT_radical_socialism_DEF:0 "The German Südafrika Territory"
- NMB_GSAT_radical_socialism_ADJ:0 "Südafrikan"
+ NMB_GSAT_scientific_socialism:0 "German Südafrika Territory"
+ NMB_GSAT_scientific_socialism_DEF:0 "The German Südafrika Territory"
+ NMB_GSAT_scientific_socialism_ADJ:0 "Südafrikan"
  NMB_GSAT_utopian_socialism:0 "German Südafrika Territory"
  NMB_GSAT_utopian_socialism_DEF:0 "The German Südafrika Territory"
  NMB_GSAT_utopian_socialism_ADJ:0 "Südafrikan"

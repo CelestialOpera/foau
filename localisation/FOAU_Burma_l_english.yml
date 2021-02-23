@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- BRM_radical_socialism:0 "Kingdom of Burma"
- BRM_radical_socialism_DEF:0 "The Kingdom of Burma"
- BRM_radical_socialism_ADJ:0 "Burmese"
+ BRM_scientific_socialism:0 "Kingdom of Burma"
+ BRM_scientific_socialism_DEF:0 "The Kingdom of Burma"
+ BRM_scientific_socialism_ADJ:0 "Burmese"
  BRM_utopian_socialism:0 "Kingdom of Burma"
  BRM_utopian_socialism_DEF:0 "The Kingdom of Burma"
  BRM_utopian_socialism_ADJ:0 "Burmese"
@@ -26,9 +26,9 @@
  BRM_popularism_DEF:0 "The Kingdom of Burma"
  BRM_popularism_ADJ:0 "Burmese"
  
- BRM_BEIC_radical_socialism:0 "British East India Company"
- BRM_BEIC_radical_socialism_DEF:0 "The British East India Company"
- BRM_BEIC_radical_socialism_ADJ:0 "British-East Indian"
+ BRM_BEIC_scientific_socialism:0 "British East India Company"
+ BRM_BEIC_scientific_socialism_DEF:0 "The British East India Company"
+ BRM_BEIC_scientific_socialism_ADJ:0 "British-East Indian"
  BRM_BEIC_utopian_socialism:0 "British East India Company"
  BRM_BEIC_utopian_socialism_DEF:0 "The British East India Company"
  BRM_BEIC_utopian_socialism_ADJ:0 "British-East Indian"

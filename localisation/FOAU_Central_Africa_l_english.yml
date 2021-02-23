@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- CAR_radical_socialism:0 "United States of Central Africa"
- CAR_radical_socialism_DEF:0 "The United States of Central Africa"
- CAR_radical_socialism_ADJ:0 "Central African"
+ CAR_scientific_socialism:0 "United States of Central Africa"
+ CAR_scientific_socialism_DEF:0 "The United States of Central Africa"
+ CAR_scientific_socialism_ADJ:0 "Central African"
  CAR_utopian_socialism:0 "United States of Central Africa"
  CAR_utopian_socialism_DEF:0 "The United States of Central Africa"
  CAR_utopian_socialism_ADJ:0 "Central African"
@@ -26,9 +26,9 @@
  CAR_popularism_DEF:0 "The United States of Central Africa"
  CAR_popularism_ADJ:0 "Central African"
  
- CAR_CAITZ_radical_socialism:0 "Central African International Trade Zone"
- CAR_CAITZ_radical_socialism_DEF:0 "The Central African International Trade Zone"
- CAR_CAITZ_radical_socialism_ADJ:0 "Central African"
+ CAR_CAITZ_scientific_socialism:0 "Central African International Trade Zone"
+ CAR_CAITZ_scientific_socialism_DEF:0 "The Central African International Trade Zone"
+ CAR_CAITZ_scientific_socialism_ADJ:0 "Central African"
  CAR_CAITZ_utopian_socialism:0 "Central African International Trade Zone"
  CAR_CAITZ_utopian_socialism_DEF:0 "The Central African International Trade Zone"
  CAR_CAITZ_utopian_socialism_ADJ:0 "Central African"

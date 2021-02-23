@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- CUL_radical_socialism:0 "Federation of Columbia"
- CUL_radical_socialism_DEF:0 "The Federation of Columbia"
- CUL_radical_socialism_ADJ:0 "Columbian"
+ CUL_scientific_socialism:0 "Federation of Columbia"
+ CUL_scientific_socialism_DEF:0 "The Federation of Columbia"
+ CUL_scientific_socialism_ADJ:0 "Columbian"
  CUL_utopian_socialism:0 "Federation of Columbia"
  CUL_utopian_socialism_DEF:0 "The Federation of Columbia"
  CUL_utopian_socialism_ADJ:0 "Columbian"
@@ -27,8 +27,8 @@
  CUL_popularism_ADJ:0 "Columbian"
  
  
- CUL_radical_socialism_party:0 "NPC"
- CUL_radical_socialism_party_long:0 "Nationalist Party of Columbia"
+ CUL_scientific_socialism_party:0 "NPC"
+ CUL_scientific_socialism_party_long:0 "Nationalist Party of Columbia"
  CUL_utopian_socialism_party:0 "SoL"
  CUL_utopian_socialism_party_long:0 "League of The Sons of Liberty"
  CUL_pastoralism_party:0 "Free Farmers"

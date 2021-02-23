@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- AST_radical_socialism:0 "Federation of Australian States"
- AST_radical_socialism_DEF:0 "The Federation of Australian States"
- AST_radical_socialism_ADJ:0 "Australian"
+ AST_scientific_socialism:0 "Federation of Australian States"
+ AST_scientific_socialism_DEF:0 "The Federation of Australian States"
+ AST_scientific_socialism_ADJ:0 "Australian"
  AST_utopian_socialism:0 "Federation of Australian States"
  AST_utopian_socialism_DEF:0 "The Federation of Australian States"
  AST_utopian_socialism_ADJ:0 "Australian"
@@ -26,9 +26,9 @@
  AST_popularism_DEF:0 "The Federation of Australian States"
  AST_popularism_ADJ:0 "Australian"
  
- AST_AT_radical_socialism:0 "Territory of Australia"
- AST_AT_radical_socialism_DEF:0 "The Territory of Australia"
- AST_AT_radical_socialism_ADJ:0 "Australian"
+ AST_AT_scientific_socialism:0 "Territory of Australia"
+ AST_AT_scientific_socialism_DEF:0 "The Territory of Australia"
+ AST_AT_scientific_socialism_ADJ:0 "Australian"
  AST_AT_utopian_socialism:0 "Territory of Australia"
  AST_AT_utopian_socialism_DEF:0 "The Territory of Australia"
  AST_AT_utopian_socialism_ADJ:0 "Australian"

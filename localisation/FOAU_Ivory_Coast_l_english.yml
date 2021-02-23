@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- IVO_radical_socialism:0 "Republic of The Ivory Coast"
- IVO_radical_socialism_DEF:0 "The Republic of The Ivory Coast"
- IVO_radical_socialism_ADJ:0 "Ivorian"
+ IVO_scientific_socialism:0 "Republic of The Ivory Coast"
+ IVO_scientific_socialism_DEF:0 "The Republic of The Ivory Coast"
+ IVO_scientific_socialism_ADJ:0 "Ivorian"
  IVO_utopian_socialism:0 "Republic of The Ivory Coast"
  IVO_utopian_socialism_DEF:0 "The Republic of The Ivory Coast"
  IVO_utopian_socialism_ADJ:0 "Ivorian"
@@ -26,9 +26,9 @@
  IVO_popularism_DEF:0 "The Republic of The Ivory Coast"
  IVO_popularism_ADJ:0 "Ivorian"
  
- IVO_DWAG_radical_socialism:0 "Dutch West Africa Government"
- IVO_DWAG_radical_socialism_DEF:0 "The Dutch West Africa Government"
- IVO_DWAG_radical_socialism_ADJ:0 "Dutch-West African"
+ IVO_DWAG_scientific_socialism:0 "Dutch West Africa Government"
+ IVO_DWAG_scientific_socialism_DEF:0 "The Dutch West Africa Government"
+ IVO_DWAG_scientific_socialism_ADJ:0 "Dutch-West African"
  IVO_DWAG_utopian_socialism:0 "Dutch West Africa Government"
  IVO_DWAG_utopian_socialism_DEF:0 "The Dutch West Africa Government"
  IVO_DWAG_utopian_socialism_ADJ:0 "Dutch-West African"

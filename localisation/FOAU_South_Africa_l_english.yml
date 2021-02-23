@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- SAF_radical_socialism:0 "Union of South Africa"
- SAF_radical_socialism_DEF:0 "The Union of South Africa"
- SAF_radical_socialism_ADJ:0 "South African"
+ SAF_scientific_socialism:0 "Union of South Africa"
+ SAF_scientific_socialism_DEF:0 "The Union of South Africa"
+ SAF_scientific_socialism_ADJ:0 "South African"
  SAF_utopian_socialism:0 "Union of South Africa"
  SAF_utopian_socialism_DEF:0 "The Union of South Africa"
  SAF_utopian_socialism_ADJ:0 "South African"
@@ -26,9 +26,9 @@
  SAF_popularism_DEF:0 "The Union of South Africa"
  SAF_popularism_ADJ:0 "South African"
  
- SAF_VOSA_radical_socialism:0 "Viceroyalty of South Africa"
- SAF_VOSA_radical_socialism_DEF:0 "The Viceroyalty of South Africa"
- SAF_VOSA_radical_socialism_ADJ:0 "South African"
+ SAF_VOSA_scientific_socialism:0 "Viceroyalty of South Africa"
+ SAF_VOSA_scientific_socialism_DEF:0 "The Viceroyalty of South Africa"
+ SAF_VOSA_scientific_socialism_ADJ:0 "South African"
  SAF_VOSA_utopian_socialism:0 "Viceroyalty of South Africa"
  SAF_VOSA_utopian_socialism_DEF:0 "The Viceroyalty of South Africa"
  SAF_VOSA_utopian_socialism_ADJ:0 "South African"

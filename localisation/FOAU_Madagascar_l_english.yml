@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- MAD_radical_socialism:0 "Tribal Union of Madagascar"
- MAD_radical_socialism_DEF:0 "The Tribal Union of Madagascar"
- MAD_radical_socialism_ADJ:0 "Malagasy"
+ MAD_scientific_socialism:0 "Tribal Union of Madagascar"
+ MAD_scientific_socialism_DEF:0 "The Tribal Union of Madagascar"
+ MAD_scientific_socialism_ADJ:0 "Malagasy"
  MAD_utopian_socialism:0 "Tribal Union of Madagascar"
  MAD_utopian_socialism_DEF:0 "The Tribal Union of Madagascar"
  MAD_utopian_socialism_ADJ:0 "Malagasy"
@@ -26,9 +26,9 @@
  MAD_popularism_DEF:0 "The Tribal Union of Madagascar"
  MAD_popularism_ADJ:0 "Malagasy"
  
- MAD_DMT_radical_socialism:0 "Dutch Madagascar Territory"
- MAD_DMT_radical_socialism_DEF:0 "The Dutch Madagascar Territory"
- MAD_DMT_radical_socialism_ADJ:0 "Dutch-Malagasy"
+ MAD_DMT_scientific_socialism:0 "Dutch Madagascar Territory"
+ MAD_DMT_scientific_socialism_DEF:0 "The Dutch Madagascar Territory"
+ MAD_DMT_scientific_socialism_ADJ:0 "Dutch-Malagasy"
  MAD_DMT_utopian_socialism:0 "Dutch Madagascar Territory"
  MAD_DMT_utopian_socialism_DEF:0 "The Dutch Madagascar Territory"
  MAD_DMT_utopian_socialism_ADJ:0 "Dutch-Malagasy"

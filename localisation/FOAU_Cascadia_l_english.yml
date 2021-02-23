@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- CAS_radical_socialism:0 "Republic of Cascadia"
- CAS_radical_socialism_DEF:0 "The Republic of Cascadia"
- CAS_radical_socialism_ADJ:0 "Cascadian"
+ CAS_scientific_socialism:0 "Republic of Cascadia"
+ CAS_scientific_socialism_DEF:0 "The Republic of Cascadia"
+ CAS_scientific_socialism_ADJ:0 "Cascadian"
  CAS_utopian_socialism:0 "Republic of Cascadia"
  CAS_utopian_socialism_DEF:0 "The Republic of Cascadia"
  CAS_utopian_socialism_ADJ:0 "Cascadian"
@@ -26,9 +26,9 @@
  CAS_popularism_DEF:0 "The Republic of Cascadia"
  CAS_popularism_ADJ:0 "Cascadian"
  
- CAS_british_dom_radical_socialism:0 "Territory of Cascadia"
- CAS_british_dom_radical_socialism_DEF:0 "The Territory of Cascadia"
- CAS_british_dom_radical_socialism_ADJ:0 "Cascadian"
+ CAS_british_dom_scientific_socialism:0 "Territory of Cascadia"
+ CAS_british_dom_scientific_socialism_DEF:0 "The Territory of Cascadia"
+ CAS_british_dom_scientific_socialism_ADJ:0 "Cascadian"
  CAS_british_dom_utopian_socialism:0 "Territory of Cascadia"
  CAS_british_dom_utopian_socialism_DEF:0 "The Territory of Cascadia"
  CAS_british_dom_utopian_socialism_ADJ:0 "Cascadian"
@@ -51,8 +51,8 @@
  CAS_british_dom_popularism_DEF:0 "The Territory of Cascadia"
  CAS_british_dom_popularism_ADJ:0 "Cascadian"
  
- CAS_radical_socialism_party:0 "Socialists"
- CAS_radical_socialism_party_long:0 "Socialist Party of Cascadia"
+ CAS_scientific_socialism_party:0 "Socialists"
+ CAS_scientific_socialism_party_long:0 "Socialist Party of Cascadia"
  CAS_utopian_socialism_party:0 "Unionists"
  CAS_utopian_socialism_party_long:0 "Unionist People's Party of Cascadia"
  CAS_pastoralism_party:0 "Fifas"

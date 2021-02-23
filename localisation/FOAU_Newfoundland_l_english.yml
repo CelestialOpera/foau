@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- NFL_radical_socialism:0 "State of Newfoundland"
- NFL_radical_socialism_DEF:0 "The State of Newfoundland"
- NFL_radical_socialism_ADJ:0 "Newfoundlander"
+ NFL_scientific_socialism:0 "State of Newfoundland"
+ NFL_scientific_socialism_DEF:0 "The State of Newfoundland"
+ NFL_scientific_socialism_ADJ:0 "Newfoundlander"
  NFL_utopian_socialism:0 "State of Newfoundland"
  NFL_utopian_socialism_DEF:0 "The State of Newfoundland"
  NFL_utopian_socialism_ADJ:0 "Newfoundlander"
@@ -26,9 +26,9 @@
  NFL_popularism_DEF:0 "The State of Newfoundland"
  NFL_popularism_ADJ:0 "Newfoundlander"
  
- NFL_PNFL_radical_socialism:0 "Province of Newfoundland"
- NFL_PNFL_radical_socialism_DEF:0 "The Province of Newfoundland"
- NFL_PNFL_radical_socialism_ADJ:0 "Newfoundlander"
+ NFL_PNFL_scientific_socialism:0 "Province of Newfoundland"
+ NFL_PNFL_scientific_socialism_DEF:0 "The Province of Newfoundland"
+ NFL_PNFL_scientific_socialism_ADJ:0 "Newfoundlander"
  NFL_PNFL_utopian_socialism:0 "Province of Newfoundland"
  NFL_PNFL_utopian_socialism_DEF:0 "The Province of Newfoundland"
  NFL_PNFL_utopian_socialism_ADJ:0 "Newfoundlander"

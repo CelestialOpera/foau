@@ -102,13 +102,13 @@ add_ideas = {
 set_convoys = 800
 
 set_politics = {
-	ruling_party = radical_socialism
+	ruling_party = scientific_socialism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 34
+	scientific_socialism = 34
 	utopian_socialism = 33
 	pastoralism = 33
 	liberalism = 0
@@ -123,7 +123,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIE_GALLACHER_DESC"
 	picture = "Willie_Gallacher.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 	}
 }

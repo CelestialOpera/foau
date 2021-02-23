@@ -120,7 +120,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 10
 	traditionalism = 10
-	radical_socialism = 1
+	scientific_socialism = 1
 	conservatism = 79
 }
 
@@ -148,7 +148,7 @@ create_country_leader = {
 	desc = "POLITICS_AIMO_AALTONEN_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

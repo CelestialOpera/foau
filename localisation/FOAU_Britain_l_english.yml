@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- ENG_radical_socialism:0 "United Kingdom"
- ENG_radical_socialism_DEF:0 "The United Kingdom"
- ENG_radical_socialism_ADJ:0 "British"
+ ENG_scientific_socialism:0 "United Kingdom"
+ ENG_scientific_socialism_DEF:0 "The United Kingdom"
+ ENG_scientific_socialism_ADJ:0 "British"
  ENG_utopian_socialism:0 "United Kingdom"
  ENG_utopian_socialism_DEF:0 "The United Kingdom"
  ENG_utopian_socialism_ADJ:0 "British"
@@ -26,9 +26,9 @@
  ENG_popularism_DEF:0 "The United Kingdom"
  ENG_popularism_ADJ:0 "British"
  
- ENG_london_emergency_government_radical_socialism:0 "Emergency London Government"
- ENG_london_emergency_government_radical_socialism_DEF:0 "The Emergency London Government"
- ENG_london_emergency_government_radical_socialism_ADJ:0 "Londoner"
+ ENG_london_emergency_government_scientific_socialism:0 "Emergency London Government"
+ ENG_london_emergency_government_scientific_socialism_DEF:0 "The Emergency London Government"
+ ENG_london_emergency_government_scientific_socialism_ADJ:0 "Londoner"
  ENG_london_emergency_government_utopian_socialism:0 "Emergency London Government"
  ENG_london_emergency_government_utopian_socialism_DEF:0 "The Emergency London Government"
  ENG_london_emergency_government_utopian_socialism_ADJ:0 "Londoner"
@@ -51,8 +51,8 @@
  ENG_london_emergency_government_popularism_DEF:0 "The Emergency London Government"
  ENG_london_emergency_government_popularism_ADJ:0 "Londoner"
  
- ENG_radical_socialism_party:0 "WUM"
- ENG_radical_socialism_party_long:0 "Workers Unionist Movement"
+ ENG_scientific_socialism_party:0 "WUM"
+ ENG_scientific_socialism_party_long:0 "Workers Unionist Movement"
  ENG_utopian_socialism_party:0 "Pacifists"
  ENG_utopian_socialism_party_long:0 "Pacifist Party"
  ENG_pastoralism_party:0 "Foxies" #GFBSPB

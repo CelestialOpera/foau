@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- GAM_radical_socialism:0 "State of The Gambia"
- GAM_radical_socialism_DEF:0 "The State of The Gambia"
- GAM_radical_socialism_ADJ:0 "Gambian"
+ GAM_scientific_socialism:0 "State of The Gambia"
+ GAM_scientific_socialism_DEF:0 "The State of The Gambia"
+ GAM_scientific_socialism_ADJ:0 "Gambian"
  GAM_utopian_socialism:0 "State of The Gambia"
  GAM_utopian_socialism_DEF:0 "The State of The Gambia"
  GAM_utopian_socialism_ADJ:0 "Gambian"
@@ -26,9 +26,9 @@
  GAM_popularism_DEF:0 "The State of The Gambia"
  GAM_popularism_ADJ:0 "Gambian"
  
- GAM_GR_radical_socialism:0 "Crown Colony of The Gambia"
- GAM_GR_radical_socialism_DEF:0 "The Crown Colony of The Gambia"
- GAM_GR_radical_socialism_ADJ:0 "Gambian"
+ GAM_GR_scientific_socialism:0 "Crown Colony of The Gambia"
+ GAM_GR_scientific_socialism_DEF:0 "The Crown Colony of The Gambia"
+ GAM_GR_scientific_socialism_ADJ:0 "Gambian"
  GAM_GR_utopian_socialism:0 "Crown Colony of The Gambia"
  GAM_GR_utopian_socialism_DEF:0 "The Crown Colony of The Gambia"
  GAM_GR_utopian_socialism_ADJ:0 "Gambian"

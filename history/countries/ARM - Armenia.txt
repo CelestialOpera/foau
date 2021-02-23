@@ -63,7 +63,7 @@ if = {
 
 set_popularities = {	traditionalism = 34
 	liberalism = 30
-	radical_socialism = 36
+	scientific_socialism = 36
 }
 
 create_country_leader = {
@@ -93,7 +93,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 	expire = "1953.3.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		
 	}

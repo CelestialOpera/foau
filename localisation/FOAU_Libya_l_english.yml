@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- LBA_radical_socialism:0 "United Libyan States"
- LBA_radical_socialism_DEF:0 "The United Libyan States"
- LBA_radical_socialism_ADJ:0 "Libyan"
+ LBA_scientific_socialism:0 "United Libyan States"
+ LBA_scientific_socialism_DEF:0 "The United Libyan States"
+ LBA_scientific_socialism_ADJ:0 "Libyan"
  LBA_utopian_socialism:0 "United Libyan States"
  LBA_utopian_socialism_DEF:0 "The United Libyan States"
  LBA_utopian_socialism_ADJ:0 "Libyan"
@@ -26,9 +26,9 @@
  LBA_popularism_DEF:0 "The United Libyan States"
  LBA_popularism_ADJ:0 "Libyan"
  
- LBA_LKO_radical_socialism:0 "Tripolitanian Koruyucusu"
- LBA_LKO_radical_socialism_DEF:0 "The Tripolitanian Koruyucusu"
- LBA_LKO_radical_socialism_ADJ:0 "Tripolitanian"
+ LBA_LKO_scientific_socialism:0 "Tripolitanian Koruyucusu"
+ LBA_LKO_scientific_socialism_DEF:0 "The Tripolitanian Koruyucusu"
+ LBA_LKO_scientific_socialism_ADJ:0 "Tripolitanian"
  LBA_LKO_utopian_socialism:0 "Tripolitanian Koruyucusu"
  LBA_LKO_utopian_socialism_DEF:0 "The Tripolitanian Koruyucusu"
  LBA_LKO_utopian_socialism_ADJ:0 "Tripolitanian"

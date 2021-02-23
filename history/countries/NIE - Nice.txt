@@ -80,13 +80,13 @@ if = {
 set_convoys = 500
 
 set_politics = {
-	ruling_party = radical_socialism
+	ruling_party = scientific_socialism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	radical_socialism = 36
+	scientific_socialism = 36
 	utopian_socialism = 19
 	pastoralism = 4
 	liberalism = 1
@@ -101,7 +101,7 @@ create_country_leader = {
 	desc = "POLITICS_FELIX_FENEON_DESC"
 	picture = "Felix_Feneon.dds"
 	expire = "1947.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		
 	}

@@ -12,7 +12,7 @@ ideas = {
 
 			allowed_civil_war = {
 				NOT ={
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 				NOT = {
 					any_other_country = {
@@ -1002,20 +1002,20 @@ ideas = {
 
 		HOL_legacy_of_the_de_zeven_provincien_mutiny = {
 
-			picture = generic_radical_socialism_drift_bonus
+			picture = generic_scientific_socialism_drift_bonus
 
 			allowed = {
 				always = no
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
 
 			modifier = {
-				radical_socialism_drift = 0.1
+				scientific_socialism_drift = 0.1
 			}
 		}
 
@@ -1028,7 +1028,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -1047,7 +1047,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -1066,7 +1066,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -1085,7 +1085,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -1095,7 +1095,7 @@ ideas = {
 			}
 		}
 
-		HOL_bastion_of_true_radical_socialism = {
+		HOL_bastion_of_true_scientific_socialism = {
 
 			picture = generic_wall_line
 
@@ -1104,7 +1104,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -1124,7 +1124,7 @@ ideas = {
 			}
 
 			allowed_civil_war = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 
 			removal_cost = -1
@@ -1229,7 +1229,7 @@ ideas = {
 
 			modifier = {
 				popularism_drift = -0.02
-				radical_socialism_drift = -0.02
+				scientific_socialism_drift = -0.02
 				liberalism_drift = 0.05
 				stability_weekly = 0.001
 			}
@@ -1332,7 +1332,7 @@ ideas = {
 
 			modifier = {
 				popularism_drift = -0.02
-				radical_socialism_drift = -0.02
+				scientific_socialism_drift = -0.02
 			}
 		}
 
@@ -2070,7 +2070,7 @@ ideas = {
 			}
 
 			available = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 			}
 			
 			traits = { council_communist }
@@ -2125,7 +2125,7 @@ ideas = {
 			}
 
 			available = {
-				has_government = radical_socialism
+				has_government = scientific_socialism
 				has_completed_focus = HOL_decolonization
 			}
 			

@@ -136,7 +136,7 @@ ideas = {
 			modifier = {
 				liberalism_drift = 0.02
 				popularism_drift = -0.01
-				radical_socialism_drift = -0.01
+				scientific_socialism_drift = -0.01
 				stability_factor = 0.1
 			}
 		}
@@ -211,13 +211,13 @@ ideas = {
 			}
 		}
 
-		HUN_interventionism_radical_socialism = {
+		HUN_interventionism_scientific_socialism = {
 
 			picture = FRA_scw_intervention_nationalists_focus
 
 			modifier = {
 				consumer_goods_factor = -0.05
-				radical_socialism_drift = 0.02
+				scientific_socialism_drift = 0.02
 			}
 		}
 

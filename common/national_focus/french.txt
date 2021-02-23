@@ -316,7 +316,7 @@
 	
 	focus = {
 		id = FRA_recovery_speech
-		#icon = 
+		icon = GFX_focus_Recovery_Speech
 		x = 0
 		y = 1
 		relative_position_id = FRA_unkillable
@@ -428,7 +428,7 @@
 	
 	focus = {
 		id = FRA_integrate_armee_protectrice 
-		#icon = 
+		icon = GFX_focus_Integrate_Armee_Protectrice
 		x = 2
 		y = 3
 		relative_position_id = FRA_unkillable
@@ -456,7 +456,7 @@
 	
 	focus = {
 		id = FRA_corporate_cabinet
-		#icon = 
+		icon = GFX_focus_corporate_cabinet
 		x = -2
 		y = 4
 		relative_position_id = FRA_unkillable
@@ -495,7 +495,7 @@
 	
 	focus = {
 		id = FRA_military_cabinet
-		#icon = 
+		icon = GFX_focus_military_cabinet
 		x = 2
 		y = 4
 		relative_position_id = FRA_unkillable
@@ -534,7 +534,7 @@
 	
 	focus = {
 		id = FRA_protest_over_the_cabinet
-		#icon = 
+		icon = GFX_focus_cabinet_protest
 		x = 0
 		y = 5
 		relative_position_id = FRA_unkillable

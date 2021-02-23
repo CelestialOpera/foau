@@ -70,7 +70,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 92
 	traditionalism = 3
-	radical_socialism = 5
+	scientific_socialism = 5
 }
 
 1939.1.1 = {

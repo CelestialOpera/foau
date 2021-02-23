@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- TZN_radical_socialism:0 "Tanzanian Republic"
- TZN_radical_socialism_DEF:0 "The Tanzanian Republic"
- TZN_radical_socialism_ADJ:0 "Tanzanian"
+ TZN_scientific_socialism:0 "Tanzanian Republic"
+ TZN_scientific_socialism_DEF:0 "The Tanzanian Republic"
+ TZN_scientific_socialism_ADJ:0 "Tanzanian"
  TZN_utopian_socialism:0 "Tanzanian Republic"
  TZN_utopian_socialism_DEF:0 "The Tanzanian Republic"
  TZN_utopian_socialism_ADJ:0 "Tanzanian"
@@ -26,9 +26,9 @@
  TZN_popularism_DEF:0 "The Tanzanian Republic"
  TZN_popularism_ADJ:0 "Tanzanian"
  
- TZN_UEAS_radical_socialism:0 "United East African States"
- TZN_UEAS_radical_socialism_DEF:0 "The United East African States"
- TZN_UEAS_radical_socialism_ADJ:0 "East African"
+ TZN_UEAS_scientific_socialism:0 "United East African States"
+ TZN_UEAS_scientific_socialism_DEF:0 "The United East African States"
+ TZN_UEAS_scientific_socialism_ADJ:0 "East African"
  TZN_UEAS_utopian_socialism:0 "United East African States"
  TZN_UEAS_utopian_socialism_DEF:0 "The United East African States"
  TZN_UEAS_utopian_socialism_ADJ:0 "East African"

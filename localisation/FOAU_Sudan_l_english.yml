@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- SUD_radical_socialism:0 "Republic of The Sudan"
- SUD_radical_socialism_DEF:0 "The Republic of The Sudan"
- SUD_radical_socialism_ADJ:0 "Sudanese"
+ SUD_scientific_socialism:0 "Republic of The Sudan"
+ SUD_scientific_socialism_DEF:0 "The Republic of The Sudan"
+ SUD_scientific_socialism_ADJ:0 "Sudanese"
  SUD_utopian_socialism:0 "Republic of The Sudan"
  SUD_utopian_socialism_DEF:0 "The Republic of The Sudan"
  SUD_utopian_socialism_ADJ:0 "Sudanese"
@@ -26,9 +26,9 @@
  SUD_popularism_DEF:0 "The Republic of The Sudan"
  SUD_popularism_ADJ:0 "Sudanese"
  
- SUD_SUDCC_radical_socialism:0 "Crown Colony of The Sudan"
- SUD_SUDCC_radical_socialism_DEF:0 "The Crown Colony of The Sudan"
- SUD_SUDCC_radical_socialism_ADJ:0 "Sudanese"
+ SUD_SUDCC_scientific_socialism:0 "Crown Colony of The Sudan"
+ SUD_SUDCC_scientific_socialism_DEF:0 "The Crown Colony of The Sudan"
+ SUD_SUDCC_scientific_socialism_ADJ:0 "Sudanese"
  SUD_SUDCC_utopian_socialism:0 "Crown Colony of The Sudan"
  SUD_SUDCC_utopian_socialism_DEF:0 "The Crown Colony of The Sudan"
  SUD_SUDCC_utopian_socialism_ADJ:0 "Sudanese"

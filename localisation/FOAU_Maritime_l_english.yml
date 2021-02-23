@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- MAR_radical_socialism:0 "Maritime Union"
- MAR_radical_socialism_DEF:0 "The Maritime Union"
- MAR_radical_socialism_ADJ:0 "Maritime"
+ MAR_scientific_socialism:0 "Maritime Union"
+ MAR_scientific_socialism_DEF:0 "The Maritime Union"
+ MAR_scientific_socialism_ADJ:0 "Maritime"
  MAR_utopian_socialism:0 "Maritime Union"
  MAR_utopian_socialism_DEF:0 "The Maritime Union"
  MAR_utopian_socialism_ADJ:0 "Maritime"
@@ -26,9 +26,9 @@
  MAR_popularism_DEF:0 "The Maritime Union"
  MAR_popularism_ADJ:0 "Maritime"
  
- MAR_UPM_radical_socialism:0 "United Provinces of The Maritimes"
- MAR_UPM_radical_socialism_DEF:0 "The United Provinces of The Maritimes"
- MAR_UPM_radical_socialism_ADJ:0 "Maritime"
+ MAR_UPM_scientific_socialism:0 "United Provinces of The Maritimes"
+ MAR_UPM_scientific_socialism_DEF:0 "The United Provinces of The Maritimes"
+ MAR_UPM_scientific_socialism_ADJ:0 "Maritime"
  MAR_UPM_utopian_socialism:0 "United Provinces of The Maritimes"
  MAR_UPM_utopian_socialism_DEF:0 "The United Provinces of The Maritimes"
  MAR_UPM_utopian_socialism_ADJ:0 "Maritime"

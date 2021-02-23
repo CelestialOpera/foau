@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Country Name
- SCO_radical_socialism:0 "Kingdom of Scotland"
- SCO_radical_socialism_DEF:0 "The Kingdom of Scotland"
- SCO_radical_socialism_ADJ:0 "Scottish"
+ SCO_scientific_socialism:0 "Kingdom of Scotland"
+ SCO_scientific_socialism_DEF:0 "The Kingdom of Scotland"
+ SCO_scientific_socialism_ADJ:0 "Scottish"
  SCO_utopian_socialism:0 "Kingdom of Scotland"
  SCO_utopian_socialism_DEF:0 "The Kingdom of Scotland"
  SCO_utopian_socialism_ADJ:0 "Scottish"
@@ -26,9 +26,9 @@
  SCO_popularism_DEF:0 "The Kingdom of Scotland"
  SCO_popularism_ADJ:0 "Scottish"
  
- SCO_british_liberal_gov_radical_socialism:0 "Liberal Government"
- SCO_british_liberal_gov_radical_socialism_DEF:0 "The Liberal Government"
- SCO_british_liberal_gov_radical_socialism_ADJ:0 "British-Liberal"
+ SCO_british_liberal_gov_scientific_socialism:0 "Liberal Government"
+ SCO_british_liberal_gov_scientific_socialism_DEF:0 "The Liberal Government"
+ SCO_british_liberal_gov_scientific_socialism_ADJ:0 "British-Liberal"
  SCO_british_liberal_gov_utopian_socialism:0 "Liberal Government"
  SCO_british_liberal_gov_utopian_socialism_DEF:0 "The Liberal Government"
  SCO_british_liberal_gov_utopian_socialism_ADJ:0 "British-Liberal"

@@ -67,7 +67,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 25
 	traditionalism = 20
-	radical_socialism = 5
+	scientific_socialism = 5
 	conservatism = 50
 }
 
@@ -105,7 +105,7 @@ create_country_leader = {
 	name = "Fu'ad Nassar"
 	desc = ""
 	picture = "gfx/leaders/JOR/Portrait_Arabia_Generic_navy_2.dds"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}

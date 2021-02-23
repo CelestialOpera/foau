@@ -36,7 +36,7 @@ ideas = {
 
 			do_effect = {
 				NOT = {
-					has_government = radical_socialism
+					has_government = scientific_socialism
 				}
 			}
 			

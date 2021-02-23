@@ -77,7 +77,7 @@ set_politics = {
 set_popularities = {
 	liberalism = 30
 	traditionalism = 15
-	radical_socialism = 15
+	scientific_socialism = 15
 	conservatism = 40
 }
 
@@ -106,7 +106,7 @@ create_country_leader = {
 	desc = "POLITICS_ANTANAS_SNIECKUS_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialism_ideology
+	ideology = scientific_socialism_ideology
 	traits = {
 		#
 	}
